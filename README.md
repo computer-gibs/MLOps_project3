@@ -8,4 +8,4 @@
 
 # Стек
 * [Датасет: CO2 Emissions](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
-* [Инфраструктура: Windows 10 + WSL (Ubuntu)(https://ubuntu.com/wsl)]
+* [Инфраструктура: Windows 10 + WSL (Ubuntu)](https://ubuntu.com/wsl)
