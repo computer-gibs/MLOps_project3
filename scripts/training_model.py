@@ -20,7 +20,7 @@ def train_model(X_train_path, y_train_path, model_save_path):
         remainder='passthrough')
     
     pipeline = Pipeline(steps=[('preprocessor', preprocessor),
-                               ('model', RandomForestRegressor(n_estimators=100, random_state=42))])
+                               ('model', RandomForestRegressor(n_estimators=10000, random_state=42))])
     
     pipeline.fit(X_train, y_train.values.ravel())
     
