@@ -9,9 +9,9 @@ def train_model(X_train_path, y_train_path, model_save_path):
     X_train = pd.read_csv(X_train_path)
     y_train = pd.read_csv(y_train_path)
     
-    # категориальные признаки находятся в первых двух столбцах
-    categorical_features = ['country_code', 'country_name']
-    # cоздаем трансформер для категориальных признаков
+    X_train['year'] = pd.to_datetime(X_train['year']).dt.year
+    
+    categorical_features = X_train.select_dtypes(include=['object']).columns.tolist()
     categorical_transformer = OneHotEncoder(handle_unknown='ignore')
     
     preprocessor = ColumnTransformer(
