@@ -13,10 +13,10 @@ def prepare_data(file_path):
     return data
 
 # путь к файлу данных
-file_path = 'MLOps_project3/data/co2_emissions_kt_by_country.csv'
+file_path = '../data/co2_emissions_kt_by_country.csv'
 
 # подготовка данных
 prepared_data = prepare_data(file_path)
 
 # сохраняем подготовленные данные в новый файл
-prepared_data.to_csv('MLOps_project3/data/prepared_co2_emissions.csv', index=False)
+prepared_data.to_csv('../data/prepared_co2_emissions.csv', index=False)
