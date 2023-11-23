@@ -1,2788 +1,2804 @@
-country_code,country_name,year
-SUR,Suriname,1985-01-01
-BOL,Bolivia,1987-01-01
-FIN,Finland,1961-01-01
-LMY,Low & middle income,1973-01-01
-AFG,Afghanistan,2011-01-01
-CHE,Switzerland,2014-01-01
-LIC,Low income,2001-01-01
-GRD,Grenada,1999-01-01
-BLZ,Belize,1965-01-01
-MWI,Malawi,1972-01-01
-ECA,Europe & Central Asia (excluding high income),1999-01-01
-JAM,Jamaica,1992-01-01
-SAU,Saudi Arabia,1992-01-01
-GIN,Guinea,1994-01-01
-MNA,Middle East & North Africa (excluding high income),1975-01-01
-NOR,Norway,2010-01-01
-BOL,Bolivia,1973-01-01
-ISL,Iceland,2019-01-01
-DEU,Germany,2006-01-01
-KHM,Cambodia,2003-01-01
-SEN,Senegal,1965-01-01
-IBT,IDA & IBRD total,2018-01-01
-PRE,Pre-demographic dividend,1960-01-01
-LDC,Least developed countries: UN classification,1986-01-01
-POL,Poland,1984-01-01
-FIN,Finland,1982-01-01
-TSA,South Asia (IDA & IBRD),2005-01-01
-POL,Poland,2017-01-01
-IRL,Ireland,1969-01-01
-LCN,Latin America & Caribbean,1972-01-01
-BRB,Barbados,2012-01-01
-SLE,Sierra Leone,2004-01-01
-DNK,Denmark,2009-01-01
-MDA,Moldova,2014-01-01
-BEN,Benin,2005-01-01
-IRQ,Iraq,1980-01-01
-AZE,Azerbaijan,2008-01-01
-DNK,Denmark,1967-01-01
-BRN,Brunei Darussalam,2002-01-01
-MWI,Malawi,1990-01-01
-NGA,Nigeria,2018-01-01
-NRU,Nauru,2010-01-01
-RWA,Rwanda,1997-01-01
-MMR,Myanmar,1981-01-01
-LVA,Latvia,1991-01-01
-COM,Comoros,2001-01-01
-PNG,Papua New Guinea,1983-01-01
-AFG,Afghanistan,2012-01-01
-ESP,Spain,1993-01-01
-WLD,World,1966-01-01
-BGD,Bangladesh,1993-01-01
-LIC,Low income,1975-01-01
-LBR,Liberia,1974-01-01
-MYS,Malaysia,1970-01-01
-ERI,Eritrea,2005-01-01
-MAR,Morocco,2013-01-01
-TSA,South Asia (IDA & IBRD),1972-01-01
-MKD,North Macedonia,1996-01-01
-EAS,East Asia & Pacific,1964-01-01
-GNB,Guinea-Bissau,1982-01-01
-GUY,Guyana,1989-01-01
-NAM,Namibia,2001-01-01
-VGB,British Virgin Islands,1969-01-01
-AGO,Angola,2013-01-01
-CYM,Cayman Islands,2015-01-01
-LAC,Latin America & Caribbean (excluding high income),1969-01-01
-NIC,Nicaragua,1977-01-01
-GNQ,Equatorial Guinea,1972-01-01
-ARE,United Arab Emirates,1981-01-01
-VCT,St. Vincent and the Grenadines,1961-01-01
-LMC,Lower middle income,2013-01-01
-SDN,Sudan,1974-01-01
-QAT,Qatar,1965-01-01
-FRO,Faroe Islands,1992-01-01
-AUT,Austria,2015-01-01
-OMN,Oman,2001-01-01
-SGP,Singapore,2000-01-01
-LIE,Liechtenstein,2004-01-01
-EAR,Early-demographic dividend,1981-01-01
-LMC,Lower middle income,1989-01-01
-TUR,Turkiye,2014-01-01
-FRO,Faroe Islands,1981-01-01
-TKM,Turkmenistan,1991-01-01
-MLT,Malta,1995-01-01
-COG,"Congo, Rep.",2010-01-01
-MAC,"Macao SAR, China",1973-01-01
-SLB,Solomon Islands,2005-01-01
-VNM,Vietnam,1972-01-01
-VCT,St. Vincent and the Grenadines,1973-01-01
-GRD,Grenada,2015-01-01
-LDC,Least developed countries: UN classification,2005-01-01
-UKR,Ukraine,1998-01-01
-URY,Uruguay,2000-01-01
-FCS,Fragile and conflict affected situations,2018-01-01
-NLD,Netherlands,2007-01-01
-OMN,Oman,1978-01-01
-ISL,Iceland,1972-01-01
-BEL,Belgium,1997-01-01
-ETH,Ethiopia,2009-01-01
-BGR,Bulgaria,1969-01-01
-MEA,Middle East & North Africa,1978-01-01
-TGO,Togo,1963-01-01
-BLZ,Belize,1987-01-01
-SSF,Sub-Saharan Africa,1979-01-01
-SWE,Sweden,1992-01-01
-MUS,Mauritius,1964-01-01
-MNG,Mongolia,2008-01-01
-OED,OECD members,1982-01-01
-FIN,Finland,1974-01-01
-IRN,"Iran, Islamic Rep.",1994-01-01
-NLD,Netherlands,2016-01-01
-UGA,Uganda,2001-01-01
-EGY,"Egypt, Arab Rep.",2005-01-01
-DJI,Djibouti,2006-01-01
-MRT,Mauritania,1960-01-01
-TTO,Trinidad and Tobago,1982-01-01
-NER,Niger,1984-01-01
-BGR,Bulgaria,1994-01-01
-ECA,Europe & Central Asia (excluding high income),1960-01-01
-COM,Comoros,1995-01-01
-SSA,Sub-Saharan Africa (excluding high income),1989-01-01
-TLS,Timor-Leste,2011-01-01
-QAT,Qatar,2003-01-01
-AUT,Austria,1992-01-01
-SAS,South Asia,2016-01-01
-SDN,Sudan,2008-01-01
-MLI,Mali,2016-01-01
-ZAF,South Africa,1962-01-01
-GNB,Guinea-Bissau,1997-01-01
-SAS,South Asia,1981-01-01
-CSS,Caribbean small states,1998-01-01
-GNQ,Equatorial Guinea,2000-01-01
-WSM,Samoa,1999-01-01
-TLS,Timor-Leste,2002-01-01
-COL,Colombia,2012-01-01
-COG,"Congo, Rep.",1962-01-01
-PER,Peru,1981-01-01
-FCS,Fragile and conflict affected situations,2008-01-01
-NOR,Norway,1998-01-01
-FRO,Faroe Islands,1991-01-01
-VUT,Vanuatu,1984-01-01
-LBR,Liberia,2006-01-01
-ECU,Ecuador,2019-01-01
-FJI,Fiji,1967-01-01
-TUV,Tuvalu,2004-01-01
-KGZ,Kyrgyz Republic,1992-01-01
-BTN,Bhutan,2012-01-01
-MDG,Madagascar,1973-01-01
-IRN,"Iran, Islamic Rep.",1982-01-01
-HIC,High income,1963-01-01
-MWI,Malawi,2016-01-01
-LUX,Luxembourg,2013-01-01
-BGR,Bulgaria,1962-01-01
-LAO,Lao PDR,2010-01-01
-CZE,Czechia,2008-01-01
-IRQ,Iraq,2006-01-01
-GNB,Guinea-Bissau,1978-01-01
-SLE,Sierra Leone,2011-01-01
-CYM,Cayman Islands,2011-01-01
-KOR,"Korea, Rep.",1972-01-01
-SSA,Sub-Saharan Africa (excluding high income),2001-01-01
-DMA,Dominica,1975-01-01
-GTM,Guatemala,1973-01-01
-LIC,Low income,1989-01-01
-SRB,Serbia,2012-01-01
-IDX,IDA only,1976-01-01
-KWT,Kuwait,1993-01-01
-GNQ,Equatorial Guinea,2003-01-01
-PST,Post-demographic dividend,1984-01-01
-ALB,Albania,2016-01-01
-ZWE,Zimbabwe,1971-01-01
-PER,Peru,1995-01-01
-NCL,New Caledonia,2001-01-01
-IBT,IDA & IBRD total,1985-01-01
-POL,Poland,2019-01-01
-SRB,Serbia,1991-01-01
-DNK,Denmark,2014-01-01
-PRY,Paraguay,1983-01-01
-SVK,Slovak Republic,2006-01-01
-PAK,Pakistan,2008-01-01
-GIB,Gibraltar,1979-01-01
-PER,Peru,1967-01-01
-CZE,Czechia,2002-01-01
-MDG,Madagascar,1970-01-01
-TON,Tonga,2003-01-01
-NPL,Nepal,2000-01-01
-IND,India,1988-01-01
-SYC,Seychelles,1971-01-01
-OSS,Other small states,1960-01-01
-LSO,Lesotho,2005-01-01
-SSF,Sub-Saharan Africa,2008-01-01
-CPV,Cabo Verde,1965-01-01
-TZA,Tanzania,1996-01-01
-TKM,Turkmenistan,1996-01-01
-VNM,Vietnam,1967-01-01
-CRI,Costa Rica,1996-01-01
-MYS,Malaysia,1989-01-01
-URY,Uruguay,1983-01-01
-DJI,Djibouti,2009-01-01
-AND,Andorra,1993-01-01
-NRU,Nauru,2000-01-01
-BRA,Brazil,1968-01-01
-BRB,Barbados,1977-01-01
-VEN,"Venezuela, RB",1965-01-01
-PLW,Palau,1969-01-01
-URY,Uruguay,1987-01-01
-WLD,World,1998-01-01
-MDG,Madagascar,1997-01-01
-ECA,Europe & Central Asia (excluding high income),1975-01-01
-BTN,Bhutan,1998-01-01
-SLV,El Salvador,2003-01-01
-PYF,French Polynesia,1997-01-01
-PER,Peru,2004-01-01
-SOM,Somalia,2011-01-01
-QAT,Qatar,2009-01-01
-AFE,Africa Eastern and Southern,2002-01-01
-TZA,Tanzania,2012-01-01
-MDG,Madagascar,1986-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),2009-01-01
-CIV,Cote d'Ivoire,1982-01-01
-MEA,Middle East & North Africa,2017-01-01
-IDB,IDA blend,1977-01-01
-EAP,East Asia & Pacific (excluding high income),2008-01-01
-IDN,Indonesia,1999-01-01
-MRT,Mauritania,1971-01-01
-SSD,South Sudan,2000-01-01
-ESP,Spain,2012-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1989-01-01
-WSM,Samoa,2006-01-01
-TUR,Turkiye,2018-01-01
-URY,Uruguay,1961-01-01
-SOM,Somalia,2010-01-01
-ESP,Spain,1964-01-01
-DMA,Dominica,1974-01-01
-ISL,Iceland,1990-01-01
-KHM,Cambodia,1991-01-01
-TSA,South Asia (IDA & IBRD),1979-01-01
-MRT,Mauritania,2019-01-01
-GRD,Grenada,2010-01-01
-ARE,United Arab Emirates,1968-01-01
-ISL,Iceland,1986-01-01
-IDA,IDA total,1999-01-01
-TGO,Togo,1980-01-01
-BLR,Belarus,2001-01-01
-OED,OECD members,1985-01-01
-GIN,Guinea,2018-01-01
-THA,Thailand,1979-01-01
-YEM,"Yemen, Rep.",1987-01-01
-FCS,Fragile and conflict affected situations,1993-01-01
-BGD,Bangladesh,1976-01-01
-LMC,Lower middle income,2010-01-01
-MHL,Marshall Islands,1992-01-01
-OED,OECD members,1998-01-01
-ECU,Ecuador,1996-01-01
-QAT,Qatar,1960-01-01
-NZL,New Zealand,2005-01-01
-GRD,Grenada,2008-01-01
-BLZ,Belize,1988-01-01
-ARB,Arab World,1972-01-01
-SGP,Singapore,2001-01-01
-OMN,Oman,1995-01-01
-LAC,Latin America & Caribbean (excluding high income),1985-01-01
-LCN,Latin America & Caribbean,1997-01-01
-EST,Estonia,2008-01-01
-MMR,Myanmar,1970-01-01
-MEA,Middle East & North Africa,1996-01-01
-LAC,Latin America & Caribbean (excluding high income),2007-01-01
-PAN,Panama,1993-01-01
-BWA,Botswana,2015-01-01
-GRL,Greenland,1974-01-01
-GRL,Greenland,1981-01-01
-LKA,Sri Lanka,2000-01-01
-MLI,Mali,1980-01-01
-ARB,Arab World,1983-01-01
-MAC,"Macao SAR, China",2015-01-01
-IBD,IBRD only,2018-01-01
-IRN,"Iran, Islamic Rep.",2001-01-01
-DJI,Djibouti,1973-01-01
-SAU,Saudi Arabia,1999-01-01
-PHL,Philippines,2007-01-01
-URY,Uruguay,2002-01-01
-OSS,Other small states,1980-01-01
-SYR,Syrian Arab Republic,1961-01-01
-ABW,Aruba,1991-01-01
-BOL,Bolivia,2010-01-01
-ERI,Eritrea,2003-01-01
-HTI,Haiti,1987-01-01
-GEO,Georgia,2018-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1990-01-01
-VNM,Vietnam,1969-01-01
-ECS,Europe & Central Asia,1963-01-01
-NIC,Nicaragua,1999-01-01
-CEB,Central Europe and the Baltics,1961-01-01
-LMY,Low & middle income,1986-01-01
-GHA,Ghana,1967-01-01
-AFE,Africa Eastern and Southern,2005-01-01
-GNQ,Equatorial Guinea,2013-01-01
-SLV,El Salvador,1960-01-01
-LKA,Sri Lanka,1981-01-01
-COM,Comoros,1977-01-01
-VGB,British Virgin Islands,1984-01-01
-GNB,Guinea-Bissau,2000-01-01
-CUB,Cuba,1975-01-01
-BLZ,Belize,2013-01-01
-MLI,Mali,1963-01-01
-AUT,Austria,1990-01-01
-SSA,Sub-Saharan Africa (excluding high income),1971-01-01
-PRE,Pre-demographic dividend,1971-01-01
-MWI,Malawi,1995-01-01
-GRD,Grenada,1988-01-01
-NGA,Nigeria,1978-01-01
-CHN,China,1969-01-01
-BOL,Bolivia,1980-01-01
-PRK,"Korea, Dem. People's Rep.",1998-01-01
-MMR,Myanmar,1993-01-01
-GRD,Grenada,1967-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1997-01-01
-UMC,Upper middle income,2003-01-01
-ITA,Italy,1980-01-01
-POL,Poland,1996-01-01
-PRK,"Korea, Dem. People's Rep.",1970-01-01
-SAU,Saudi Arabia,1976-01-01
-SRB,Serbia,2001-01-01
-COL,Colombia,1965-01-01
-MDG,Madagascar,1993-01-01
-MMR,Myanmar,1975-01-01
-ZWE,Zimbabwe,1972-01-01
-LBY,Libya,1970-01-01
-PRY,Paraguay,2013-01-01
-BRA,Brazil,1972-01-01
-PER,Peru,1986-01-01
-AFW,Africa Western and Central,1964-01-01
-SYC,Seychelles,1992-01-01
-MNA,Middle East & North Africa (excluding high income),1968-01-01
-SEN,Senegal,1987-01-01
-TKM,Turkmenistan,2012-01-01
-TUR,Turkey,1963-01-01
-ISL,Iceland,2006-01-01
-SSF,Sub-Saharan Africa,1984-01-01
-EAS,East Asia & Pacific,2002-01-01
-TUR,Turkiye,2002-01-01
-ERI,Eritrea,2002-01-01
-RUS,Russian Federation,1988-01-01
-PAK,Pakistan,2002-01-01
-PST,Post-demographic dividend,2002-01-01
-NLD,Netherlands,1989-01-01
-DJI,Djibouti,2002-01-01
-BHR,Bahrain,2012-01-01
-KWT,Kuwait,2012-01-01
-MMR,Myanmar,1968-01-01
-GMB,"Gambia, The",1984-01-01
-CHE,Switzerland,1964-01-01
-HUN,Hungary,2004-01-01
-RWA,Rwanda,1994-01-01
-TTO,Trinidad and Tobago,2003-01-01
-HKG,"Hong Kong SAR, China",1964-01-01
-EAP,East Asia & Pacific (excluding high income),2017-01-01
-FCS,Fragile and conflict affected situations,2019-01-01
-ATG,Antigua and Barbuda,1987-01-01
-MLI,Mali,2018-01-01
-AUT,Austria,1979-01-01
-ZWE,Zimbabwe,1964-01-01
-GBR,United Kingdom,2019-01-01
-LIE,Liechtenstein,2000-01-01
-CRI,Costa Rica,1962-01-01
-NOR,Norway,2018-01-01
-DNK,Denmark,1961-01-01
-TGO,Togo,1973-01-01
-LCN,Latin America & Caribbean,1977-01-01
-IRQ,Iraq,1988-01-01
-SLE,Sierra Leone,2005-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2017-01-01
-SST,Small states,2018-01-01
-POL,Poland,1967-01-01
-LAO,Lao PDR,1963-01-01
-BHR,Bahrain,2008-01-01
-AGO,Angola,2003-01-01
-TKM,Turkmenistan,2003-01-01
-SEN,Senegal,1982-01-01
-OED,OECD members,2010-01-01
-ECS,Europe & Central Asia,1966-01-01
-VUT,Vanuatu,2008-01-01
-PRY,Paraguay,2019-01-01
-ISR,Israel,1967-01-01
-ITA,Italy,1995-01-01
-TGO,Togo,1971-01-01
-TUR,Turkey,1980-01-01
-CUB,Cuba,1961-01-01
-TUN,Tunisia,2008-01-01
-EUU,European Union,1999-01-01
-KIR,Kiribati,2016-01-01
-DJI,Djibouti,2014-01-01
-BGD,Bangladesh,2001-01-01
-BRB,Barbados,1971-01-01
-CPV,Cabo Verde,1976-01-01
-IND,India,1991-01-01
-BRN,Brunei Darussalam,2015-01-01
-UGA,Uganda,1987-01-01
-PAK,Pakistan,1993-01-01
-GAB,Gabon,2018-01-01
-SLE,Sierra Leone,2018-01-01
-LMC,Lower middle income,1965-01-01
-PRY,Paraguay,2017-01-01
-ISR,Israel,2019-01-01
-CHN,China,1977-01-01
-LBN,Lebanon,2012-01-01
-MYS,Malaysia,1961-01-01
-PYF,French Polynesia,1977-01-01
-OED,OECD members,1962-01-01
-MEA,Middle East & North Africa,1984-01-01
-USA,United States,1962-01-01
-BRA,Brazil,2018-01-01
-MLT,Malta,1993-01-01
-IDA,IDA total,1962-01-01
-SYR,Syrian Arab Republic,1991-01-01
-BDI,Burundi,2017-01-01
-IRQ,Iraq,1987-01-01
-MMR,Myanmar,1978-01-01
-TGO,Togo,1964-01-01
-IDN,Indonesia,1985-01-01
-EST,Estonia,1990-01-01
-SOM,Somalia,1977-01-01
-LKA,Sri Lanka,1971-01-01
-SOM,Somalia,1987-01-01
-HND,Honduras,2001-01-01
-CRI,Costa Rica,2018-01-01
-BMU,Bermuda,1963-01-01
-BOL,Bolivia,1981-01-01
-MOZ,Mozambique,2012-01-01
-NZL,New Zealand,2010-01-01
-SST,Small states,1977-01-01
-NCL,New Caledonia,1986-01-01
-PER,Peru,1992-01-01
-TUR,Turkiye,2012-01-01
-IDB,IDA blend,2012-01-01
-CHL,Chile,1974-01-01
-BHS,"Bahamas, The",1988-01-01
-ARE,United Arab Emirates,2000-01-01
-KNA,St. Kitts and Nevis,1975-01-01
-OMN,Oman,1994-01-01
-SAS,South Asia,2013-01-01
-SLE,Sierra Leone,1991-01-01
-TZA,Tanzania,1983-01-01
-NRU,Nauru,1974-01-01
-JPN,Japan,1987-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1981-01-01
-LCN,Latin America & Caribbean,1992-01-01
-BLZ,Belize,1966-01-01
-KHM,Cambodia,1985-01-01
-LBY,Libya,1963-01-01
-VCT,St. Vincent and the Grenadines,2001-01-01
-ETH,Ethiopia,1988-01-01
-USA,United States,2008-01-01
-SLV,El Salvador,1981-01-01
-THA,Thailand,1963-01-01
-GNQ,Equatorial Guinea,1988-01-01
-UGA,Uganda,2011-01-01
-MYS,Malaysia,1997-01-01
-NAC,North America,1974-01-01
-HIC,High income,2015-01-01
-MDG,Madagascar,1988-01-01
-PLW,Palau,1977-01-01
-CYP,Cyprus,2002-01-01
-IND,India,2012-01-01
-PRK,"Korea, Dem. People's Rep.",1986-01-01
-LBY,Libya,1988-01-01
-UGA,Uganda,1980-01-01
-BRB,Barbados,1984-01-01
-LVA,Latvia,2019-01-01
-AUT,Austria,1975-01-01
-SYC,Seychelles,1988-01-01
-ZMB,Zambia,1981-01-01
-ARE,United Arab Emirates,1963-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1979-01-01
-ZAF,South Africa,1963-01-01
-PRE,Pre-demographic dividend,1977-01-01
-MOZ,Mozambique,1982-01-01
-FCS,Fragile and conflict affected situations,2005-01-01
-FIN,Finland,1983-01-01
-HUN,Hungary,2014-01-01
-URY,Uruguay,1984-01-01
-SEN,Senegal,1961-01-01
-ERI,Eritrea,2004-01-01
-OED,OECD members,1977-01-01
-IDB,IDA blend,1974-01-01
-GTM,Guatemala,1975-01-01
-PAK,Pakistan,1974-01-01
-SLE,Sierra Leone,1971-01-01
-CMR,Cameroon,2007-01-01
-WSM,Samoa,1967-01-01
-BHS,"Bahamas, The",2005-01-01
-BRB,Barbados,1995-01-01
-MMR,Myanmar,2017-01-01
-SAS,South Asia,1997-01-01
-PER,Peru,1963-01-01
-NOR,Norway,1991-01-01
-MRT,Mauritania,1992-01-01
-TZA,Tanzania,1962-01-01
-PHL,Philippines,2000-01-01
-SUR,Suriname,1998-01-01
-IND,India,1992-01-01
-CEB,Central Europe and the Baltics,1993-01-01
-PSS,Pacific island small states,2016-01-01
-SST,Small states,2014-01-01
-LIC,Low income,1964-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1988-01-01
-VNM,Vietnam,1997-01-01
-USA,United States,2005-01-01
-NGA,Nigeria,1999-01-01
-AFW,Africa Western and Central,1960-01-01
-QAT,Qatar,2014-01-01
-ITA,Italy,2000-01-01
-FIN,Finland,1994-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2000-01-01
-HKG,"Hong Kong SAR, China",1992-01-01
-ARE,United Arab Emirates,1970-01-01
-SLV,El Salvador,2009-01-01
-LSO,Lesotho,2011-01-01
-ECS,Europe & Central Asia,2010-01-01
-AFE,Africa Eastern and Southern,1966-01-01
-COD,"Congo, Dem. Rep.",1990-01-01
-ZAF,South Africa,1989-01-01
-GAB,Gabon,1961-01-01
-NAC,North America,1978-01-01
-RUS,Russian Federation,1992-01-01
-CSS,Caribbean small states,2012-01-01
-EAR,Early-demographic dividend,1974-01-01
-VGB,British Virgin Islands,1962-01-01
-UMC,Upper middle income,1992-01-01
-IRQ,Iraq,1967-01-01
-PSE,West Bank and Gaza,1991-01-01
-AND,Andorra,2012-01-01
-SLE,Sierra Leone,1975-01-01
-FRA,France,1965-01-01
-SAU,Saudi Arabia,2000-01-01
-PLW,Palau,1982-01-01
-POL,Poland,1978-01-01
-HTI,Haiti,2009-01-01
-ATG,Antigua and Barbuda,1971-01-01
-NLD,Netherlands,1983-01-01
-MEA,Middle East & North Africa,1976-01-01
-EAS,East Asia & Pacific,2016-01-01
-GUY,Guyana,1999-01-01
-LAC,Latin America & Caribbean (excluding high income),2019-01-01
-FIN,Finland,1989-01-01
-BHS,"Bahamas, The",1996-01-01
-EUU,European Union,1967-01-01
-ABW,Aruba,1968-01-01
-IBT,IDA & IBRD total,1968-01-01
-MOZ,Mozambique,1962-01-01
-LTE,Late-demographic dividend,1981-01-01
-LIE,Liechtenstein,2013-01-01
-NIC,Nicaragua,1991-01-01
-COG,"Congo, Rep.",1986-01-01
-BRN,Brunei Darussalam,1980-01-01
-TON,Tonga,1993-01-01
-MNE,Montenegro,2012-01-01
-GIN,Guinea,1971-01-01
-KEN,Kenya,2004-01-01
-ISR,Israel,1961-01-01
-BHR,Bahrain,1994-01-01
-BTN,Bhutan,1988-01-01
-CAF,Central African Republic,1967-01-01
-GAB,Gabon,2004-01-01
-ESP,Spain,1985-01-01
-IDB,IDA blend,1980-01-01
-CUB,Cuba,2014-01-01
-SYR,Syrian Arab Republic,1971-01-01
-IDX,IDA only,1961-01-01
-LBY,Libya,1962-01-01
-HUN,Hungary,2018-01-01
-LVA,Latvia,1995-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1977-01-01
-PRK,"Korea, Dem. People's Rep.",1966-01-01
-SYR,Syrian Arab Republic,1979-01-01
-TUN,Tunisia,1970-01-01
-FJI,Fiji,2006-01-01
-ZWE,Zimbabwe,1973-01-01
-MKD,North Macedonia,2013-01-01
-BFA,Burkina Faso,1981-01-01
-HTI,Haiti,2003-01-01
-BRA,Brazil,1971-01-01
-KWT,Kuwait,2009-01-01
-HTI,Haiti,1984-01-01
-MYS,Malaysia,2019-01-01
-PLW,Palau,2019-01-01
-NPL,Nepal,2004-01-01
-MOZ,Mozambique,2013-01-01
-IRN,"Iran, Islamic Rep.",1976-01-01
-TON,Tonga,1985-01-01
-CHE,Switzerland,1969-01-01
-CHN,China,1982-01-01
-GRD,Grenada,1976-01-01
-MLT,Malta,1999-01-01
-GBR,United Kingdom,1984-01-01
-NGA,Nigeria,1997-01-01
-SWE,Sweden,2014-01-01
-LMC,Lower middle income,1993-01-01
-PAN,Panama,2012-01-01
-FJI,Fiji,1972-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1977-01-01
-LMC,Lower middle income,1981-01-01
-ECA,Europe & Central Asia (excluding high income),1963-01-01
-BEN,Benin,2012-01-01
-URY,Uruguay,2006-01-01
-NCL,New Caledonia,2003-01-01
-TGO,Togo,2014-01-01
-COD,"Congo, Dem. Rep.",2014-01-01
-ROU,Romania,2019-01-01
-SDN,Sudan,1971-01-01
-PAN,Panama,2003-01-01
-PRE,Pre-demographic dividend,1966-01-01
-FJI,Fiji,2004-01-01
-COM,Comoros,1987-01-01
-KEN,Kenya,1983-01-01
-SVN,Slovenia,2002-01-01
-PRY,Paraguay,1989-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),1968-01-01
-SLE,Sierra Leone,2009-01-01
-PER,Peru,2005-01-01
-BTN,Bhutan,2007-01-01
-LTE,Late-demographic dividend,2008-01-01
-NCL,New Caledonia,1966-01-01
-EAP,East Asia & Pacific (excluding high income),1974-01-01
-ARM,Armenia,2009-01-01
-ECA,Europe & Central Asia (excluding high income),2016-01-01
-DNK,Denmark,2018-01-01
-HPC,Heavily indebted poor countries (HIPC),1987-01-01
-ZWE,Zimbabwe,1974-01-01
-USA,United States,1960-01-01
-KOR,"Korea, Rep.",2004-01-01
-COL,Colombia,2016-01-01
-SGP,Singapore,1965-01-01
-SSA,Sub-Saharan Africa (excluding high income),2002-01-01
-BFA,Burkina Faso,1997-01-01
-LTU,Lithuania,2007-01-01
-LIC,Low income,1999-01-01
-UKR,Ukraine,1994-01-01
-GBR,United Kingdom,1982-01-01
-CAF,Central African Republic,2004-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2003-01-01
-KOR,"Korea, Rep.",1968-01-01
-VEN,"Venezuela, RB",2014-01-01
-GUY,Guyana,1967-01-01
-IBD,IBRD only,1997-01-01
-HTI,Haiti,1995-01-01
-MWI,Malawi,1986-01-01
-AUS,Australia,2011-01-01
-TSA,South Asia (IDA & IBRD),1964-01-01
-FJI,Fiji,1994-01-01
-PRE,Pre-demographic dividend,1979-01-01
-PSS,Pacific island small states,1972-01-01
-BIH,Bosnia and Herzegovina,2015-01-01
-OED,OECD members,2001-01-01
-HRV,Croatia,2006-01-01
-UZB,Uzbekistan,2010-01-01
-CIV,Cote d'Ivoire,1977-01-01
-LAO,Lao PDR,1977-01-01
-MAC,"Macao SAR, China",1999-01-01
-IDN,Indonesia,1983-01-01
-MMR,Myanmar,1966-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1994-01-01
-STP,Sao Tome and Principe,1986-01-01
-BDI,Burundi,1991-01-01
-EGY,"Egypt, Arab Rep.",2001-01-01
-SEN,Senegal,1962-01-01
-USA,United States,1972-01-01
-CHN,China,2017-01-01
-ZMB,Zambia,1987-01-01
-BLZ,Belize,1961-01-01
-MOZ,Mozambique,1989-01-01
-CHE,Switzerland,1992-01-01
-KOR,"Korea, Rep.",2002-01-01
-CMR,Cameroon,1972-01-01
-AND,Andorra,2018-01-01
-HTI,Haiti,1974-01-01
-KHM,Cambodia,1986-01-01
-CHL,Chile,1987-01-01
-HTI,Haiti,2016-01-01
-SLE,Sierra Leone,1997-01-01
-KGZ,Kyrgyz Republic,1998-01-01
-ETH,Ethiopia,1970-01-01
-QAT,Qatar,1986-01-01
-CRI,Costa Rica,1975-01-01
-GIB,Gibraltar,1999-01-01
-CMR,Cameroon,1967-01-01
-LVA,Latvia,2017-01-01
-MAC,"Macao SAR, China",1989-01-01
-ISR,Israel,1991-01-01
-BLZ,Belize,2008-01-01
-HUN,Hungary,1980-01-01
-MLI,Mali,1990-01-01
-KIR,Kiribati,2005-01-01
-AUT,Austria,1978-01-01
-TUR,Turkey,1970-01-01
-HIC,High income,1983-01-01
-VGB,British Virgin Islands,2007-01-01
-LAO,Lao PDR,1971-01-01
-BGR,Bulgaria,1966-01-01
-MAC,"Macao SAR, China",1985-01-01
-WSM,Samoa,1989-01-01
-MRT,Mauritania,1991-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1988-01-01
-QAT,Qatar,1992-01-01
-NRU,Nauru,1965-01-01
-FJI,Fiji,2012-01-01
-EAP,East Asia & Pacific (excluding high income),2013-01-01
-TGO,Togo,2011-01-01
-TCA,Turks and Caicos Islands,2015-01-01
-CHE,Switzerland,1999-01-01
-ARG,Argentina,1986-01-01
-MEA,Middle East & North Africa,1973-01-01
-MLT,Malta,1992-01-01
-IDA,IDA total,2002-01-01
-BFA,Burkina Faso,1968-01-01
-BFA,Burkina Faso,2009-01-01
-SAU,Saudi Arabia,1990-01-01
-MDG,Madagascar,1999-01-01
-HKG,"Hong Kong SAR, China",1985-01-01
-KOR,"Korea, Rep.",1995-01-01
-CMR,Cameroon,2011-01-01
-VUT,Vanuatu,1977-01-01
-ECA,Europe & Central Asia (excluding high income),2003-01-01
-SUR,Suriname,1967-01-01
-CSS,Caribbean small states,2018-01-01
-UMC,Upper middle income,1993-01-01
-HTI,Haiti,1991-01-01
-EUU,European Union,1962-01-01
-ARG,Argentina,1995-01-01
-IDN,Indonesia,1971-01-01
-PST,Post-demographic dividend,1967-01-01
-RUS,Russian Federation,1987-01-01
-LBY,Libya,1965-01-01
-NER,Niger,1975-01-01
-CHL,Chile,2001-01-01
-ETH,Ethiopia,1983-01-01
-PRT,Portugal,2003-01-01
-PAN,Panama,1970-01-01
-BFA,Burkina Faso,2014-01-01
-SLB,Solomon Islands,2012-01-01
-LAC,Latin America & Caribbean (excluding high income),1982-01-01
-GMB,"Gambia, The",2007-01-01
-MLT,Malta,1990-01-01
-BEL,Belgium,1979-01-01
-NAM,Namibia,2007-01-01
-CSS,Caribbean small states,1997-01-01
-CHE,Switzerland,2001-01-01
-PRY,Paraguay,1986-01-01
-GHA,Ghana,2005-01-01
-UGA,Uganda,1968-01-01
-IRN,"Iran, Islamic Rep.",1971-01-01
-MIC,Middle income,2019-01-01
-BEN,Benin,1962-01-01
-KNA,St. Kitts and Nevis,1997-01-01
-PST,Post-demographic dividend,1997-01-01
-PST,Post-demographic dividend,2012-01-01
-FIN,Finland,1998-01-01
-TUN,Tunisia,1972-01-01
-IDX,IDA only,1982-01-01
-THA,Thailand,1990-01-01
-SST,Small states,1981-01-01
-YEM,"Yemen, Rep.",2006-01-01
-OMN,Oman,2011-01-01
-DEU,Germany,2013-01-01
-CAN,Canada,1980-01-01
-PAN,Panama,1960-01-01
-BRB,Barbados,2001-01-01
-GRD,Grenada,1972-01-01
-KHM,Cambodia,2011-01-01
-HKG,"Hong Kong SAR, China",1969-01-01
-ARB,Arab World,1961-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),1986-01-01
-PER,Peru,2006-01-01
-PRY,Paraguay,1967-01-01
-EGY,"Egypt, Arab Rep.",1969-01-01
-SEN,Senegal,1977-01-01
-KHM,Cambodia,1966-01-01
-SWZ,Eswatini,1978-01-01
-NOR,Norway,1972-01-01
-ALB,Albania,1967-01-01
-NGA,Nigeria,1991-01-01
-FJI,Fiji,2014-01-01
-ALB,Albania,1974-01-01
-LBN,Lebanon,2006-01-01
-GRL,Greenland,2003-01-01
-AND,Andorra,1990-01-01
-ATG,Antigua and Barbuda,1968-01-01
-OED,OECD members,2008-01-01
-PRE,Pre-demographic dividend,1991-01-01
-LIE,Liechtenstein,2008-01-01
-SSA,Sub-Saharan Africa (excluding high income),1974-01-01
-ARE,United Arab Emirates,1989-01-01
-IDN,Indonesia,1986-01-01
-ZWE,Zimbabwe,2013-01-01
-JOR,Jordan,1995-01-01
-ETH,Ethiopia,1992-01-01
-LCN,Latin America & Caribbean,1978-01-01
-NAM,Namibia,1994-01-01
-KOR,"Korea, Rep.",1997-01-01
-BLZ,Belize,1973-01-01
-MKD,North Macedonia,2012-01-01
-DEU,Germany,1997-01-01
-SUR,Suriname,1976-01-01
-RWA,Rwanda,1981-01-01
-ECS,Europe & Central Asia,1970-01-01
-HTI,Haiti,2015-01-01
-DMA,Dominica,1995-01-01
-LCN,Latin America & Caribbean,2004-01-01
-SWE,Sweden,1974-01-01
-BDI,Burundi,1966-01-01
-LDC,Least developed countries: UN classification,1998-01-01
-PRK,"Korea, Dem. People's Rep.",2019-01-01
-USA,United States,1979-01-01
-FRA,France,1960-01-01
-STP,Sao Tome and Principe,1977-01-01
-MMR,Myanmar,1984-01-01
-FJI,Fiji,2007-01-01
-OSS,Other small states,1982-01-01
-SGP,Singapore,2013-01-01
-AGO,Angola,1971-01-01
-GRD,Grenada,2009-01-01
-LUX,Luxembourg,2014-01-01
-TKM,Turkmenistan,2005-01-01
-BWA,Botswana,1988-01-01
-AUS,Australia,1999-01-01
-SUR,Suriname,1964-01-01
-HUN,Hungary,1965-01-01
-LMC,Lower middle income,2000-01-01
-SWE,Sweden,2017-01-01
-LUX,Luxembourg,1985-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1974-01-01
-SWZ,Eswatini,2008-01-01
-IRQ,Iraq,2011-01-01
-LIE,Liechtenstein,2012-01-01
-PAK,Pakistan,1994-01-01
-LAO,Lao PDR,1991-01-01
-ARG,Argentina,1971-01-01
-AFE,Africa Eastern and Southern,1973-01-01
-BLR,Belarus,1995-01-01
-HUN,Hungary,1985-01-01
-JPN,Japan,1991-01-01
-IND,India,1968-01-01
-MNG,Mongolia,1997-01-01
-CHN,China,2000-01-01
-KEN,Kenya,2009-01-01
-SUR,Suriname,1972-01-01
-NPL,Nepal,2013-01-01
-CIV,Cote d'Ivoire,1983-01-01
-DJI,Djibouti,2010-01-01
-NZL,New Zealand,1991-01-01
-NIC,Nicaragua,1978-01-01
-JPN,Japan,1998-01-01
-WSM,Samoa,1968-01-01
-EAR,Early-demographic dividend,1986-01-01
-ROU,Romania,2003-01-01
-GHA,Ghana,2014-01-01
-ABW,Aruba,2001-01-01
-IRQ,Iraq,1973-01-01
-ECU,Ecuador,1960-01-01
-BHR,Bahrain,1992-01-01
-DJI,Djibouti,1966-01-01
-SAU,Saudi Arabia,1991-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1971-01-01
-GBR,United Kingdom,1996-01-01
-CYM,Cayman Islands,1964-01-01
-XKX,Kosovo,2011-01-01
-SAS,South Asia,1976-01-01
-EST,Estonia,1994-01-01
-FJI,Fiji,2002-01-01
-SUR,Suriname,1984-01-01
-LSO,Lesotho,2008-01-01
-VCT,St. Vincent and the Grenadines,1978-01-01
-ECU,Ecuador,2017-01-01
-CAN,Canada,1989-01-01
-GNQ,Equatorial Guinea,2012-01-01
-MEX,Mexico,2018-01-01
-DNK,Denmark,1977-01-01
-MWI,Malawi,2015-01-01
-BWA,Botswana,2003-01-01
-HPC,Heavily indebted poor countries (HIPC),1988-01-01
-MDV,Maldives,2013-01-01
-EUU,European Union,1971-01-01
-IRN,"Iran, Islamic Rep.",1989-01-01
-GAB,Gabon,1970-01-01
-DJI,Djibouti,1986-01-01
-TCD,Chad,1989-01-01
-SSF,Sub-Saharan Africa,1988-01-01
-TZA,Tanzania,1993-01-01
-VCT,St. Vincent and the Grenadines,2018-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),2003-01-01
-MLI,Mali,1985-01-01
-NOR,Norway,1980-01-01
-SGP,Singapore,1981-01-01
-TSA,South Asia (IDA & IBRD),1968-01-01
-SGP,Singapore,1964-01-01
-FRA,France,1975-01-01
-LIC,Low income,1963-01-01
-BLZ,Belize,2000-01-01
-NGA,Nigeria,1982-01-01
-MLT,Malta,2016-01-01
-CPV,Cabo Verde,1967-01-01
-AFW,Africa Western and Central,2000-01-01
-TGO,Togo,1968-01-01
-GHA,Ghana,2019-01-01
-LMY,Low & middle income,1979-01-01
-IDA,IDA total,1978-01-01
-LTE,Late-demographic dividend,1991-01-01
-BFA,Burkina Faso,1985-01-01
-HUN,Hungary,1986-01-01
-MRT,Mauritania,1980-01-01
-IND,India,1963-01-01
-LTU,Lithuania,2016-01-01
-TGO,Togo,2017-01-01
-BRB,Barbados,1989-01-01
-BWA,Botswana,2019-01-01
-SVN,Slovenia,2012-01-01
-KEN,Kenya,1964-01-01
-KNA,St. Kitts and Nevis,1991-01-01
-BEL,Belgium,1995-01-01
-NIC,Nicaragua,2011-01-01
-AFW,Africa Western and Central,1967-01-01
-LCN,Latin America & Caribbean,1994-01-01
-AGO,Angola,2007-01-01
-HTI,Haiti,2018-01-01
-CHL,Chile,2015-01-01
-FRA,France,2015-01-01
-IRL,Ireland,2003-01-01
-GRL,Greenland,1979-01-01
-PAN,Panama,1987-01-01
-SEN,Senegal,1966-01-01
-PSE,West Bank and Gaza,1997-01-01
-MLT,Malta,2004-01-01
-MEX,Mexico,1985-01-01
-ECA,Europe & Central Asia (excluding high income),1983-01-01
-SRB,Serbia,1992-01-01
-IBT,IDA & IBRD total,1986-01-01
-ARM,Armenia,2015-01-01
-GNQ,Equatorial Guinea,1963-01-01
-AFW,Africa Western and Central,2001-01-01
-IBD,IBRD only,1967-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2013-01-01
-LCN,Latin America & Caribbean,1970-01-01
-BTN,Bhutan,1981-01-01
-ISR,Israel,2016-01-01
-MAR,Morocco,1977-01-01
-PER,Peru,1962-01-01
-OED,OECD members,2014-01-01
-LMC,Lower middle income,1963-01-01
-ARG,Argentina,1991-01-01
-MAC,"Macao SAR, China",1960-01-01
-ZMB,Zambia,1996-01-01
-FRA,France,1997-01-01
-NAC,North America,1993-01-01
-COM,Comoros,2019-01-01
-SOM,Somalia,2006-01-01
-COM,Comoros,1978-01-01
-MIC,Middle income,2012-01-01
-JPN,Japan,2013-01-01
-BRN,Brunei Darussalam,1973-01-01
-LUX,Luxembourg,1993-01-01
-MKD,North Macedonia,1992-01-01
-MHL,Marshall Islands,2007-01-01
-PNG,Papua New Guinea,1998-01-01
-GIN,Guinea,1987-01-01
-LCA,St. Lucia,2016-01-01
-OSS,Other small states,1985-01-01
-YEM,"Yemen, Rep.",1984-01-01
-SGP,Singapore,2019-01-01
-MNA,Middle East & North Africa (excluding high income),1972-01-01
-MLI,Mali,1995-01-01
-COM,Comoros,1970-01-01
-IDN,Indonesia,1980-01-01
-NER,Niger,1998-01-01
-KOR,"Korea, Rep.",2000-01-01
-CIV,Cote d'Ivoire,1984-01-01
-EMU,Euro area,1996-01-01
-CEB,Central Europe and the Baltics,2004-01-01
-LIE,Liechtenstein,2018-01-01
-IBT,IDA & IBRD total,2017-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1983-01-01
-COD,"Congo, Dem. Rep.",1981-01-01
-TJK,Tajikistan,1994-01-01
-ROU,Romania,1998-01-01
-PAK,Pakistan,2014-01-01
-HUN,Hungary,1971-01-01
-THA,Thailand,2005-01-01
-GRC,Greece,1962-01-01
-DJI,Djibouti,1972-01-01
-COD,"Congo, Dem. Rep.",2017-01-01
-GUY,Guyana,2005-01-01
-GNB,Guinea-Bissau,1967-01-01
-UKR,Ukraine,2014-01-01
-PRT,Portugal,1978-01-01
-BWA,Botswana,2011-01-01
-LIC,Low income,1973-01-01
-KEN,Kenya,1962-01-01
-CHE,Switzerland,1963-01-01
-UGA,Uganda,1989-01-01
-TUV,Tuvalu,2008-01-01
-TUR,Turkey,1973-01-01
-CRI,Costa Rica,2009-01-01
-ARE,United Arab Emirates,1978-01-01
-PHL,Philippines,1964-01-01
-AFG,Afghanistan,2016-01-01
-GNQ,Equatorial Guinea,1966-01-01
-KWT,Kuwait,1997-01-01
-AFE,Africa Eastern and Southern,2016-01-01
-GRL,Greenland,1968-01-01
-DMA,Dominica,1972-01-01
-ISR,Israel,1972-01-01
-KWT,Kuwait,2013-01-01
-GNB,Guinea-Bissau,2009-01-01
-UMC,Upper middle income,2000-01-01
-BRA,Brazil,2000-01-01
-MLI,Mali,2000-01-01
-ABW,Aruba,1995-01-01
-COL,Colombia,2015-01-01
-NIC,Nicaragua,2018-01-01
-ABW,Aruba,2007-01-01
-FJI,Fiji,1999-01-01
-WSM,Samoa,2016-01-01
-LAO,Lao PDR,1993-01-01
-PHL,Philippines,1996-01-01
-NER,Niger,2011-01-01
-KEN,Kenya,1978-01-01
-LBR,Liberia,1988-01-01
-SAS,South Asia,1990-01-01
-ERI,Eritrea,1994-01-01
-BEL,Belgium,1963-01-01
-BOL,Bolivia,1991-01-01
-COL,Colombia,1977-01-01
-ESP,Spain,1991-01-01
-PYF,French Polynesia,1960-01-01
-LKA,Sri Lanka,2003-01-01
-BTN,Bhutan,2008-01-01
-TCA,Turks and Caicos Islands,1999-01-01
-HKG,"Hong Kong SAR, China",1989-01-01
-SYC,Seychelles,1963-01-01
-VCT,St. Vincent and the Grenadines,1975-01-01
-ECU,Ecuador,1968-01-01
-EGY,"Egypt, Arab Rep.",1975-01-01
-LTE,Late-demographic dividend,1988-01-01
-NGA,Nigeria,2013-01-01
-HRV,Croatia,2003-01-01
-MEX,Mexico,2016-01-01
-KGZ,Kyrgyz Republic,1995-01-01
-SAU,Saudi Arabia,2004-01-01
-SLB,Solomon Islands,2008-01-01
-LMC,Lower middle income,1962-01-01
-UGA,Uganda,1976-01-01
-CUB,Cuba,1974-01-01
-BMU,Bermuda,2008-01-01
-VUT,Vanuatu,2007-01-01
-WSM,Samoa,1979-01-01
-SWE,Sweden,1979-01-01
-RWA,Rwanda,1980-01-01
-GHA,Ghana,2002-01-01
-GRC,Greece,1965-01-01
-NPL,Nepal,1960-01-01
-VUT,Vanuatu,1967-01-01
-MLI,Mali,2019-01-01
-EUU,European Union,1977-01-01
-PRK,"Korea, Dem. People's Rep.",1987-01-01
-LCN,Latin America & Caribbean,2000-01-01
-BTN,Bhutan,2016-01-01
-IDB,IDA blend,1985-01-01
-EAR,Early-demographic dividend,1963-01-01
-TSA,South Asia (IDA & IBRD),2018-01-01
-IDB,IDA blend,1966-01-01
-MAC,"Macao SAR, China",1984-01-01
-CEB,Central Europe and the Baltics,1984-01-01
-LIE,Liechtenstein,1991-01-01
-CHE,Switzerland,2000-01-01
-BFA,Burkina Faso,2001-01-01
-PNG,Papua New Guinea,2010-01-01
-CHE,Switzerland,1982-01-01
-BLR,Belarus,2003-01-01
-PRE,Pre-demographic dividend,1994-01-01
-EAR,Early-demographic dividend,1972-01-01
-TZA,Tanzania,1975-01-01
-CRI,Costa Rica,1991-01-01
-SYR,Syrian Arab Republic,1993-01-01
-BFA,Burkina Faso,1977-01-01
-MYS,Malaysia,1977-01-01
-MMR,Myanmar,1987-01-01
-SWE,Sweden,1971-01-01
-MWI,Malawi,2002-01-01
-HUN,Hungary,1995-01-01
-SLE,Sierra Leone,1996-01-01
-PRT,Portugal,2009-01-01
-MAC,"Macao SAR, China",1968-01-01
-BHS,"Bahamas, The",1960-01-01
-MDG,Madagascar,2019-01-01
-AFG,Afghanistan,2010-01-01
-IDX,IDA only,1980-01-01
-USA,United States,1996-01-01
-GEO,Georgia,2010-01-01
-LMY,Low & middle income,1996-01-01
-TTO,Trinidad and Tobago,1988-01-01
-PRY,Paraguay,2006-01-01
-LBY,Libya,1984-01-01
-LMC,Lower middle income,2001-01-01
-DNK,Denmark,1968-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2018-01-01
-BGR,Bulgaria,1976-01-01
-PSS,Pacific island small states,1993-01-01
-ZAF,South Africa,2018-01-01
-GTM,Guatemala,2014-01-01
-HIC,High income,2018-01-01
-NRU,Nauru,2012-01-01
-PRK,"Korea, Dem. People's Rep.",1989-01-01
-FRO,Faroe Islands,1966-01-01
-ITA,Italy,1987-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1969-01-01
-PNG,Papua New Guinea,1969-01-01
-ITA,Italy,1986-01-01
-BWA,Botswana,1986-01-01
-SSF,Sub-Saharan Africa,2014-01-01
-VCT,St. Vincent and the Grenadines,1984-01-01
-AGO,Angola,1970-01-01
-GNB,Guinea-Bissau,1989-01-01
-FRO,Faroe Islands,1974-01-01
-LAO,Lao PDR,2004-01-01
-IDN,Indonesia,1977-01-01
-LMC,Lower middle income,1971-01-01
-ARG,Argentina,1964-01-01
-CEB,Central Europe and the Baltics,2002-01-01
-DMA,Dominica,1979-01-01
-IRQ,Iraq,2019-01-01
-FIN,Finland,2010-01-01
-GBR,United Kingdom,1973-01-01
-SSA,Sub-Saharan Africa (excluding high income),1987-01-01
-ECS,Europe & Central Asia,1965-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1995-01-01
-MIC,Middle income,1967-01-01
-CYM,Cayman Islands,1986-01-01
-MNG,Mongolia,2012-01-01
-GNQ,Equatorial Guinea,2005-01-01
-SEN,Senegal,2009-01-01
-AFG,Afghanistan,1978-01-01
-ARB,Arab World,2004-01-01
-MDG,Madagascar,1964-01-01
-LKA,Sri Lanka,2004-01-01
-PSE,West Bank and Gaza,2007-01-01
-CPV,Cabo Verde,1994-01-01
-CSS,Caribbean small states,1982-01-01
-HTI,Haiti,1992-01-01
-URY,Uruguay,1998-01-01
-DNK,Denmark,2003-01-01
-IRQ,Iraq,1995-01-01
-UZB,Uzbekistan,1995-01-01
-CYP,Cyprus,1996-01-01
-MYS,Malaysia,2003-01-01
-HUN,Hungary,1998-01-01
-VUT,Vanuatu,1981-01-01
-NPL,Nepal,1974-01-01
-NRU,Nauru,1979-01-01
-DJI,Djibouti,2011-01-01
-BMU,Bermuda,1985-01-01
-PAK,Pakistan,1998-01-01
-FRA,France,1978-01-01
-GUY,Guyana,2011-01-01
-SGP,Singapore,2002-01-01
-FIN,Finland,1996-01-01
-KNA,St. Kitts and Nevis,1969-01-01
-BRA,Brazil,2017-01-01
-GRL,Greenland,2001-01-01
-EAR,Early-demographic dividend,1970-01-01
-TTO,Trinidad and Tobago,1960-01-01
-PHL,Philippines,1997-01-01
-CMR,Cameroon,1994-01-01
-SLV,El Salvador,2011-01-01
-WLD,World,1969-01-01
-BEN,Benin,1972-01-01
-PER,Peru,1985-01-01
-BDI,Burundi,1988-01-01
-EMU,Euro area,2006-01-01
-SAS,South Asia,1994-01-01
-BEL,Belgium,1967-01-01
-BRB,Barbados,1976-01-01
-MDG,Madagascar,1972-01-01
-MYS,Malaysia,1978-01-01
-BHR,Bahrain,1970-01-01
-CSS,Caribbean small states,1996-01-01
-LKA,Sri Lanka,2008-01-01
-ERI,Eritrea,2017-01-01
-SVN,Slovenia,2008-01-01
-WSM,Samoa,1996-01-01
-IND,India,1995-01-01
-BGD,Bangladesh,1998-01-01
-NLD,Netherlands,2001-01-01
-LTE,Late-demographic dividend,2007-01-01
-PAN,Panama,1972-01-01
-ARB,Arab World,1984-01-01
-LTE,Late-demographic dividend,2004-01-01
-LUX,Luxembourg,2006-01-01
-BMU,Bermuda,1988-01-01
-IBT,IDA & IBRD total,2001-01-01
-TUN,Tunisia,2014-01-01
-LBY,Libya,1972-01-01
-FCS,Fragile and conflict affected situations,1984-01-01
-AUT,Austria,1963-01-01
-MLT,Malta,1996-01-01
-BRN,Brunei Darussalam,2006-01-01
-PAN,Panama,2016-01-01
-IRQ,Iraq,2001-01-01
-VCT,St. Vincent and the Grenadines,1987-01-01
-LCA,St. Lucia,1994-01-01
-HUN,Hungary,1992-01-01
-LKA,Sri Lanka,1966-01-01
-FRA,France,2018-01-01
-JAM,Jamaica,2004-01-01
-NER,Niger,1991-01-01
-ALB,Albania,1962-01-01
-MNE,Montenegro,1990-01-01
-PST,Post-demographic dividend,2001-01-01
-SOM,Somalia,1992-01-01
-DNK,Denmark,1999-01-01
-COD,"Congo, Dem. Rep.",1992-01-01
-KWT,Kuwait,2019-01-01
-LBN,Lebanon,1999-01-01
-BRN,Brunei Darussalam,1968-01-01
-DMA,Dominica,2016-01-01
-LCA,St. Lucia,1981-01-01
-NCL,New Caledonia,1972-01-01
-NER,Niger,2005-01-01
-ISL,Iceland,1991-01-01
-TUN,Tunisia,1984-01-01
-KEN,Kenya,1996-01-01
-ESP,Spain,2013-01-01
-MAC,"Macao SAR, China",1975-01-01
-BHR,Bahrain,1985-01-01
-PNG,Papua New Guinea,2000-01-01
-TUV,Tuvalu,2000-01-01
-AFG,Afghanistan,1962-01-01
-MNA,Middle East & North Africa (excluding high income),2019-01-01
-TTO,Trinidad and Tobago,2015-01-01
-JPN,Japan,1960-01-01
-SSD,South Sudan,2007-01-01
-SDN,Sudan,2017-01-01
-GBR,United Kingdom,2004-01-01
-PSS,Pacific island small states,1961-01-01
-SAS,South Asia,1991-01-01
-COL,Colombia,2008-01-01
-AUS,Australia,1960-01-01
-MIC,Middle income,1985-01-01
-EUU,European Union,1974-01-01
-DNK,Denmark,1974-01-01
-KWT,Kuwait,1981-01-01
-ZAF,South Africa,1975-01-01
-FJI,Fiji,2015-01-01
-MOZ,Mozambique,1986-01-01
-LVA,Latvia,2006-01-01
-VCT,St. Vincent and the Grenadines,2002-01-01
-NCL,New Caledonia,2014-01-01
-AUS,Australia,2007-01-01
-COL,Colombia,1960-01-01
-OED,OECD members,1964-01-01
-DZA,Algeria,1971-01-01
-BLZ,Belize,1983-01-01
-AFG,Afghanistan,1993-01-01
-SWE,Sweden,2006-01-01
-TCA,Turks and Caicos Islands,1991-01-01
-PNG,Papua New Guinea,1976-01-01
-SSF,Sub-Saharan Africa,2001-01-01
-SLV,El Salvador,1998-01-01
-SSF,Sub-Saharan Africa,1961-01-01
-HND,Honduras,2004-01-01
-USA,United States,1975-01-01
-IDX,IDA only,1984-01-01
-CHL,Chile,2019-01-01
-LSO,Lesotho,2013-01-01
-BRA,Brazil,2013-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1997-01-01
-BOL,Bolivia,2014-01-01
-SWE,Sweden,1973-01-01
-FRO,Faroe Islands,2005-01-01
-SVK,Slovak Republic,2013-01-01
-VEN,"Venezuela, RB",2008-01-01
-UGA,Uganda,1975-01-01
-IRN,"Iran, Islamic Rep.",1967-01-01
-LCA,St. Lucia,1977-01-01
-SEN,Senegal,1981-01-01
-BRN,Brunei Darussalam,1977-01-01
-VEN,"Venezuela, RB",1977-01-01
-PRT,Portugal,2004-01-01
-SLE,Sierra Leone,2000-01-01
-PAN,Panama,1997-01-01
-KOR,"Korea, Rep.",1990-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),2005-01-01
-RUS,Russian Federation,2014-01-01
-NRU,Nauru,2001-01-01
-SWZ,Eswatini,2003-01-01
-SEN,Senegal,2006-01-01
-IRN,"Iran, Islamic Rep.",1998-01-01
-ABW,Aruba,1993-01-01
-SST,Small states,1969-01-01
-IBT,IDA & IBRD total,1978-01-01
-PRT,Portugal,1985-01-01
-LKA,Sri Lanka,2007-01-01
-NRU,Nauru,1972-01-01
-CHN,China,2005-01-01
-DOM,Dominican Republic,1992-01-01
-GMB,"Gambia, The",1992-01-01
-DZA,Algeria,1972-01-01
-BEN,Benin,1960-01-01
-CHN,China,2004-01-01
-GUY,Guyana,1969-01-01
-BEL,Belgium,2003-01-01
-FJI,Fiji,2016-01-01
-KAZ,Kazakhstan,2017-01-01
-NCL,New Caledonia,1996-01-01
-MMR,Myanmar,2005-01-01
-GHA,Ghana,1991-01-01
-SST,Small states,1963-01-01
-NOR,Norway,1974-01-01
-TSA,South Asia (IDA & IBRD),2007-01-01
-MDG,Madagascar,1965-01-01
-GBR,United Kingdom,1989-01-01
-COG,"Congo, Rep.",1964-01-01
-JOR,Jordan,1975-01-01
-AUT,Austria,2007-01-01
-ESP,Spain,1995-01-01
-NCL,New Caledonia,2016-01-01
-BGD,Bangladesh,2000-01-01
-NPL,Nepal,1984-01-01
-DJI,Djibouti,1992-01-01
-GNB,Guinea-Bissau,2006-01-01
-NGA,Nigeria,1981-01-01
-PER,Peru,2000-01-01
-BEN,Benin,2013-01-01
-LKA,Sri Lanka,1979-01-01
-LBR,Liberia,2018-01-01
-PYF,French Polynesia,1965-01-01
-ABW,Aruba,2010-01-01
-NCL,New Caledonia,2010-01-01
-LCN,Latin America & Caribbean,1963-01-01
-JAM,Jamaica,1994-01-01
-GHA,Ghana,1993-01-01
-ECS,Europe & Central Asia,1997-01-01
-MDV,Maldives,1998-01-01
-MRT,Mauritania,2018-01-01
-CMR,Cameroon,2010-01-01
-KHM,Cambodia,1970-01-01
-MYS,Malaysia,1994-01-01
-NIC,Nicaragua,2006-01-01
-COG,"Congo, Rep.",1968-01-01
-MMR,Myanmar,1988-01-01
-GRD,Grenada,1960-01-01
-BTN,Bhutan,2011-01-01
-CYM,Cayman Islands,2000-01-01
-HTI,Haiti,1967-01-01
-MEX,Mexico,2012-01-01
-USA,United States,1974-01-01
-SYC,Seychelles,1964-01-01
-HTI,Haiti,1978-01-01
-GUY,Guyana,2003-01-01
-ERI,Eritrea,1998-01-01
-IRQ,Iraq,1966-01-01
-IRN,"Iran, Islamic Rep.",2004-01-01
-PSE,West Bank and Gaza,1998-01-01
-ARB,Arab World,1969-01-01
-PRK,"Korea, Dem. People's Rep.",2000-01-01
-SDN,Sudan,1972-01-01
-RUS,Russian Federation,1969-01-01
-GRL,Greenland,2014-01-01
-SST,Small states,2007-01-01
-VNM,Vietnam,2012-01-01
-HUN,Hungary,1977-01-01
-KWT,Kuwait,1970-01-01
-MNA,Middle East & North Africa (excluding high income),1988-01-01
-BEN,Benin,1965-01-01
-PAK,Pakistan,1961-01-01
-BDI,Burundi,1972-01-01
-ARB,Arab World,2007-01-01
-NAM,Namibia,2002-01-01
-BFA,Burkina Faso,2010-01-01
-LIC,Low income,1997-01-01
-MAR,Morocco,1970-01-01
-EAR,Early-demographic dividend,1999-01-01
-AFW,Africa Western and Central,1983-01-01
-GTM,Guatemala,1986-01-01
-UMC,Upper middle income,1987-01-01
-LBR,Liberia,1976-01-01
-AGO,Angola,1974-01-01
-ATG,Antigua and Barbuda,1974-01-01
-ZAF,South Africa,2006-01-01
-LBY,Libya,1980-01-01
-PYF,French Polynesia,1983-01-01
-ISR,Israel,2002-01-01
-NER,Niger,1977-01-01
-PHL,Philippines,2012-01-01
-ZAF,South Africa,1980-01-01
-HPC,Heavily indebted poor countries (HIPC),1994-01-01
-LBR,Liberia,1975-01-01
-AFG,Afghanistan,1992-01-01
-FJI,Fiji,1968-01-01
-ZWE,Zimbabwe,2009-01-01
-MUS,Mauritius,1980-01-01
-MNG,Mongolia,1991-01-01
-KGZ,Kyrgyz Republic,2009-01-01
-TUN,Tunisia,2015-01-01
-KAZ,Kazakhstan,2015-01-01
-BLZ,Belize,2017-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1972-01-01
-AUT,Austria,2006-01-01
-MHL,Marshall Islands,2011-01-01
-SSA,Sub-Saharan Africa (excluding high income),1999-01-01
-KWT,Kuwait,2005-01-01
-KIR,Kiribati,1988-01-01
-MIC,Middle income,2013-01-01
-NRU,Nauru,1994-01-01
-NGA,Nigeria,1996-01-01
-CHN,China,1979-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1985-01-01
-SUR,Suriname,2013-01-01
-MLI,Mali,1998-01-01
-NAC,North America,1964-01-01
-FJI,Fiji,2009-01-01
-CEB,Central Europe and the Baltics,1975-01-01
-PSS,Pacific island small states,1983-01-01
-ZWE,Zimbabwe,2018-01-01
-LBN,Lebanon,1993-01-01
-LMY,Low & middle income,1963-01-01
-AFE,Africa Eastern and Southern,1986-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1991-01-01
-ISR,Israel,1973-01-01
-MLT,Malta,1988-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),1972-01-01
-POL,Poland,1960-01-01
-SSD,South Sudan,1997-01-01
-SDN,Sudan,2011-01-01
-JOR,Jordan,2006-01-01
-ARB,Arab World,2002-01-01
-HPC,Heavily indebted poor countries (HIPC),2010-01-01
-EAP,East Asia & Pacific (excluding high income),2006-01-01
-GTM,Guatemala,2004-01-01
-GRL,Greenland,1996-01-01
-CEB,Central Europe and the Baltics,2005-01-01
-COG,"Congo, Rep.",2008-01-01
-MEA,Middle East & North Africa,2012-01-01
-MRT,Mauritania,1987-01-01
-COL,Colombia,1972-01-01
-COD,"Congo, Dem. Rep.",1988-01-01
-ECU,Ecuador,2013-01-01
-BTN,Bhutan,2015-01-01
-AGO,Angola,2016-01-01
-COD,"Congo, Dem. Rep.",2003-01-01
-LIE,Liechtenstein,1992-01-01
-BRB,Barbados,1964-01-01
-OMN,Oman,1985-01-01
-IDN,Indonesia,1966-01-01
-ATG,Antigua and Barbuda,2000-01-01
-ECS,Europe & Central Asia,2000-01-01
-ATG,Antigua and Barbuda,2016-01-01
-TCA,Turks and Caicos Islands,1995-01-01
-CYP,Cyprus,1994-01-01
-KEN,Kenya,1990-01-01
-VNM,Vietnam,2001-01-01
-HTI,Haiti,2010-01-01
-PAK,Pakistan,1980-01-01
-NLD,Netherlands,1995-01-01
-COG,"Congo, Rep.",1971-01-01
-FSM,"Micronesia, Fed. Sts.",1998-01-01
-OED,OECD members,2018-01-01
-BWA,Botswana,1989-01-01
-CUB,Cuba,1964-01-01
-GUY,Guyana,1983-01-01
-ARE,United Arab Emirates,1992-01-01
-USA,United States,2014-01-01
-YEM,"Yemen, Rep.",2003-01-01
-COL,Colombia,1966-01-01
-AFE,Africa Eastern and Southern,2006-01-01
-TCA,Turks and Caicos Islands,2005-01-01
-BGR,Bulgaria,2012-01-01
-BRN,Brunei Darussalam,2001-01-01
-EAS,East Asia & Pacific,1985-01-01
-BLZ,Belize,1998-01-01
-NER,Niger,1968-01-01
-IND,India,1987-01-01
-SDN,Sudan,2019-01-01
-GUY,Guyana,1960-01-01
-OMN,Oman,2005-01-01
-ATG,Antigua and Barbuda,2010-01-01
-GMB,"Gambia, The",1968-01-01
-MAR,Morocco,2015-01-01
-CMR,Cameroon,1976-01-01
-BMU,Bermuda,2012-01-01
-TUN,Tunisia,2001-01-01
-ZMB,Zambia,2013-01-01
-POL,Poland,1988-01-01
-HPC,Heavily indebted poor countries (HIPC),1985-01-01
-MUS,Mauritius,1978-01-01
-LAO,Lao PDR,1981-01-01
-LIC,Low income,1968-01-01
-BTN,Bhutan,1990-01-01
-HPC,Heavily indebted poor countries (HIPC),1970-01-01
-DNK,Denmark,1988-01-01
-KOR,"Korea, Rep.",1983-01-01
-ARG,Argentina,1996-01-01
-YEM,"Yemen, Rep.",2016-01-01
-PHL,Philippines,1974-01-01
-CIV,Cote d'Ivoire,1989-01-01
-WLD,World,1977-01-01
-CIV,Cote d'Ivoire,1967-01-01
-PLW,Palau,1970-01-01
-NAM,Namibia,2019-01-01
-COM,Comoros,1973-01-01
-UMC,Upper middle income,2012-01-01
-HND,Honduras,2012-01-01
-COG,"Congo, Rep.",1995-01-01
-TCA,Turks and Caicos Islands,2014-01-01
-HKG,"Hong Kong SAR, China",1986-01-01
-AUT,Austria,1984-01-01
-UZB,Uzbekistan,1990-01-01
-HND,Honduras,1986-01-01
-ABW,Aruba,1975-01-01
-CRI,Costa Rica,1989-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1967-01-01
-LUX,Luxembourg,1981-01-01
-SWZ,Eswatini,1977-01-01
-TKM,Turkmenistan,1992-01-01
-TZA,Tanzania,1970-01-01
-PRT,Portugal,1999-01-01
-HTI,Haiti,1983-01-01
-ISR,Israel,1963-01-01
-GIN,Guinea,1978-01-01
-VUT,Vanuatu,1985-01-01
-AUS,Australia,2017-01-01
-GRC,Greece,1992-01-01
-HUN,Hungary,2005-01-01
-SSF,Sub-Saharan Africa,1998-01-01
-PNG,Papua New Guinea,2004-01-01
-LBN,Lebanon,1984-01-01
-EAS,East Asia & Pacific,1991-01-01
-GHA,Ghana,1984-01-01
-LBY,Libya,1995-01-01
-OMN,Oman,1989-01-01
-SVN,Slovenia,1993-01-01
-PST,Post-demographic dividend,1988-01-01
-MYS,Malaysia,1980-01-01
-LIC,Low income,1979-01-01
-BDI,Burundi,1994-01-01
-LDC,Least developed countries: UN classification,1976-01-01
-SVN,Slovenia,2005-01-01
-FSM,"Micronesia, Fed. Sts.",1996-01-01
-OSS,Other small states,1993-01-01
-LAC,Latin America & Caribbean (excluding high income),1970-01-01
-GTM,Guatemala,2005-01-01
-CRI,Costa Rica,2008-01-01
-WSM,Samoa,2003-01-01
-CIV,Cote d'Ivoire,2015-01-01
-IDX,IDA only,1987-01-01
-AUT,Austria,1987-01-01
-PST,Post-demographic dividend,2009-01-01
-SWE,Sweden,2010-01-01
-BEN,Benin,1967-01-01
-BGR,Bulgaria,1997-01-01
-LAC,Latin America & Caribbean (excluding high income),1961-01-01
-CYP,Cyprus,2003-01-01
-SLV,El Salvador,2016-01-01
-NAM,Namibia,2000-01-01
-TSA,South Asia (IDA & IBRD),1981-01-01
-LMC,Lower middle income,2006-01-01
-SYC,Seychelles,1990-01-01
-TZA,Tanzania,1968-01-01
-EAS,East Asia & Pacific,1967-01-01
-GUY,Guyana,2019-01-01
-GRC,Greece,2008-01-01
-UMC,Upper middle income,1961-01-01
-GIN,Guinea,1964-01-01
-PRY,Paraguay,1988-01-01
-ARG,Argentina,1983-01-01
-LIC,Low income,1960-01-01
-VGB,British Virgin Islands,2016-01-01
-SST,Small states,1979-01-01
-TJK,Tajikistan,2015-01-01
-LIC,Low income,1971-01-01
-NLD,Netherlands,2004-01-01
-STP,Sao Tome and Principe,2014-01-01
-LCA,St. Lucia,1967-01-01
-PER,Peru,1998-01-01
-MNE,Montenegro,2014-01-01
-NOR,Norway,1976-01-01
-TCA,Turks and Caicos Islands,1996-01-01
-GNB,Guinea-Bissau,1994-01-01
-JAM,Jamaica,1987-01-01
-MRT,Mauritania,1963-01-01
-SLB,Solomon Islands,1979-01-01
-BIH,Bosnia and Herzegovina,2002-01-01
-SAU,Saudi Arabia,1984-01-01
-DJI,Djibouti,1975-01-01
-FIN,Finland,1966-01-01
-NOR,Norway,1962-01-01
-CRI,Costa Rica,1969-01-01
-ZMB,Zambia,2014-01-01
-BEL,Belgium,1990-01-01
-KNA,St. Kitts and Nevis,1973-01-01
-MRT,Mauritania,2010-01-01
-SUR,Suriname,1978-01-01
-WSM,Samoa,1982-01-01
-BDI,Burundi,1983-01-01
-SYC,Seychelles,2008-01-01
-HTI,Haiti,1998-01-01
-BHS,"Bahamas, The",1961-01-01
-HND,Honduras,1970-01-01
-PAK,Pakistan,1979-01-01
-LDC,Least developed countries: UN classification,1991-01-01
-NCL,New Caledonia,1970-01-01
-GRD,Grenada,2019-01-01
-THA,Thailand,2002-01-01
-GRL,Greenland,1997-01-01
-ARG,Argentina,1988-01-01
-MAC,"Macao SAR, China",1997-01-01
-JOR,Jordan,1960-01-01
-GNB,Guinea-Bissau,2002-01-01
-LDC,Least developed countries: UN classification,1988-01-01
-MEA,Middle East & North Africa,2010-01-01
-CZE,Czechia,2018-01-01
-TGO,Togo,1960-01-01
-PHL,Philippines,1987-01-01
-ECA,Europe & Central Asia (excluding high income),2001-01-01
-CEB,Central Europe and the Baltics,1963-01-01
-PRK,"Korea, Dem. People's Rep.",1975-01-01
-FIN,Finland,2015-01-01
-BHR,Bahrain,1973-01-01
-MDG,Madagascar,1987-01-01
-MOZ,Mozambique,2016-01-01
-GRC,Greece,1991-01-01
-CPV,Cabo Verde,1974-01-01
-MIC,Middle income,1993-01-01
-COL,Colombia,2002-01-01
-EAR,Early-demographic dividend,2002-01-01
-IDX,IDA only,2019-01-01
-IBT,IDA & IBRD total,2013-01-01
-BFA,Burkina Faso,2018-01-01
-RUS,Russian Federation,1970-01-01
-ZWE,Zimbabwe,1980-01-01
-DZA,Algeria,1986-01-01
-AND,Andorra,2006-01-01
-WSM,Samoa,1963-01-01
-PSS,Pacific island small states,1964-01-01
-ISR,Israel,1997-01-01
-OED,OECD members,2006-01-01
-TGO,Togo,1997-01-01
-NLD,Netherlands,1973-01-01
-GEO,Georgia,2007-01-01
-TON,Tonga,2004-01-01
-HUN,Hungary,1978-01-01
-NPL,Nepal,1964-01-01
-GIB,Gibraltar,2014-01-01
-BOL,Bolivia,1989-01-01
-MEX,Mexico,1981-01-01
-ZAF,South Africa,1986-01-01
-CUB,Cuba,2013-01-01
-SEN,Senegal,1980-01-01
-LMY,Low & middle income,2018-01-01
-GUY,Guyana,2007-01-01
-TCD,Chad,1999-01-01
-MMR,Myanmar,1967-01-01
-TJK,Tajikistan,1992-01-01
-NER,Niger,2004-01-01
-STP,Sao Tome and Principe,1970-01-01
-TTO,Trinidad and Tobago,1997-01-01
-AFW,Africa Western and Central,1968-01-01
-ZAF,South Africa,1960-01-01
-PRK,"Korea, Dem. People's Rep.",1981-01-01
-LMY,Low & middle income,2017-01-01
-MRT,Mauritania,1989-01-01
-VEN,"Venezuela, RB",2017-01-01
-SOM,Somalia,2009-01-01
-ZAF,South Africa,1982-01-01
-THA,Thailand,1972-01-01
-SYR,Syrian Arab Republic,1988-01-01
-CHN,China,2010-01-01
-CHL,Chile,2007-01-01
-CYP,Cyprus,1986-01-01
-THA,Thailand,1977-01-01
-CHL,Chile,1989-01-01
-ECS,Europe & Central Asia,1979-01-01
-COL,Colombia,2019-01-01
-BOL,Bolivia,1968-01-01
-PST,Post-demographic dividend,2003-01-01
-IND,India,1975-01-01
-ZAF,South Africa,2016-01-01
-ZAF,South Africa,2007-01-01
-MUS,Mauritius,2005-01-01
-OMN,Oman,1990-01-01
-MAR,Morocco,1971-01-01
-LKA,Sri Lanka,1972-01-01
-SWZ,Eswatini,2002-01-01
-NRU,Nauru,1975-01-01
-KIR,Kiribati,2006-01-01
-KEN,Kenya,2018-01-01
-MRT,Mauritania,1984-01-01
-THA,Thailand,1996-01-01
-HPC,Heavily indebted poor countries (HIPC),2008-01-01
-DNK,Denmark,2005-01-01
-NLD,Netherlands,2013-01-01
-ECU,Ecuador,2010-01-01
-BHS,"Bahamas, The",1971-01-01
-CYP,Cyprus,2014-01-01
-ITA,Italy,2009-01-01
-MNA,Middle East & North Africa (excluding high income),2012-01-01
-WSM,Samoa,1973-01-01
-CIV,Cote d'Ivoire,2001-01-01
-AUS,Australia,1979-01-01
-LUX,Luxembourg,1973-01-01
-MOZ,Mozambique,1991-01-01
-SAS,South Asia,1987-01-01
-DJI,Djibouti,1998-01-01
-BEL,Belgium,2016-01-01
-HTI,Haiti,1971-01-01
-BHR,Bahrain,1977-01-01
-IBT,IDA & IBRD total,1962-01-01
-FRA,France,1961-01-01
-CYP,Cyprus,2012-01-01
-AFW,Africa Western and Central,2004-01-01
-ARG,Argentina,2011-01-01
-BLR,Belarus,2002-01-01
-JPN,Japan,1999-01-01
-EAR,Early-demographic dividend,1983-01-01
-VGB,British Virgin Islands,1970-01-01
-COM,Comoros,1971-01-01
-FIN,Finland,1985-01-01
-SLE,Sierra Leone,2012-01-01
-MEX,Mexico,1977-01-01
-IDX,IDA only,1963-01-01
-NZL,New Zealand,2006-01-01
-HND,Honduras,1980-01-01
-PSS,Pacific island small states,1985-01-01
-ALB,Albania,1996-01-01
-ISL,Iceland,1984-01-01
-SYC,Seychelles,1998-01-01
-FRO,Faroe Islands,1980-01-01
-VEN,"Venezuela, RB",1991-01-01
-CHL,Chile,2005-01-01
-LCN,Latin America & Caribbean,1998-01-01
-CSS,Caribbean small states,1975-01-01
-MNG,Mongolia,1971-01-01
-NER,Niger,2006-01-01
-MNE,Montenegro,2004-01-01
-OMN,Oman,1979-01-01
-NZL,New Zealand,2000-01-01
-EGY,"Egypt, Arab Rep.",1974-01-01
-ROU,Romania,1981-01-01
-IRN,"Iran, Islamic Rep.",1961-01-01
-CPV,Cabo Verde,1971-01-01
-BRN,Brunei Darussalam,1983-01-01
-TJK,Tajikistan,2006-01-01
-DMA,Dominica,1983-01-01
-URY,Uruguay,1995-01-01
-MUS,Mauritius,1967-01-01
-SGP,Singapore,2008-01-01
-OED,OECD members,1971-01-01
-AUT,Austria,1967-01-01
-POL,Poland,2008-01-01
-PER,Peru,2008-01-01
-SDN,Sudan,1965-01-01
-LBN,Lebanon,2002-01-01
-PRT,Portugal,2005-01-01
-SOM,Somalia,1966-01-01
-SAS,South Asia,1999-01-01
-EGY,"Egypt, Arab Rep.",2010-01-01
-ARE,United Arab Emirates,1960-01-01
-LBR,Liberia,2015-01-01
-GAB,Gabon,1997-01-01
-IRQ,Iraq,1997-01-01
-NZL,New Zealand,1978-01-01
-HUN,Hungary,1999-01-01
-CHE,Switzerland,2019-01-01
-PSS,Pacific island small states,1960-01-01
-UZB,Uzbekistan,1991-01-01
-NPL,Nepal,1972-01-01
-SAU,Saudi Arabia,1967-01-01
-BEN,Benin,1979-01-01
-SRB,Serbia,1996-01-01
-GIB,Gibraltar,1984-01-01
-BRA,Brazil,1985-01-01
-AUS,Australia,1986-01-01
-GMB,"Gambia, The",1983-01-01
-QAT,Qatar,1989-01-01
-LBY,Libya,2006-01-01
-BEL,Belgium,1970-01-01
-PYF,French Polynesia,1972-01-01
-ECA,Europe & Central Asia (excluding high income),2007-01-01
-VNM,Vietnam,1982-01-01
-KEN,Kenya,1982-01-01
-BLR,Belarus,1990-01-01
-MOZ,Mozambique,1974-01-01
-MWI,Malawi,1998-01-01
-SUR,Suriname,1966-01-01
-LIC,Low income,2018-01-01
-CSS,Caribbean small states,1984-01-01
-ROU,Romania,1972-01-01
-NPL,Nepal,1965-01-01
-BEL,Belgium,2009-01-01
-HND,Honduras,2010-01-01
-IDN,Indonesia,1993-01-01
-SLB,Solomon Islands,1977-01-01
-DMA,Dominica,2003-01-01
-KIR,Kiribati,1967-01-01
-TSA,South Asia (IDA & IBRD),2017-01-01
-SAU,Saudi Arabia,1980-01-01
-NCL,New Caledonia,1969-01-01
-MAR,Morocco,1999-01-01
-LBR,Liberia,1994-01-01
-TSA,South Asia (IDA & IBRD),2014-01-01
-LAO,Lao PDR,2002-01-01
-GIN,Guinea,1974-01-01
-EAS,East Asia & Pacific,1973-01-01
-MDA,Moldova,2000-01-01
-SAS,South Asia,2015-01-01
-BRB,Barbados,2004-01-01
-GEO,Georgia,2008-01-01
-COL,Colombia,2013-01-01
-PYF,French Polynesia,1973-01-01
-BHS,"Bahamas, The",1972-01-01
-PAN,Panama,2010-01-01
-VUT,Vanuatu,2017-01-01
-AFE,Africa Eastern and Southern,2004-01-01
-NLD,Netherlands,1999-01-01
-BRB,Barbados,1999-01-01
-MHL,Marshall Islands,2015-01-01
-ECS,Europe & Central Asia,2018-01-01
-DJI,Djibouti,2016-01-01
-GRC,Greece,1981-01-01
-COL,Colombia,1980-01-01
-BLZ,Belize,1970-01-01
-BEN,Benin,2014-01-01
-MEA,Middle East & North Africa,1979-01-01
-MOZ,Mozambique,1993-01-01
-GTM,Guatemala,1984-01-01
-GNB,Guinea-Bissau,2019-01-01
-KIR,Kiribati,1993-01-01
-BOL,Bolivia,1986-01-01
-URY,Uruguay,2004-01-01
-VCT,St. Vincent and the Grenadines,1986-01-01
-LKA,Sri Lanka,1985-01-01
-BFA,Burkina Faso,1993-01-01
-BGR,Bulgaria,2008-01-01
-BEL,Belgium,2002-01-01
-TSA,South Asia (IDA & IBRD),1978-01-01
-IDN,Indonesia,1963-01-01
-BTN,Bhutan,1973-01-01
-BLR,Belarus,1998-01-01
-USA,United States,1995-01-01
-JOR,Jordan,1989-01-01
-GNB,Guinea-Bissau,1971-01-01
-NOR,Norway,2007-01-01
-EUU,European Union,1981-01-01
-WSM,Samoa,2005-01-01
-NPL,Nepal,1969-01-01
-VEN,"Venezuela, RB",1987-01-01
-MDA,Moldova,2013-01-01
-ECU,Ecuador,1991-01-01
-CRI,Costa Rica,1995-01-01
-COL,Colombia,1995-01-01
-ZMB,Zambia,1998-01-01
-IDA,IDA total,2011-01-01
-ZAF,South Africa,1993-01-01
-ECA,Europe & Central Asia (excluding high income),1987-01-01
-DOM,Dominican Republic,1981-01-01
-DNK,Denmark,1963-01-01
-ABW,Aruba,1979-01-01
-PHL,Philippines,2009-01-01
-BOL,Bolivia,2006-01-01
-PRT,Portugal,1997-01-01
-KNA,St. Kitts and Nevis,1984-01-01
-OMN,Oman,2017-01-01
-SSD,South Sudan,2008-01-01
-SAS,South Asia,1995-01-01
-PAN,Panama,2019-01-01
-CYM,Cayman Islands,1961-01-01
-FSM,"Micronesia, Fed. Sts.",2015-01-01
-BRB,Barbados,1980-01-01
-ALB,Albania,1984-01-01
-SDN,Sudan,1961-01-01
-GUY,Guyana,1991-01-01
-NRU,Nauru,2004-01-01
-CHE,Switzerland,1989-01-01
-FSM,"Micronesia, Fed. Sts.",2003-01-01
-SLV,El Salvador,2013-01-01
-RWA,Rwanda,1966-01-01
-TCD,Chad,1967-01-01
-DZA,Algeria,1984-01-01
-MUS,Mauritius,1985-01-01
-ETH,Ethiopia,1996-01-01
-CRI,Costa Rica,1999-01-01
-UMC,Upper middle income,1983-01-01
-BRN,Brunei Darussalam,2019-01-01
-LBY,Libya,2002-01-01
-SGP,Singapore,2018-01-01
-AGO,Angola,1986-01-01
-PYF,French Polynesia,1989-01-01
-TKM,Turkmenistan,2013-01-01
-CHN,China,1988-01-01
-CEB,Central Europe and the Baltics,1997-01-01
-SGP,Singapore,1971-01-01
-LMC,Lower middle income,2007-01-01
-PSE,West Bank and Gaza,2008-01-01
-GTM,Guatemala,1980-01-01
-ECS,Europe & Central Asia,1973-01-01
-COG,"Congo, Rep.",1977-01-01
-ARE,United Arab Emirates,1986-01-01
-URY,Uruguay,2010-01-01
-VEN,"Venezuela, RB",2012-01-01
-VCT,St. Vincent and the Grenadines,2019-01-01
-EAS,East Asia & Pacific,2007-01-01
-IRQ,Iraq,1991-01-01
-ISR,Israel,1979-01-01
-SVN,Slovenia,2011-01-01
-MDA,Moldova,1995-01-01
-LAC,Latin America & Caribbean (excluding high income),2000-01-01
-FRO,Faroe Islands,1983-01-01
-LTU,Lithuania,1996-01-01
-DJI,Djibouti,2013-01-01
-BMU,Bermuda,1973-01-01
-JOR,Jordan,1999-01-01
-LBR,Liberia,2002-01-01
-RUS,Russian Federation,2016-01-01
-LVA,Latvia,2014-01-01
-ROU,Romania,1980-01-01
-HPC,Heavily indebted poor countries (HIPC),1969-01-01
-RUS,Russian Federation,1964-01-01
-OED,OECD members,1970-01-01
-WSM,Samoa,2010-01-01
-SWE,Sweden,1963-01-01
-ECU,Ecuador,1981-01-01
-SST,Small states,1985-01-01
-MMR,Myanmar,1999-01-01
-MLT,Malta,1983-01-01
-IDA,IDA total,1983-01-01
-BHS,"Bahamas, The",1982-01-01
-PST,Post-demographic dividend,2017-01-01
-COD,"Congo, Dem. Rep.",1999-01-01
-HKG,"Hong Kong SAR, China",1996-01-01
-TON,Tonga,1986-01-01
-COM,Comoros,2007-01-01
-TJK,Tajikistan,2001-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1990-01-01
-COD,"Congo, Dem. Rep.",2005-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2004-01-01
-BDI,Burundi,2005-01-01
-KIR,Kiribati,1971-01-01
-GHA,Ghana,1975-01-01
-NER,Niger,1999-01-01
-SYR,Syrian Arab Republic,2011-01-01
-MNA,Middle East & North Africa (excluding high income),1962-01-01
-VGB,British Virgin Islands,1996-01-01
-MOZ,Mozambique,2010-01-01
-OSS,Other small states,2011-01-01
-GUY,Guyana,1974-01-01
-ECA,Europe & Central Asia (excluding high income),1979-01-01
-SSA,Sub-Saharan Africa (excluding high income),2003-01-01
-LUX,Luxembourg,1977-01-01
-FSM,"Micronesia, Fed. Sts.",2010-01-01
-EAS,East Asia & Pacific,2003-01-01
-BEN,Benin,2002-01-01
-HND,Honduras,1967-01-01
-CEB,Central Europe and the Baltics,1985-01-01
-PAK,Pakistan,2013-01-01
-SAS,South Asia,2009-01-01
-THA,Thailand,1987-01-01
-AFE,Africa Eastern and Southern,1998-01-01
-TCD,Chad,2005-01-01
-CHN,China,1984-01-01
-ECS,Europe & Central Asia,1987-01-01
-IDX,IDA only,2018-01-01
-SWE,Sweden,1964-01-01
-CRI,Costa Rica,1976-01-01
-MKD,North Macedonia,2017-01-01
-AFW,Africa Western and Central,2002-01-01
-MLT,Malta,2009-01-01
-AFE,Africa Eastern and Southern,1962-01-01
-EUU,European Union,1988-01-01
-FJI,Fiji,1991-01-01
-GNB,Guinea-Bissau,1985-01-01
-SGP,Singapore,1993-01-01
-SGP,Singapore,1994-01-01
-DJI,Djibouti,1970-01-01
-ETH,Ethiopia,2007-01-01
-DOM,Dominican Republic,1966-01-01
-PSS,Pacific island small states,2009-01-01
-DZA,Algeria,1962-01-01
-SYR,Syrian Arab Republic,1999-01-01
-ARE,United Arab Emirates,1974-01-01
-GMB,"Gambia, The",2016-01-01
-MYS,Malaysia,1972-01-01
-IRN,"Iran, Islamic Rep.",1991-01-01
-OSS,Other small states,1999-01-01
-LKA,Sri Lanka,1975-01-01
-QAT,Qatar,1980-01-01
-RWA,Rwanda,1975-01-01
-NGA,Nigeria,1972-01-01
-ITA,Italy,1976-01-01
-CZE,Czechia,2007-01-01
-IND,India,2017-01-01
-GIB,Gibraltar,1970-01-01
-MDV,Maldives,2009-01-01
-PRK,"Korea, Dem. People's Rep.",1982-01-01
-NRU,Nauru,2015-01-01
-VCT,St. Vincent and the Grenadines,1991-01-01
-ARB,Arab World,1971-01-01
-MWI,Malawi,1999-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1970-01-01
-FCS,Fragile and conflict affected situations,1974-01-01
-HTI,Haiti,1993-01-01
-ALB,Albania,1990-01-01
-IBT,IDA & IBRD total,1973-01-01
-BGD,Bangladesh,1968-01-01
-TUN,Tunisia,1961-01-01
-SWE,Sweden,2013-01-01
-MAC,"Macao SAR, China",2014-01-01
-PAN,Panama,1975-01-01
-MNG,Mongolia,2018-01-01
-OED,OECD members,2007-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),1985-01-01
-LDC,Least developed countries: UN classification,1990-01-01
-NRU,Nauru,1987-01-01
-PRE,Pre-demographic dividend,1990-01-01
-GUY,Guyana,1996-01-01
-MDG,Madagascar,1960-01-01
-KHM,Cambodia,2014-01-01
-ALB,Albania,1993-01-01
-BWA,Botswana,2006-01-01
-BDI,Burundi,1967-01-01
-CEB,Central Europe and the Baltics,2018-01-01
-UGA,Uganda,1964-01-01
-DJI,Djibouti,2018-01-01
-PAK,Pakistan,2006-01-01
-MEX,Mexico,2004-01-01
-ATG,Antigua and Barbuda,1976-01-01
-BHS,"Bahamas, The",2017-01-01
-TZA,Tanzania,1973-01-01
-KAZ,Kazakhstan,1999-01-01
-CHN,China,1993-01-01
-KHM,Cambodia,1988-01-01
-ABW,Aruba,1974-01-01
-EGY,"Egypt, Arab Rep.",1971-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1973-01-01
-LMC,Lower middle income,1979-01-01
-MLI,Mali,1970-01-01
-JOR,Jordan,1997-01-01
-TUR,Turkey,1987-01-01
-NRU,Nauru,2011-01-01
-JOR,Jordan,2007-01-01
-YEM,"Yemen, Rep.",1967-01-01
-USA,United States,1973-01-01
-ETH,Ethiopia,2010-01-01
-PST,Post-demographic dividend,1963-01-01
-ESP,Spain,1961-01-01
-ECS,Europe & Central Asia,2004-01-01
-TKM,Turkmenistan,1995-01-01
-CHE,Switzerland,2009-01-01
-LCA,St. Lucia,1980-01-01
-MDG,Madagascar,2006-01-01
-LBN,Lebanon,2016-01-01
-GBR,United Kingdom,1970-01-01
-LAC,Latin America & Caribbean (excluding high income),1988-01-01
-LAO,Lao PDR,1989-01-01
-CZE,Czechia,1992-01-01
-LUX,Luxembourg,1989-01-01
-KAZ,Kazakhstan,2001-01-01
-UMC,Upper middle income,1979-01-01
-FRO,Faroe Islands,1999-01-01
-EGY,"Egypt, Arab Rep.",1973-01-01
-KAZ,Kazakhstan,2007-01-01
-COL,Colombia,2004-01-01
-LTE,Late-demographic dividend,1987-01-01
-SEN,Senegal,1996-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),1964-01-01
-PAK,Pakistan,2004-01-01
-NLD,Netherlands,2015-01-01
-FIN,Finland,1999-01-01
-LTE,Late-demographic dividend,1967-01-01
-TCD,Chad,1986-01-01
-EMU,Euro area,2012-01-01
-BHR,Bahrain,1961-01-01
-MDV,Maldives,2016-01-01
-ZAF,South Africa,1978-01-01
-FRA,France,2006-01-01
-TZA,Tanzania,1991-01-01
-DEU,Germany,2007-01-01
-VNM,Vietnam,2002-01-01
-CEB,Central Europe and the Baltics,1983-01-01
-HUN,Hungary,1963-01-01
-PRE,Pre-demographic dividend,1980-01-01
-BLZ,Belize,1962-01-01
-IDN,Indonesia,1981-01-01
-UZB,Uzbekistan,2016-01-01
-TON,Tonga,1999-01-01
-BHR,Bahrain,2003-01-01
-GRC,Greece,2015-01-01
-ARB,Arab World,1997-01-01
-ARG,Argentina,2007-01-01
-CEB,Central Europe and the Baltics,1994-01-01
-KNA,St. Kitts and Nevis,1994-01-01
-MOZ,Mozambique,1964-01-01
-SOM,Somalia,2002-01-01
-MKD,North Macedonia,2010-01-01
-SDN,Sudan,1975-01-01
-ZMB,Zambia,2012-01-01
-COM,Comoros,1985-01-01
-VUT,Vanuatu,1980-01-01
-MLT,Malta,1982-01-01
-YEM,"Yemen, Rep.",1973-01-01
-GRC,Greece,1987-01-01
-ECA,Europe & Central Asia (excluding high income),1971-01-01
-VEN,"Venezuela, RB",2013-01-01
-ARM,Armenia,1996-01-01
-ETH,Ethiopia,1969-01-01
-ITA,Italy,1961-01-01
-POL,Poland,1964-01-01
-IDA,IDA total,2014-01-01
-SSF,Sub-Saharan Africa,1987-01-01
-SAU,Saudi Arabia,1964-01-01
-MUS,Mauritius,2004-01-01
-AFE,Africa Eastern and Southern,1971-01-01
-MWI,Malawi,1994-01-01
-MMR,Myanmar,1960-01-01
-COM,Comoros,1983-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1997-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2012-01-01
-BRB,Barbados,1973-01-01
-COG,"Congo, Rep.",1980-01-01
-WLD,World,2006-01-01
-MAR,Morocco,1983-01-01
-EUU,European Union,2002-01-01
-NOR,Norway,1961-01-01
-AGO,Angola,1968-01-01
-RUS,Russian Federation,1961-01-01
-HIC,High income,1999-01-01
-CYM,Cayman Islands,1972-01-01
-FIN,Finland,2018-01-01
-CYM,Cayman Islands,2013-01-01
-IND,India,2015-01-01
-AUS,Australia,1976-01-01
-DMA,Dominica,1971-01-01
-ETH,Ethiopia,1987-01-01
-NLD,Netherlands,1960-01-01
-FCS,Fragile and conflict affected situations,1976-01-01
-GIB,Gibraltar,2004-01-01
-GNQ,Equatorial Guinea,1964-01-01
-LTE,Late-demographic dividend,1983-01-01
-PHL,Philippines,1989-01-01
-SLV,El Salvador,2005-01-01
-GUY,Guyana,2010-01-01
-GRC,Greece,1999-01-01
-GIB,Gibraltar,2008-01-01
-VUT,Vanuatu,1972-01-01
-CHE,Switzerland,2016-01-01
-TON,Tonga,2005-01-01
-NER,Niger,1982-01-01
-SLV,El Salvador,1966-01-01
-YEM,"Yemen, Rep.",1980-01-01
-BMU,Bermuda,1982-01-01
-TJK,Tajikistan,2016-01-01
-IRL,Ireland,1977-01-01
-EAS,East Asia & Pacific,1977-01-01
-SSD,South Sudan,1990-01-01
-BMU,Bermuda,1968-01-01
-AFE,Africa Eastern and Southern,2017-01-01
-GTM,Guatemala,1981-01-01
-MLT,Malta,1984-01-01
-AFW,Africa Western and Central,2013-01-01
-VCT,St. Vincent and the Grenadines,1998-01-01
-DZA,Algeria,2000-01-01
-UMC,Upper middle income,2011-01-01
-BOL,Bolivia,2018-01-01
-ECU,Ecuador,1980-01-01
-AFW,Africa Western and Central,1997-01-01
-FRO,Faroe Islands,2010-01-01
-MIC,Middle income,2010-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1999-01-01
-SSF,Sub-Saharan Africa,2007-01-01
-PRT,Portugal,2018-01-01
-GNQ,Equatorial Guinea,2004-01-01
-MKD,North Macedonia,2015-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1970-01-01
-LAC,Latin America & Caribbean (excluding high income),1974-01-01
-CYP,Cyprus,1964-01-01
-TJK,Tajikistan,1993-01-01
-ISL,Iceland,1975-01-01
-ROU,Romania,1985-01-01
-GAB,Gabon,1996-01-01
-EAP,East Asia & Pacific (excluding high income),2015-01-01
-HPC,Heavily indebted poor countries (HIPC),1995-01-01
-KIR,Kiribati,1961-01-01
-BOL,Bolivia,1996-01-01
-IDN,Indonesia,1997-01-01
-MYS,Malaysia,1971-01-01
-XKX,Kosovo,2010-01-01
-SOM,Somalia,2001-01-01
-TUR,Turkey,1979-01-01
-VGB,British Virgin Islands,2000-01-01
-CHL,Chile,1975-01-01
-ROU,Romania,1984-01-01
-CHL,Chile,1978-01-01
-COL,Colombia,1985-01-01
-LSO,Lesotho,2007-01-01
-MLT,Malta,1970-01-01
-TCD,Chad,1964-01-01
-GHA,Ghana,1996-01-01
-EGY,"Egypt, Arab Rep.",1966-01-01
-ARE,United Arab Emirates,1996-01-01
-IDX,IDA only,1965-01-01
-COM,Comoros,2012-01-01
-MDG,Madagascar,1976-01-01
-IDB,IDA blend,2008-01-01
-MOZ,Mozambique,2001-01-01
-POL,Poland,1961-01-01
-ZMB,Zambia,2003-01-01
-SYR,Syrian Arab Republic,1969-01-01
-SAU,Saudi Arabia,1963-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),2012-01-01
-DMA,Dominica,1973-01-01
-DMA,Dominica,1989-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1973-01-01
-URY,Uruguay,1985-01-01
-TTO,Trinidad and Tobago,2008-01-01
-LKA,Sri Lanka,1982-01-01
-EMU,Euro area,2007-01-01
-GRD,Grenada,1989-01-01
-POL,Poland,1997-01-01
-IRQ,Iraq,1992-01-01
-BMU,Bermuda,1969-01-01
-ARE,United Arab Emirates,2012-01-01
-AUS,Australia,1971-01-01
-LMY,Low & middle income,1995-01-01
-OMN,Oman,1969-01-01
-IBT,IDA & IBRD total,1992-01-01
-PHL,Philippines,1998-01-01
-ALB,Albania,1966-01-01
-BTN,Bhutan,1971-01-01
-FRA,France,1968-01-01
-IRQ,Iraq,2003-01-01
-HKG,"Hong Kong SAR, China",1993-01-01
-ZWE,Zimbabwe,1967-01-01
-TTO,Trinidad and Tobago,2019-01-01
-EAR,Early-demographic dividend,1973-01-01
-NPL,Nepal,2010-01-01
-MYS,Malaysia,2015-01-01
-VEN,"Venezuela, RB",1990-01-01
-FRO,Faroe Islands,1960-01-01
-GNQ,Equatorial Guinea,2008-01-01
-TTO,Trinidad and Tobago,1994-01-01
-IND,India,1976-01-01
-UGA,Uganda,2000-01-01
-CUW,Curacao,2012-01-01
-ITA,Italy,1989-01-01
-EAS,East Asia & Pacific,1969-01-01
-BGD,Bangladesh,1983-01-01
-NGA,Nigeria,2006-01-01
-ARG,Argentina,2006-01-01
-FRA,France,1972-01-01
-TCA,Turks and Caicos Islands,1994-01-01
-JAM,Jamaica,2000-01-01
-NPL,Nepal,1963-01-01
-IRL,Ireland,1966-01-01
-CUB,Cuba,2011-01-01
-LBY,Libya,1967-01-01
-SWE,Sweden,1962-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),2006-01-01
-MIC,Middle income,1962-01-01
-NCL,New Caledonia,1974-01-01
-GBR,United Kingdom,1981-01-01
-ARB,Arab World,1993-01-01
-FSM,"Micronesia, Fed. Sts.",2011-01-01
-DEU,Germany,2002-01-01
-FRO,Faroe Islands,1982-01-01
-BOL,Bolivia,1994-01-01
-BGD,Bangladesh,1962-01-01
-SAS,South Asia,1964-01-01
-MEA,Middle East & North Africa,1968-01-01
-BDI,Burundi,2011-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1981-01-01
-DMA,Dominica,1969-01-01
-LCA,St. Lucia,1992-01-01
-ZMB,Zambia,1992-01-01
-NGA,Nigeria,1998-01-01
-TKM,Turkmenistan,1998-01-01
-KOR,"Korea, Rep.",1969-01-01
-IDN,Indonesia,2001-01-01
-IRL,Ireland,1996-01-01
-BDI,Burundi,1975-01-01
-BRN,Brunei Darussalam,1961-01-01
-JOR,Jordan,1980-01-01
-FRA,France,1973-01-01
-AFE,Africa Eastern and Southern,2010-01-01
-AND,Andorra,2000-01-01
-JAM,Jamaica,1993-01-01
-EAS,East Asia & Pacific,2019-01-01
-MEA,Middle East & North Africa,1965-01-01
-SLV,El Salvador,2012-01-01
-ZAF,South Africa,1964-01-01
-VGB,British Virgin Islands,1991-01-01
-ETH,Ethiopia,1963-01-01
-SUR,Suriname,1975-01-01
-ERI,Eritrea,2008-01-01
-LSO,Lesotho,1993-01-01
-TUR,Turkiye,2008-01-01
-HPC,Heavily indebted poor countries (HIPC),2018-01-01
-ARG,Argentina,1963-01-01
-AUS,Australia,2003-01-01
-LIE,Liechtenstein,2016-01-01
-PRY,Paraguay,2018-01-01
-WSM,Samoa,1969-01-01
-BHS,"Bahamas, The",2012-01-01
-QAT,Qatar,1966-01-01
-GHA,Ghana,1966-01-01
-ABW,Aruba,1999-01-01
-ITA,Italy,2010-01-01
-THA,Thailand,1983-01-01
-FRA,France,2012-01-01
-TEA,East Asia & Pacific (IDA & IBRD countries),1964-01-01
-PYF,French Polynesia,2015-01-01
-SOM,Somalia,1968-01-01
-NOR,Norway,2009-01-01
-IBD,IBRD only,2003-01-01
-VNM,Vietnam,1966-01-01
-KOR,"Korea, Rep.",1984-01-01
-ALB,Albania,2009-01-01
-KEN,Kenya,1966-01-01
-LUX,Luxembourg,1991-01-01
-ARE,United Arab Emirates,1987-01-01
-ECU,Ecuador,2003-01-01
-HND,Honduras,1989-01-01
-JPN,Japan,1971-01-01
-UMC,Upper middle income,1967-01-01
-MEA,Middle East & North Africa,1998-01-01
-GIN,Guinea,1998-01-01
-LAC,Latin America & Caribbean (excluding high income),1967-01-01
-LCA,St. Lucia,1969-01-01
-SLE,Sierra Leone,1994-01-01
-CSS,Caribbean small states,2000-01-01
-GAB,Gabon,1974-01-01
-BEN,Benin,2006-01-01
-IND,India,2003-01-01
-MLT,Malta,1971-01-01
-MLT,Malta,2013-01-01
-HRV,Croatia,2018-01-01
-IRL,Ireland,2002-01-01
-KIR,Kiribati,1982-01-01
-BHR,Bahrain,1996-01-01
-YEM,"Yemen, Rep.",2015-01-01
-ITA,Italy,1968-01-01
-ABW,Aruba,1996-01-01
-SEN,Senegal,1972-01-01
-GRL,Greenland,1963-01-01
-SLE,Sierra Leone,2001-01-01
-SRB,Serbia,1999-01-01
-SAU,Saudi Arabia,1989-01-01
-GHA,Ghana,2017-01-01
-FJI,Fiji,2010-01-01
-SSF,Sub-Saharan Africa,1994-01-01
-KIR,Kiribati,1999-01-01
-SSA,Sub-Saharan Africa (excluding high income),1964-01-01
-BIH,Bosnia and Herzegovina,1993-01-01
-SOM,Somalia,1980-01-01
-VNM,Vietnam,1984-01-01
-JOR,Jordan,2019-01-01
-EAR,Early-demographic dividend,2013-01-01
-BTN,Bhutan,2014-01-01
-FIN,Finland,1965-01-01
-IND,India,1980-01-01
-FRA,France,1962-01-01
-THA,Thailand,1994-01-01
-SLV,El Salvador,1986-01-01
-NIC,Nicaragua,1986-01-01
-SST,Small states,2003-01-01
-LAO,Lao PDR,2008-01-01
-PNG,Papua New Guinea,1986-01-01
-AFW,Africa Western and Central,1993-01-01
-CEB,Central Europe and the Baltics,1990-01-01
-TON,Tonga,1963-01-01
-ATG,Antigua and Barbuda,2014-01-01
-CIV,Cote d'Ivoire,2006-01-01
-BLZ,Belize,2011-01-01
-OSS,Other small states,1997-01-01
-KOR,"Korea, Rep.",1975-01-01
-QAT,Qatar,2015-01-01
-BRN,Brunei Darussalam,1988-01-01
-COD,"Congo, Dem. Rep.",2000-01-01
-LAC,Latin America & Caribbean (excluding high income),1984-01-01
-DZA,Algeria,1982-01-01
-FCS,Fragile and conflict affected situations,2014-01-01
-PRT,Portugal,1998-01-01
-TGO,Togo,2009-01-01
-WSM,Samoa,2000-01-01
-FIN,Finland,1973-01-01
-SAU,Saudi Arabia,1983-01-01
-ARE,United Arab Emirates,1997-01-01
-DZA,Algeria,1992-01-01
-BEL,Belgium,1993-01-01
-BTN,Bhutan,2000-01-01
-LAC,Latin America & Caribbean (excluding high income),2015-01-01
-TSS,Sub-Saharan Africa (IDA & IBRD countries),1997-01-01
-PNG,Papua New Guinea,1968-01-01
-CRI,Costa Rica,1994-01-01
-BHS,"Bahamas, The",1985-01-01
-DMA,Dominica,1982-01-01
-GAB,Gabon,2013-01-01
-ZMB,Zambia,1995-01-01
-THA,Thailand,2011-01-01
-SSF,Sub-Saharan Africa,2011-01-01
-EMU,Euro area,1997-01-01
-COD,"Congo, Dem. Rep.",1983-01-01
-UGA,Uganda,1997-01-01
-ARM,Armenia,2005-01-01
-FJI,Fiji,1985-01-01
-AUT,Austria,1961-01-01
-FCS,Fragile and conflict affected situations,1968-01-01
-OSS,Other small states,1973-01-01
-AUT,Austria,2005-01-01
-MYS,Malaysia,1979-01-01
-CAN,Canada,1970-01-01
-SUR,Suriname,2001-01-01
-THA,Thailand,2008-01-01
-HND,Honduras,2008-01-01
-AUT,Austria,1981-01-01
-IND,India,1989-01-01
-UZB,Uzbekistan,2006-01-01
-VCT,St. Vincent and the Grenadines,1964-01-01
-KHM,Cambodia,1996-01-01
-NZL,New Zealand,2019-01-01
-KNA,St. Kitts and Nevis,2010-01-01
-DNK,Denmark,1975-01-01
-NCL,New Caledonia,1992-01-01
-LIE,Liechtenstein,2011-01-01
-AUT,Austria,1993-01-01
-LAO,Lao PDR,2000-01-01
-LBR,Liberia,2013-01-01
-COL,Colombia,1999-01-01
-CAF,Central African Republic,1999-01-01
-OMN,Oman,2009-01-01
-BHS,"Bahamas, The",2010-01-01
-PRY,Paraguay,1970-01-01
-NPL,Nepal,2015-01-01
-NLD,Netherlands,1987-01-01
-CYM,Cayman Islands,2002-01-01
-PHL,Philippines,1999-01-01
-PLW,Palau,1994-01-01
-CMR,Cameroon,2004-01-01
-PSS,Pacific island small states,1986-01-01
-RWA,Rwanda,1961-01-01
-UGA,Uganda,1984-01-01
-MNA,Middle East & North Africa (excluding high income),1986-01-01
-MUS,Mauritius,1991-01-01
-BLZ,Belize,1984-01-01
-AUT,Austria,1983-01-01
-GUY,Guyana,1976-01-01
-FCS,Fragile and conflict affected situations,1978-01-01
-BHR,Bahrain,1983-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1982-01-01
-PRY,Paraguay,1972-01-01
-BRA,Brazil,2008-01-01
-MUS,Mauritius,1995-01-01
-PSS,Pacific island small states,2014-01-01
-CHN,China,1987-01-01
-NPL,Nepal,1975-01-01
-IRL,Ireland,2006-01-01
-CHE,Switzerland,1961-01-01
-IBD,IBRD only,2017-01-01
-NER,Niger,1978-01-01
-IRN,"Iran, Islamic Rep.",1966-01-01
-GBR,United Kingdom,1978-01-01
-CHL,Chile,1977-01-01
-FJI,Fiji,1983-01-01
-FRO,Faroe Islands,2006-01-01
-DMA,Dominica,2017-01-01
-ZAF,South Africa,1977-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1975-01-01
-LTE,Late-demographic dividend,1970-01-01
-LVA,Latvia,1992-01-01
-SYR,Syrian Arab Republic,1975-01-01
-ZAF,South Africa,1988-01-01
-MOZ,Mozambique,1977-01-01
-MRT,Mauritania,1962-01-01
-LBR,Liberia,2001-01-01
-EUU,European Union,1979-01-01
-SSA,Sub-Saharan Africa (excluding high income),1965-01-01
-IBD,IBRD only,1993-01-01
-ARG,Argentina,2015-01-01
-MAR,Morocco,1965-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1968-01-01
-ATG,Antigua and Barbuda,2003-01-01
-BRN,Brunei Darussalam,1987-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),2007-01-01
-COL,Colombia,1967-01-01
-SUR,Suriname,1993-01-01
-URY,Uruguay,1988-01-01
-ROU,Romania,2007-01-01
-ECS,Europe & Central Asia,2006-01-01
-CYM,Cayman Islands,1991-01-01
-NLD,Netherlands,1982-01-01
-WSM,Samoa,1983-01-01
-FRA,France,1979-01-01
-PLW,Palau,2004-01-01
-NRU,Nauru,2005-01-01
-ECA,Europe & Central Asia (excluding high income),1972-01-01
-SLE,Sierra Leone,1969-01-01
-AFW,Africa Western and Central,1963-01-01
-RUS,Russian Federation,2002-01-01
-KOR,"Korea, Rep.",2001-01-01
-CIV,Cote d'Ivoire,2018-01-01
-PHL,Philippines,2011-01-01
-CEB,Central Europe and the Baltics,1995-01-01
-BGD,Bangladesh,1972-01-01
-FRA,France,1998-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1980-01-01
-BLZ,Belize,2014-01-01
-NOR,Norway,1969-01-01
-GRD,Grenada,1980-01-01
-PAN,Panama,1988-01-01
-IBD,IBRD only,2014-01-01
-LCN,Latin America & Caribbean,1995-01-01
-NAC,North America,2000-01-01
-LBN,Lebanon,2009-01-01
-SDN,Sudan,1987-01-01
-BHR,Bahrain,2005-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1962-01-01
-NGA,Nigeria,1992-01-01
-CMR,Cameroon,1978-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),2019-01-01
-PLW,Palau,2013-01-01
-TGO,Togo,2001-01-01
-TUR,Turkey,1960-01-01
-LAO,Lao PDR,1996-01-01
-PRT,Portugal,1964-01-01
-SST,Small states,1971-01-01
-ETH,Ethiopia,1971-01-01
-SYC,Seychelles,2014-01-01
-TON,Tonga,1971-01-01
-LAO,Lao PDR,1979-01-01
-GEO,Georgia,1990-01-01
-BMU,Bermuda,1989-01-01
-ZWE,Zimbabwe,2002-01-01
-AFE,Africa Eastern and Southern,1995-01-01
-LMC,Lower middle income,2008-01-01
-LAO,Lao PDR,1995-01-01
-LKA,Sri Lanka,1987-01-01
-PRK,"Korea, Dem. People's Rep.",2003-01-01
-TUR,Turkiye,2004-01-01
-TKM,Turkmenistan,1994-01-01
-LAO,Lao PDR,1978-01-01
-LMY,Low & middle income,2001-01-01
-KGZ,Kyrgyz Republic,2016-01-01
-URY,Uruguay,2012-01-01
-IRL,Ireland,1965-01-01
-PLW,Palau,2002-01-01
-IDX,IDA only,1975-01-01
-MNA,Middle East & North Africa (excluding high income),1985-01-01
-CRI,Costa Rica,2011-01-01
-EAP,East Asia & Pacific (excluding high income),1986-01-01
-BGD,Bangladesh,1999-01-01
-ARB,Arab World,2001-01-01
-WLD,World,1979-01-01
-MWI,Malawi,2003-01-01
-KGZ,Kyrgyz Republic,1999-01-01
-GEO,Georgia,1997-01-01
-ECA,Europe & Central Asia (excluding high income),2005-01-01
-IDN,Indonesia,1976-01-01
-SLE,Sierra Leone,2013-01-01
-ARB,Arab World,1981-01-01
-KHM,Cambodia,2009-01-01
-BRB,Barbados,1986-01-01
-GEO,Georgia,2016-01-01
-JAM,Jamaica,1977-01-01
-TLA,Latin America & the Caribbean (IDA & IBRD countries),1998-01-01
-FRA,France,1977-01-01
-FRO,Faroe Islands,2009-01-01
-MNG,Mongolia,1985-01-01
-MRT,Mauritania,2007-01-01
-DZA,Algeria,1965-01-01
-BEN,Benin,1984-01-01
-MIC,Middle income,1964-01-01
-JAM,Jamaica,1971-01-01
-MLT,Malta,2017-01-01
-MLT,Malta,1963-01-01
-VEN,"Venezuela, RB",2011-01-01
-ISR,Israel,1968-01-01
-IDN,Indonesia,1990-01-01
-HKG,"Hong Kong SAR, China",1981-01-01
-ITA,Italy,1997-01-01
-LMC,Lower middle income,2011-01-01
-GTM,Guatemala,1999-01-01
-CYM,Cayman Islands,1966-01-01
-BMU,Bermuda,1976-01-01
-SLB,Solomon Islands,1990-01-01
-DNK,Denmark,1996-01-01
-BDI,Burundi,1974-01-01
-NIC,Nicaragua,1971-01-01
-CRI,Costa Rica,2006-01-01
-TGO,Togo,2012-01-01
-WSM,Samoa,1960-01-01
-PSS,Pacific island small states,2003-01-01
-SGP,Singapore,1972-01-01
-LTU,Lithuania,2006-01-01
-KOR,"Korea, Rep.",2015-01-01
-BIH,Bosnia and Herzegovina,1990-01-01
-LBY,Libya,1982-01-01
-ITA,Italy,1983-01-01
-JOR,Jordan,2004-01-01
-HND,Honduras,1990-01-01
-BGD,Bangladesh,2006-01-01
-ESP,Spain,1973-01-01
-AFE,Africa Eastern and Southern,1976-01-01
-CYM,Cayman Islands,1997-01-01
-HPC,Heavily indebted poor countries (HIPC),2001-01-01
-PSS,Pacific island small states,2010-01-01
-IND,India,2011-01-01
-UGA,Uganda,2008-01-01
-AGO,Angola,2014-01-01
-MLI,Mali,1961-01-01
-SLV,El Salvador,2008-01-01
-TEC,Europe & Central Asia (IDA & IBRD countries),1995-01-01
-GTM,Guatemala,2012-01-01
-CHL,Chile,2009-01-01
-SUR,Suriname,1960-01-01
-CAF,Central African Republic,1961-01-01
-TUN,Tunisia,1960-01-01
-POL,Poland,1971-01-01
-ECS,Europe & Central Asia,1992-01-01
-HTI,Haiti,2014-01-01
-ALB,Albania,1981-01-01
-MAC,"Macao SAR, China",1996-01-01
-PER,Peru,1993-01-01
-GHA,Ghana,2009-01-01
-ECA,Europe & Central Asia (excluding high income),2012-01-01
-CAF,Central African Republic,1985-01-01
-ZWE,Zimbabwe,1965-01-01
-GIB,Gibraltar,1962-01-01
-AFG,Afghanistan,1987-01-01
-MLT,Malta,1997-01-01
-GHA,Ghana,1965-01-01
-KOR,"Korea, Rep.",2008-01-01
-MDA,Moldova,2009-01-01
-TCD,Chad,2014-01-01
-ZAF,South Africa,2005-01-01
-SDN,Sudan,2013-01-01
-LDC,Least developed countries: UN classification,1966-01-01
-CAF,Central African Republic,1990-01-01
-UZB,Uzbekistan,2009-01-01
-AFE,Africa Eastern and Southern,1988-01-01
-PRK,"Korea, Dem. People's Rep.",1997-01-01
-BHR,Bahrain,2014-01-01
-NCL,New Caledonia,1985-01-01
-GHA,Ghana,1962-01-01
-SLB,Solomon Islands,1973-01-01
-JOR,Jordan,1974-01-01
-SST,Small states,1960-01-01
-MDG,Madagascar,2004-01-01
-KHM,Cambodia,1992-01-01
-ARM,Armenia,2017-01-01
-FCS,Fragile and conflict affected situations,2010-01-01
-PSS,Pacific island small states,1981-01-01
-LAO,Lao PDR,2006-01-01
-DZA,Algeria,2011-01-01
-MAR,Morocco,2012-01-01
-VNM,Vietnam,2018-01-01
-UKR,Ukraine,2009-01-01
-MAC,"Macao SAR, China",1983-01-01
-AFE,Africa Eastern and Southern,1964-01-01
-EAR,Early-demographic dividend,1965-01-01
-NOR,Norway,2001-01-01
-LSO,Lesotho,1998-01-01
-PHL,Philippines,2018-01-01
-LAC,Latin America & Caribbean (excluding high income),2014-01-01
-SEN,Senegal,2008-01-01
-SSF,Sub-Saharan Africa,2009-01-01
-ECA,Europe & Central Asia (excluding high income),1986-01-01
-JPN,Japan,2001-01-01
-ZMB,Zambia,1968-01-01
-YEM,"Yemen, Rep.",2000-01-01
-PYF,French Polynesia,1967-01-01
-MNA,Middle East & North Africa (excluding high income),1961-01-01
-BEN,Benin,1993-01-01
-KIR,Kiribati,2009-01-01
-BOL,Bolivia,2011-01-01
-COD,"Congo, Dem. Rep.",1970-01-01
-ISR,Israel,1964-01-01
-HND,Honduras,1979-01-01
-BOL,Bolivia,1977-01-01
-MOZ,Mozambique,1981-01-01
-GIB,Gibraltar,1997-01-01
-LAC,Latin America & Caribbean (excluding high income),1995-01-01
-TON,Tonga,1987-01-01
-PAK,Pakistan,1988-01-01
-EST,Estonia,1991-01-01
-CYM,Cayman Islands,1993-01-01
-OED,OECD members,2004-01-01
-ERI,Eritrea,1992-01-01
-FSM,"Micronesia, Fed. Sts.",2002-01-01
-KGZ,Kyrgyz Republic,1991-01-01
-FJI,Fiji,1974-01-01
-IBT,IDA & IBRD total,2007-01-01
-SVN,Slovenia,1997-01-01
-NLD,Netherlands,1986-01-01
-YEM,"Yemen, Rep.",2017-01-01
-ECA,Europe & Central Asia (excluding high income),1962-01-01
-AFG,Afghanistan,1970-01-01
-IND,India,2016-01-01
-GBR,United Kingdom,1998-01-01
-MAR,Morocco,2017-01-01
-KNA,St. Kitts and Nevis,1963-01-01
-PST,Post-demographic dividend,1977-01-01
-UGA,Uganda,2010-01-01
-LSO,Lesotho,2001-01-01
-PST,Post-demographic dividend,1986-01-01
-NLD,Netherlands,1970-01-01
-DZA,Algeria,1988-01-01
-AGO,Angola,1998-01-01
-HIC,High income,1977-01-01
-PAN,Panama,1967-01-01
-BHS,"Bahamas, The",2007-01-01
-GUY,Guyana,1993-01-01
-PLW,Palau,1989-01-01
-CUB,Cuba,2006-01-01
-POL,Poland,2003-01-01
-CAN,Canada,1997-01-01
-TMN,Middle East & North Africa (IDA & IBRD countries),1991-01-01
-SDN,Sudan,2009-01-01
-LAO,Lao PDR,2001-01-01
-IRL,Ireland,1982-01-01
-WSM,Samoa,2007-01-01
-MNE,Montenegro,1997-01-01
-MWI,Malawi,2005-01-01
-JPN,Japan,1962-01-01
-AUS,Australia,2018-01-01
-PAN,Panama,1996-01-01
-JOR,Jordan,1981-01-01
-BGR,Bulgaria,1973-01-01
-CZE,Czechia,2017-01-01
-MAR,Morocco,2011-01-01
-ESP,Spain,2016-01-01
-DMA,Dominica,2001-01-01
-COD,"Congo, Dem. Rep.",1996-01-01
-LTE,Late-demographic dividend,2010-01-01
-IDX,IDA only,2000-01-01
-LTE,Late-demographic dividend,1989-01-01
-TUN,Tunisia,1988-01-01
-SGP,Singapore,1983-01-01
-EAS,East Asia & Pacific,1976-01-01
-TTO,Trinidad and Tobago,2000-01-01
-GNB,Guinea-Bissau,2014-01-01
-MIC,Middle income,2014-01-01
-LSO,Lesotho,1996-01-01
-SLB,Solomon Islands,2009-01-01
-SSA,Sub-Saharan Africa (excluding high income),2015-01-01
-MOZ,Mozambique,1965-01-01
-PER,Peru,2007-01-01
-IRL,Ireland,1997-01-01
-CAN,Canada,1964-01-01
-MLI,Mali,1984-01-01
-SSD,South Sudan,2015-01-01
-PRE,Pre-demographic dividend,1972-01-01
-MRT,Mauritania,1973-01-01
-GUY,Guyana,1986-01-01
-VGB,British Virgin Islands,2008-01-01
-AUT,Austria,1976-01-01
-GRL,Greenland,1962-01-01
-PRT,Portugal,1968-01-01
-COL,Colombia,2017-01-01
-MAR,Morocco,1972-01-01
-IRL,Ireland,1987-01-01
-PNG,Papua New Guinea,2009-01-01
-PHL,Philippines,2017-01-01
-SLB,Solomon Islands,1974-01-01
-YEM,"Yemen, Rep.",1983-01-01
-ISL,Iceland,1997-01-01
-DEU,Germany,1991-01-01
-SSF,Sub-Saharan Africa,2010-01-01
-LAC,Latin America & Caribbean (excluding high income),2012-01-01
-FCS,Fragile and conflict affected situations,1971-01-01
-TGO,Togo,1994-01-01
-MDG,Madagascar,1962-01-01
-DMA,Dominica,2018-01-01
-ZWE,Zimbabwe,1978-01-01
-EAS,East Asia & Pacific,2009-01-01
-GRD,Grenada,1968-01-01
-MAC,"Macao SAR, China",1976-01-01
-MEX,Mexico,1988-01-01
-TTO,Trinidad and Tobago,1972-01-01
-PER,Peru,2017-01-01
-EAR,Early-demographic dividend,1992-01-01
-ZWE,Zimbabwe,2019-01-01
+year,country_code,country_name
+2005-01-01,ABW,Aruba
+2006-01-01,ABW,Aruba
+2007-01-01,ABW,Aruba
+2008-01-01,ABW,Aruba
+2009-01-01,ABW,Aruba
+2010-01-01,ABW,Aruba
+2011-01-01,ABW,Aruba
+2012-01-01,ABW,Aruba
+2013-01-01,ABW,Aruba
+2014-01-01,ABW,Aruba
+2015-01-01,ABW,Aruba
+2016-01-01,ABW,Aruba
+2008-01-01,AFE,Africa Eastern and Southern
+2009-01-01,AFE,Africa Eastern and Southern
+2010-01-01,AFE,Africa Eastern and Southern
+2011-01-01,AFE,Africa Eastern and Southern
+2012-01-01,AFE,Africa Eastern and Southern
+2013-01-01,AFE,Africa Eastern and Southern
+2014-01-01,AFE,Africa Eastern and Southern
+2015-01-01,AFE,Africa Eastern and Southern
+2016-01-01,AFE,Africa Eastern and Southern
+2017-01-01,AFE,Africa Eastern and Southern
+2018-01-01,AFE,Africa Eastern and Southern
+2019-01-01,AFE,Africa Eastern and Southern
+2008-01-01,AFG,Afghanistan
+2009-01-01,AFG,Afghanistan
+2010-01-01,AFG,Afghanistan
+2011-01-01,AFG,Afghanistan
+2012-01-01,AFG,Afghanistan
+2013-01-01,AFG,Afghanistan
+2014-01-01,AFG,Afghanistan
+2015-01-01,AFG,Afghanistan
+2016-01-01,AFG,Afghanistan
+2017-01-01,AFG,Afghanistan
+2018-01-01,AFG,Afghanistan
+2019-01-01,AFG,Afghanistan
+2008-01-01,AFW,Africa Western and Central
+2009-01-01,AFW,Africa Western and Central
+2010-01-01,AFW,Africa Western and Central
+2011-01-01,AFW,Africa Western and Central
+2012-01-01,AFW,Africa Western and Central
+2013-01-01,AFW,Africa Western and Central
+2014-01-01,AFW,Africa Western and Central
+2015-01-01,AFW,Africa Western and Central
+2016-01-01,AFW,Africa Western and Central
+2017-01-01,AFW,Africa Western and Central
+2018-01-01,AFW,Africa Western and Central
+2019-01-01,AFW,Africa Western and Central
+2008-01-01,AGO,Angola
+2009-01-01,AGO,Angola
+2010-01-01,AGO,Angola
+2011-01-01,AGO,Angola
+2012-01-01,AGO,Angola
+2013-01-01,AGO,Angola
+2014-01-01,AGO,Angola
+2015-01-01,AGO,Angola
+2016-01-01,AGO,Angola
+2017-01-01,AGO,Angola
+2018-01-01,AGO,Angola
+2019-01-01,AGO,Angola
+2008-01-01,ALB,Albania
+2009-01-01,ALB,Albania
+2010-01-01,ALB,Albania
+2011-01-01,ALB,Albania
+2012-01-01,ALB,Albania
+2013-01-01,ALB,Albania
+2014-01-01,ALB,Albania
+2015-01-01,ALB,Albania
+2016-01-01,ALB,Albania
+2017-01-01,ALB,Albania
+2018-01-01,ALB,Albania
+2019-01-01,ALB,Albania
+2014-01-01,AND,Andorra
+2015-01-01,AND,Andorra
+2016-01-01,AND,Andorra
+2017-01-01,AND,Andorra
+2018-01-01,AND,Andorra
+2019-01-01,AND,Andorra
+2008-01-01,ARB,Arab World
+2009-01-01,ARB,Arab World
+2010-01-01,ARB,Arab World
+2011-01-01,ARB,Arab World
+2012-01-01,ARB,Arab World
+2013-01-01,ARB,Arab World
+2014-01-01,ARB,Arab World
+2015-01-01,ARB,Arab World
+2016-01-01,ARB,Arab World
+2017-01-01,ARB,Arab World
+2018-01-01,ARB,Arab World
+2019-01-01,ARB,Arab World
+2008-01-01,ARE,United Arab Emirates
+2009-01-01,ARE,United Arab Emirates
+2010-01-01,ARE,United Arab Emirates
+2011-01-01,ARE,United Arab Emirates
+2012-01-01,ARE,United Arab Emirates
+2013-01-01,ARE,United Arab Emirates
+2014-01-01,ARE,United Arab Emirates
+2015-01-01,ARE,United Arab Emirates
+2016-01-01,ARE,United Arab Emirates
+2017-01-01,ARE,United Arab Emirates
+2018-01-01,ARE,United Arab Emirates
+2019-01-01,ARE,United Arab Emirates
+2008-01-01,ARG,Argentina
+2009-01-01,ARG,Argentina
+2010-01-01,ARG,Argentina
+2011-01-01,ARG,Argentina
+2012-01-01,ARG,Argentina
+2013-01-01,ARG,Argentina
+2014-01-01,ARG,Argentina
+2015-01-01,ARG,Argentina
+2016-01-01,ARG,Argentina
+2017-01-01,ARG,Argentina
+2018-01-01,ARG,Argentina
+2019-01-01,ARG,Argentina
+2014-01-01,ARM,Armenia
+2015-01-01,ARM,Armenia
+2016-01-01,ARM,Armenia
+2017-01-01,ARM,Armenia
+2018-01-01,ARM,Armenia
+2019-01-01,ARM,Armenia
+2008-01-01,ATG,Antigua and Barbuda
+2009-01-01,ATG,Antigua and Barbuda
+2010-01-01,ATG,Antigua and Barbuda
+2011-01-01,ATG,Antigua and Barbuda
+2012-01-01,ATG,Antigua and Barbuda
+2013-01-01,ATG,Antigua and Barbuda
+2014-01-01,ATG,Antigua and Barbuda
+2015-01-01,ATG,Antigua and Barbuda
+2016-01-01,ATG,Antigua and Barbuda
+2017-01-01,ATG,Antigua and Barbuda
+2018-01-01,ATG,Antigua and Barbuda
+2019-01-01,ATG,Antigua and Barbuda
+2008-01-01,AUS,Australia
+2009-01-01,AUS,Australia
+2010-01-01,AUS,Australia
+2011-01-01,AUS,Australia
+2012-01-01,AUS,Australia
+2013-01-01,AUS,Australia
+2014-01-01,AUS,Australia
+2015-01-01,AUS,Australia
+2016-01-01,AUS,Australia
+2017-01-01,AUS,Australia
+2018-01-01,AUS,Australia
+2019-01-01,AUS,Australia
+2008-01-01,AUT,Austria
+2009-01-01,AUT,Austria
+2010-01-01,AUT,Austria
+2011-01-01,AUT,Austria
+2012-01-01,AUT,Austria
+2013-01-01,AUT,Austria
+2014-01-01,AUT,Austria
+2015-01-01,AUT,Austria
+2016-01-01,AUT,Austria
+2017-01-01,AUT,Austria
+2018-01-01,AUT,Austria
+2019-01-01,AUT,Austria
+2014-01-01,AZE,Azerbaijan
+2015-01-01,AZE,Azerbaijan
+2016-01-01,AZE,Azerbaijan
+2017-01-01,AZE,Azerbaijan
+2018-01-01,AZE,Azerbaijan
+2019-01-01,AZE,Azerbaijan
+2008-01-01,BDI,Burundi
+2009-01-01,BDI,Burundi
+2010-01-01,BDI,Burundi
+2011-01-01,BDI,Burundi
+2012-01-01,BDI,Burundi
+2013-01-01,BDI,Burundi
+2014-01-01,BDI,Burundi
+2015-01-01,BDI,Burundi
+2016-01-01,BDI,Burundi
+2017-01-01,BDI,Burundi
+2018-01-01,BDI,Burundi
+2019-01-01,BDI,Burundi
+2008-01-01,BEL,Belgium
+2009-01-01,BEL,Belgium
+2010-01-01,BEL,Belgium
+2011-01-01,BEL,Belgium
+2012-01-01,BEL,Belgium
+2013-01-01,BEL,Belgium
+2014-01-01,BEL,Belgium
+2015-01-01,BEL,Belgium
+2016-01-01,BEL,Belgium
+2017-01-01,BEL,Belgium
+2018-01-01,BEL,Belgium
+2019-01-01,BEL,Belgium
+2008-01-01,BEN,Benin
+2009-01-01,BEN,Benin
+2010-01-01,BEN,Benin
+2011-01-01,BEN,Benin
+2012-01-01,BEN,Benin
+2013-01-01,BEN,Benin
+2014-01-01,BEN,Benin
+2015-01-01,BEN,Benin
+2016-01-01,BEN,Benin
+2017-01-01,BEN,Benin
+2018-01-01,BEN,Benin
+2019-01-01,BEN,Benin
+2008-01-01,BFA,Burkina Faso
+2009-01-01,BFA,Burkina Faso
+2010-01-01,BFA,Burkina Faso
+2011-01-01,BFA,Burkina Faso
+2012-01-01,BFA,Burkina Faso
+2013-01-01,BFA,Burkina Faso
+2014-01-01,BFA,Burkina Faso
+2015-01-01,BFA,Burkina Faso
+2016-01-01,BFA,Burkina Faso
+2017-01-01,BFA,Burkina Faso
+2018-01-01,BFA,Burkina Faso
+2019-01-01,BFA,Burkina Faso
+2008-01-01,BGD,Bangladesh
+2009-01-01,BGD,Bangladesh
+2010-01-01,BGD,Bangladesh
+2011-01-01,BGD,Bangladesh
+2012-01-01,BGD,Bangladesh
+2013-01-01,BGD,Bangladesh
+2014-01-01,BGD,Bangladesh
+2015-01-01,BGD,Bangladesh
+2016-01-01,BGD,Bangladesh
+2017-01-01,BGD,Bangladesh
+2018-01-01,BGD,Bangladesh
+2019-01-01,BGD,Bangladesh
+2008-01-01,BGR,Bulgaria
+2009-01-01,BGR,Bulgaria
+2010-01-01,BGR,Bulgaria
+2011-01-01,BGR,Bulgaria
+2012-01-01,BGR,Bulgaria
+2013-01-01,BGR,Bulgaria
+2014-01-01,BGR,Bulgaria
+2015-01-01,BGR,Bulgaria
+2016-01-01,BGR,Bulgaria
+2017-01-01,BGR,Bulgaria
+2018-01-01,BGR,Bulgaria
+2019-01-01,BGR,Bulgaria
+2008-01-01,BHR,Bahrain
+2009-01-01,BHR,Bahrain
+2010-01-01,BHR,Bahrain
+2011-01-01,BHR,Bahrain
+2012-01-01,BHR,Bahrain
+2013-01-01,BHR,Bahrain
+2014-01-01,BHR,Bahrain
+2015-01-01,BHR,Bahrain
+2016-01-01,BHR,Bahrain
+2017-01-01,BHR,Bahrain
+2018-01-01,BHR,Bahrain
+2019-01-01,BHR,Bahrain
+2008-01-01,BHS,"Bahamas, The"
+2009-01-01,BHS,"Bahamas, The"
+2010-01-01,BHS,"Bahamas, The"
+2011-01-01,BHS,"Bahamas, The"
+2012-01-01,BHS,"Bahamas, The"
+2013-01-01,BHS,"Bahamas, The"
+2014-01-01,BHS,"Bahamas, The"
+2015-01-01,BHS,"Bahamas, The"
+2016-01-01,BHS,"Bahamas, The"
+2017-01-01,BHS,"Bahamas, The"
+2018-01-01,BHS,"Bahamas, The"
+2019-01-01,BHS,"Bahamas, The"
+2014-01-01,BIH,Bosnia and Herzegovina
+2015-01-01,BIH,Bosnia and Herzegovina
+2016-01-01,BIH,Bosnia and Herzegovina
+2017-01-01,BIH,Bosnia and Herzegovina
+2018-01-01,BIH,Bosnia and Herzegovina
+2019-01-01,BIH,Bosnia and Herzegovina
+2014-01-01,BLR,Belarus
+2015-01-01,BLR,Belarus
+2016-01-01,BLR,Belarus
+2017-01-01,BLR,Belarus
+2018-01-01,BLR,Belarus
+2019-01-01,BLR,Belarus
+2008-01-01,BLZ,Belize
+2009-01-01,BLZ,Belize
+2010-01-01,BLZ,Belize
+2011-01-01,BLZ,Belize
+2012-01-01,BLZ,Belize
+2013-01-01,BLZ,Belize
+2014-01-01,BLZ,Belize
+2015-01-01,BLZ,Belize
+2016-01-01,BLZ,Belize
+2017-01-01,BLZ,Belize
+2018-01-01,BLZ,Belize
+2019-01-01,BLZ,Belize
+2005-01-01,BMU,Bermuda
+2006-01-01,BMU,Bermuda
+2007-01-01,BMU,Bermuda
+2008-01-01,BMU,Bermuda
+2009-01-01,BMU,Bermuda
+2010-01-01,BMU,Bermuda
+2011-01-01,BMU,Bermuda
+2012-01-01,BMU,Bermuda
+2013-01-01,BMU,Bermuda
+2014-01-01,BMU,Bermuda
+2015-01-01,BMU,Bermuda
+2016-01-01,BMU,Bermuda
+2008-01-01,BOL,Bolivia
+2009-01-01,BOL,Bolivia
+2010-01-01,BOL,Bolivia
+2011-01-01,BOL,Bolivia
+2012-01-01,BOL,Bolivia
+2013-01-01,BOL,Bolivia
+2014-01-01,BOL,Bolivia
+2015-01-01,BOL,Bolivia
+2016-01-01,BOL,Bolivia
+2017-01-01,BOL,Bolivia
+2018-01-01,BOL,Bolivia
+2019-01-01,BOL,Bolivia
+2008-01-01,BRA,Brazil
+2009-01-01,BRA,Brazil
+2010-01-01,BRA,Brazil
+2011-01-01,BRA,Brazil
+2012-01-01,BRA,Brazil
+2013-01-01,BRA,Brazil
+2014-01-01,BRA,Brazil
+2015-01-01,BRA,Brazil
+2016-01-01,BRA,Brazil
+2017-01-01,BRA,Brazil
+2018-01-01,BRA,Brazil
+2019-01-01,BRA,Brazil
+2008-01-01,BRB,Barbados
+2009-01-01,BRB,Barbados
+2010-01-01,BRB,Barbados
+2011-01-01,BRB,Barbados
+2012-01-01,BRB,Barbados
+2013-01-01,BRB,Barbados
+2014-01-01,BRB,Barbados
+2015-01-01,BRB,Barbados
+2016-01-01,BRB,Barbados
+2017-01-01,BRB,Barbados
+2018-01-01,BRB,Barbados
+2019-01-01,BRB,Barbados
+2008-01-01,BRN,Brunei Darussalam
+2009-01-01,BRN,Brunei Darussalam
+2010-01-01,BRN,Brunei Darussalam
+2011-01-01,BRN,Brunei Darussalam
+2012-01-01,BRN,Brunei Darussalam
+2013-01-01,BRN,Brunei Darussalam
+2014-01-01,BRN,Brunei Darussalam
+2015-01-01,BRN,Brunei Darussalam
+2016-01-01,BRN,Brunei Darussalam
+2017-01-01,BRN,Brunei Darussalam
+2018-01-01,BRN,Brunei Darussalam
+2019-01-01,BRN,Brunei Darussalam
+2010-01-01,BTN,Bhutan
+2011-01-01,BTN,Bhutan
+2012-01-01,BTN,Bhutan
+2013-01-01,BTN,Bhutan
+2014-01-01,BTN,Bhutan
+2015-01-01,BTN,Bhutan
+2016-01-01,BTN,Bhutan
+2017-01-01,BTN,Bhutan
+2018-01-01,BTN,Bhutan
+2019-01-01,BTN,Bhutan
+2010-01-01,BWA,Botswana
+2011-01-01,BWA,Botswana
+2012-01-01,BWA,Botswana
+2013-01-01,BWA,Botswana
+2014-01-01,BWA,Botswana
+2015-01-01,BWA,Botswana
+2016-01-01,BWA,Botswana
+2017-01-01,BWA,Botswana
+2018-01-01,BWA,Botswana
+2019-01-01,BWA,Botswana
+2008-01-01,CAF,Central African Republic
+2009-01-01,CAF,Central African Republic
+2010-01-01,CAF,Central African Republic
+2011-01-01,CAF,Central African Republic
+2012-01-01,CAF,Central African Republic
+2013-01-01,CAF,Central African Republic
+2014-01-01,CAF,Central African Republic
+2015-01-01,CAF,Central African Republic
+2016-01-01,CAF,Central African Republic
+2017-01-01,CAF,Central African Republic
+2018-01-01,CAF,Central African Republic
+2019-01-01,CAF,Central African Republic
+2008-01-01,CAN,Canada
+2009-01-01,CAN,Canada
+2010-01-01,CAN,Canada
+2011-01-01,CAN,Canada
+2012-01-01,CAN,Canada
+2013-01-01,CAN,Canada
+2014-01-01,CAN,Canada
+2015-01-01,CAN,Canada
+2016-01-01,CAN,Canada
+2017-01-01,CAN,Canada
+2018-01-01,CAN,Canada
+2019-01-01,CAN,Canada
+2008-01-01,CEB,Central Europe and the Baltics
+2009-01-01,CEB,Central Europe and the Baltics
+2010-01-01,CEB,Central Europe and the Baltics
+2011-01-01,CEB,Central Europe and the Baltics
+2012-01-01,CEB,Central Europe and the Baltics
+2013-01-01,CEB,Central Europe and the Baltics
+2014-01-01,CEB,Central Europe and the Baltics
+2015-01-01,CEB,Central Europe and the Baltics
+2016-01-01,CEB,Central Europe and the Baltics
+2017-01-01,CEB,Central Europe and the Baltics
+2018-01-01,CEB,Central Europe and the Baltics
+2019-01-01,CEB,Central Europe and the Baltics
+2008-01-01,CHE,Switzerland
+2009-01-01,CHE,Switzerland
+2010-01-01,CHE,Switzerland
+2011-01-01,CHE,Switzerland
+2012-01-01,CHE,Switzerland
+2013-01-01,CHE,Switzerland
+2014-01-01,CHE,Switzerland
+2015-01-01,CHE,Switzerland
+2016-01-01,CHE,Switzerland
+2017-01-01,CHE,Switzerland
+2018-01-01,CHE,Switzerland
+2019-01-01,CHE,Switzerland
+2008-01-01,CHL,Chile
+2009-01-01,CHL,Chile
+2010-01-01,CHL,Chile
+2011-01-01,CHL,Chile
+2012-01-01,CHL,Chile
+2013-01-01,CHL,Chile
+2014-01-01,CHL,Chile
+2015-01-01,CHL,Chile
+2016-01-01,CHL,Chile
+2017-01-01,CHL,Chile
+2018-01-01,CHL,Chile
+2019-01-01,CHL,Chile
+2008-01-01,CHN,China
+2009-01-01,CHN,China
+2010-01-01,CHN,China
+2011-01-01,CHN,China
+2012-01-01,CHN,China
+2013-01-01,CHN,China
+2014-01-01,CHN,China
+2015-01-01,CHN,China
+2016-01-01,CHN,China
+2017-01-01,CHN,China
+2018-01-01,CHN,China
+2019-01-01,CHN,China
+2008-01-01,CIV,Cote d'Ivoire
+2009-01-01,CIV,Cote d'Ivoire
+2010-01-01,CIV,Cote d'Ivoire
+2011-01-01,CIV,Cote d'Ivoire
+2012-01-01,CIV,Cote d'Ivoire
+2013-01-01,CIV,Cote d'Ivoire
+2014-01-01,CIV,Cote d'Ivoire
+2015-01-01,CIV,Cote d'Ivoire
+2016-01-01,CIV,Cote d'Ivoire
+2017-01-01,CIV,Cote d'Ivoire
+2018-01-01,CIV,Cote d'Ivoire
+2019-01-01,CIV,Cote d'Ivoire
+2008-01-01,CMR,Cameroon
+2009-01-01,CMR,Cameroon
+2010-01-01,CMR,Cameroon
+2011-01-01,CMR,Cameroon
+2012-01-01,CMR,Cameroon
+2013-01-01,CMR,Cameroon
+2014-01-01,CMR,Cameroon
+2015-01-01,CMR,Cameroon
+2016-01-01,CMR,Cameroon
+2017-01-01,CMR,Cameroon
+2018-01-01,CMR,Cameroon
+2019-01-01,CMR,Cameroon
+2008-01-01,COD,"Congo, Dem. Rep."
+2009-01-01,COD,"Congo, Dem. Rep."
+2010-01-01,COD,"Congo, Dem. Rep."
+2011-01-01,COD,"Congo, Dem. Rep."
+2012-01-01,COD,"Congo, Dem. Rep."
+2013-01-01,COD,"Congo, Dem. Rep."
+2014-01-01,COD,"Congo, Dem. Rep."
+2015-01-01,COD,"Congo, Dem. Rep."
+2016-01-01,COD,"Congo, Dem. Rep."
+2017-01-01,COD,"Congo, Dem. Rep."
+2018-01-01,COD,"Congo, Dem. Rep."
+2019-01-01,COD,"Congo, Dem. Rep."
+2008-01-01,COG,"Congo, Rep."
+2009-01-01,COG,"Congo, Rep."
+2010-01-01,COG,"Congo, Rep."
+2011-01-01,COG,"Congo, Rep."
+2012-01-01,COG,"Congo, Rep."
+2013-01-01,COG,"Congo, Rep."
+2014-01-01,COG,"Congo, Rep."
+2015-01-01,COG,"Congo, Rep."
+2016-01-01,COG,"Congo, Rep."
+2017-01-01,COG,"Congo, Rep."
+2018-01-01,COG,"Congo, Rep."
+2019-01-01,COG,"Congo, Rep."
+2008-01-01,COL,Colombia
+2009-01-01,COL,Colombia
+2010-01-01,COL,Colombia
+2011-01-01,COL,Colombia
+2012-01-01,COL,Colombia
+2013-01-01,COL,Colombia
+2014-01-01,COL,Colombia
+2015-01-01,COL,Colombia
+2016-01-01,COL,Colombia
+2017-01-01,COL,Colombia
+2018-01-01,COL,Colombia
+2019-01-01,COL,Colombia
+2008-01-01,COM,Comoros
+2009-01-01,COM,Comoros
+2010-01-01,COM,Comoros
+2011-01-01,COM,Comoros
+2012-01-01,COM,Comoros
+2013-01-01,COM,Comoros
+2014-01-01,COM,Comoros
+2015-01-01,COM,Comoros
+2016-01-01,COM,Comoros
+2017-01-01,COM,Comoros
+2018-01-01,COM,Comoros
+2019-01-01,COM,Comoros
+2008-01-01,CPV,Cabo Verde
+2009-01-01,CPV,Cabo Verde
+2010-01-01,CPV,Cabo Verde
+2011-01-01,CPV,Cabo Verde
+2012-01-01,CPV,Cabo Verde
+2013-01-01,CPV,Cabo Verde
+2014-01-01,CPV,Cabo Verde
+2015-01-01,CPV,Cabo Verde
+2016-01-01,CPV,Cabo Verde
+2017-01-01,CPV,Cabo Verde
+2018-01-01,CPV,Cabo Verde
+2019-01-01,CPV,Cabo Verde
+2008-01-01,CRI,Costa Rica
+2009-01-01,CRI,Costa Rica
+2010-01-01,CRI,Costa Rica
+2011-01-01,CRI,Costa Rica
+2012-01-01,CRI,Costa Rica
+2013-01-01,CRI,Costa Rica
+2014-01-01,CRI,Costa Rica
+2015-01-01,CRI,Costa Rica
+2016-01-01,CRI,Costa Rica
+2017-01-01,CRI,Costa Rica
+2018-01-01,CRI,Costa Rica
+2019-01-01,CRI,Costa Rica
+2008-01-01,CSS,Caribbean small states
+2009-01-01,CSS,Caribbean small states
+2010-01-01,CSS,Caribbean small states
+2011-01-01,CSS,Caribbean small states
+2012-01-01,CSS,Caribbean small states
+2013-01-01,CSS,Caribbean small states
+2014-01-01,CSS,Caribbean small states
+2015-01-01,CSS,Caribbean small states
+2016-01-01,CSS,Caribbean small states
+2017-01-01,CSS,Caribbean small states
+2018-01-01,CSS,Caribbean small states
+2019-01-01,CSS,Caribbean small states
+2008-01-01,CUB,Cuba
+2009-01-01,CUB,Cuba
+2010-01-01,CUB,Cuba
+2011-01-01,CUB,Cuba
+2012-01-01,CUB,Cuba
+2013-01-01,CUB,Cuba
+2014-01-01,CUB,Cuba
+2015-01-01,CUB,Cuba
+2016-01-01,CUB,Cuba
+2017-01-01,CUB,Cuba
+2018-01-01,CUB,Cuba
+2019-01-01,CUB,Cuba
+2016-01-01,CUW,Curacao
+2005-01-01,CYM,Cayman Islands
+2006-01-01,CYM,Cayman Islands
+2007-01-01,CYM,Cayman Islands
+2008-01-01,CYM,Cayman Islands
+2009-01-01,CYM,Cayman Islands
+2010-01-01,CYM,Cayman Islands
+2011-01-01,CYM,Cayman Islands
+2012-01-01,CYM,Cayman Islands
+2013-01-01,CYM,Cayman Islands
+2014-01-01,CYM,Cayman Islands
+2015-01-01,CYM,Cayman Islands
+2016-01-01,CYM,Cayman Islands
+2008-01-01,CYP,Cyprus
+2009-01-01,CYP,Cyprus
+2010-01-01,CYP,Cyprus
+2011-01-01,CYP,Cyprus
+2012-01-01,CYP,Cyprus
+2013-01-01,CYP,Cyprus
+2014-01-01,CYP,Cyprus
+2015-01-01,CYP,Cyprus
+2016-01-01,CYP,Cyprus
+2017-01-01,CYP,Cyprus
+2018-01-01,CYP,Cyprus
+2019-01-01,CYP,Cyprus
+2014-01-01,CZE,Czechia
+2015-01-01,CZE,Czechia
+2016-01-01,CZE,Czechia
+2017-01-01,CZE,Czechia
+2018-01-01,CZE,Czechia
+2019-01-01,CZE,Czechia
+2014-01-01,DEU,Germany
+2015-01-01,DEU,Germany
+2016-01-01,DEU,Germany
+2017-01-01,DEU,Germany
+2018-01-01,DEU,Germany
+2019-01-01,DEU,Germany
+2008-01-01,DJI,Djibouti
+2009-01-01,DJI,Djibouti
+2010-01-01,DJI,Djibouti
+2011-01-01,DJI,Djibouti
+2012-01-01,DJI,Djibouti
+2013-01-01,DJI,Djibouti
+2014-01-01,DJI,Djibouti
+2015-01-01,DJI,Djibouti
+2016-01-01,DJI,Djibouti
+2017-01-01,DJI,Djibouti
+2018-01-01,DJI,Djibouti
+2019-01-01,DJI,Djibouti
+2008-01-01,DMA,Dominica
+2009-01-01,DMA,Dominica
+2010-01-01,DMA,Dominica
+2011-01-01,DMA,Dominica
+2012-01-01,DMA,Dominica
+2013-01-01,DMA,Dominica
+2014-01-01,DMA,Dominica
+2015-01-01,DMA,Dominica
+2016-01-01,DMA,Dominica
+2017-01-01,DMA,Dominica
+2018-01-01,DMA,Dominica
+2019-01-01,DMA,Dominica
+2008-01-01,DNK,Denmark
+2009-01-01,DNK,Denmark
+2010-01-01,DNK,Denmark
+2011-01-01,DNK,Denmark
+2012-01-01,DNK,Denmark
+2013-01-01,DNK,Denmark
+2014-01-01,DNK,Denmark
+2015-01-01,DNK,Denmark
+2016-01-01,DNK,Denmark
+2017-01-01,DNK,Denmark
+2018-01-01,DNK,Denmark
+2019-01-01,DNK,Denmark
+2008-01-01,DOM,Dominican Republic
+2009-01-01,DOM,Dominican Republic
+2010-01-01,DOM,Dominican Republic
+2011-01-01,DOM,Dominican Republic
+2012-01-01,DOM,Dominican Republic
+2013-01-01,DOM,Dominican Republic
+2014-01-01,DOM,Dominican Republic
+2015-01-01,DOM,Dominican Republic
+2016-01-01,DOM,Dominican Republic
+2017-01-01,DOM,Dominican Republic
+2018-01-01,DOM,Dominican Republic
+2019-01-01,DOM,Dominican Republic
+2008-01-01,DZA,Algeria
+2009-01-01,DZA,Algeria
+2010-01-01,DZA,Algeria
+2011-01-01,DZA,Algeria
+2012-01-01,DZA,Algeria
+2013-01-01,DZA,Algeria
+2014-01-01,DZA,Algeria
+2015-01-01,DZA,Algeria
+2016-01-01,DZA,Algeria
+2017-01-01,DZA,Algeria
+2018-01-01,DZA,Algeria
+2019-01-01,DZA,Algeria
+2008-01-01,EAP,East Asia & Pacific (excluding high income)
+2009-01-01,EAP,East Asia & Pacific (excluding high income)
+2010-01-01,EAP,East Asia & Pacific (excluding high income)
+2011-01-01,EAP,East Asia & Pacific (excluding high income)
+2012-01-01,EAP,East Asia & Pacific (excluding high income)
+2013-01-01,EAP,East Asia & Pacific (excluding high income)
+2014-01-01,EAP,East Asia & Pacific (excluding high income)
+2015-01-01,EAP,East Asia & Pacific (excluding high income)
+2016-01-01,EAP,East Asia & Pacific (excluding high income)
+2017-01-01,EAP,East Asia & Pacific (excluding high income)
+2018-01-01,EAP,East Asia & Pacific (excluding high income)
+2019-01-01,EAP,East Asia & Pacific (excluding high income)
+2008-01-01,EAR,Early-demographic dividend
+2009-01-01,EAR,Early-demographic dividend
+2010-01-01,EAR,Early-demographic dividend
+2011-01-01,EAR,Early-demographic dividend
+2012-01-01,EAR,Early-demographic dividend
+2013-01-01,EAR,Early-demographic dividend
+2014-01-01,EAR,Early-demographic dividend
+2015-01-01,EAR,Early-demographic dividend
+2016-01-01,EAR,Early-demographic dividend
+2017-01-01,EAR,Early-demographic dividend
+2018-01-01,EAR,Early-demographic dividend
+2019-01-01,EAR,Early-demographic dividend
+2008-01-01,EAS,East Asia & Pacific
+2009-01-01,EAS,East Asia & Pacific
+2010-01-01,EAS,East Asia & Pacific
+2011-01-01,EAS,East Asia & Pacific
+2012-01-01,EAS,East Asia & Pacific
+2013-01-01,EAS,East Asia & Pacific
+2014-01-01,EAS,East Asia & Pacific
+2015-01-01,EAS,East Asia & Pacific
+2016-01-01,EAS,East Asia & Pacific
+2017-01-01,EAS,East Asia & Pacific
+2018-01-01,EAS,East Asia & Pacific
+2019-01-01,EAS,East Asia & Pacific
+2008-01-01,ECA,Europe & Central Asia (excluding high income)
+2009-01-01,ECA,Europe & Central Asia (excluding high income)
+2010-01-01,ECA,Europe & Central Asia (excluding high income)
+2011-01-01,ECA,Europe & Central Asia (excluding high income)
+2012-01-01,ECA,Europe & Central Asia (excluding high income)
+2013-01-01,ECA,Europe & Central Asia (excluding high income)
+2014-01-01,ECA,Europe & Central Asia (excluding high income)
+2015-01-01,ECA,Europe & Central Asia (excluding high income)
+2016-01-01,ECA,Europe & Central Asia (excluding high income)
+2017-01-01,ECA,Europe & Central Asia (excluding high income)
+2018-01-01,ECA,Europe & Central Asia (excluding high income)
+2019-01-01,ECA,Europe & Central Asia (excluding high income)
+2008-01-01,ECS,Europe & Central Asia
+2009-01-01,ECS,Europe & Central Asia
+2010-01-01,ECS,Europe & Central Asia
+2011-01-01,ECS,Europe & Central Asia
+2012-01-01,ECS,Europe & Central Asia
+2013-01-01,ECS,Europe & Central Asia
+2014-01-01,ECS,Europe & Central Asia
+2015-01-01,ECS,Europe & Central Asia
+2016-01-01,ECS,Europe & Central Asia
+2017-01-01,ECS,Europe & Central Asia
+2018-01-01,ECS,Europe & Central Asia
+2019-01-01,ECS,Europe & Central Asia
+2008-01-01,ECU,Ecuador
+2009-01-01,ECU,Ecuador
+2010-01-01,ECU,Ecuador
+2011-01-01,ECU,Ecuador
+2012-01-01,ECU,Ecuador
+2013-01-01,ECU,Ecuador
+2014-01-01,ECU,Ecuador
+2015-01-01,ECU,Ecuador
+2016-01-01,ECU,Ecuador
+2017-01-01,ECU,Ecuador
+2018-01-01,ECU,Ecuador
+2019-01-01,ECU,Ecuador
+2008-01-01,EGY,"Egypt, Arab Rep."
+2009-01-01,EGY,"Egypt, Arab Rep."
+2010-01-01,EGY,"Egypt, Arab Rep."
+2011-01-01,EGY,"Egypt, Arab Rep."
+2012-01-01,EGY,"Egypt, Arab Rep."
+2013-01-01,EGY,"Egypt, Arab Rep."
+2014-01-01,EGY,"Egypt, Arab Rep."
+2015-01-01,EGY,"Egypt, Arab Rep."
+2016-01-01,EGY,"Egypt, Arab Rep."
+2017-01-01,EGY,"Egypt, Arab Rep."
+2018-01-01,EGY,"Egypt, Arab Rep."
+2019-01-01,EGY,"Egypt, Arab Rep."
+2014-01-01,EMU,Euro area
+2015-01-01,EMU,Euro area
+2016-01-01,EMU,Euro area
+2017-01-01,EMU,Euro area
+2018-01-01,EMU,Euro area
+2019-01-01,EMU,Euro area
+2014-01-01,ERI,Eritrea
+2015-01-01,ERI,Eritrea
+2016-01-01,ERI,Eritrea
+2017-01-01,ERI,Eritrea
+2018-01-01,ERI,Eritrea
+2019-01-01,ERI,Eritrea
+2008-01-01,ESP,Spain
+2009-01-01,ESP,Spain
+2010-01-01,ESP,Spain
+2011-01-01,ESP,Spain
+2012-01-01,ESP,Spain
+2013-01-01,ESP,Spain
+2014-01-01,ESP,Spain
+2015-01-01,ESP,Spain
+2016-01-01,ESP,Spain
+2017-01-01,ESP,Spain
+2018-01-01,ESP,Spain
+2019-01-01,ESP,Spain
+2014-01-01,EST,Estonia
+2015-01-01,EST,Estonia
+2016-01-01,EST,Estonia
+2017-01-01,EST,Estonia
+2018-01-01,EST,Estonia
+2019-01-01,EST,Estonia
+2008-01-01,ETH,Ethiopia
+2009-01-01,ETH,Ethiopia
+2010-01-01,ETH,Ethiopia
+2011-01-01,ETH,Ethiopia
+2012-01-01,ETH,Ethiopia
+2013-01-01,ETH,Ethiopia
+2014-01-01,ETH,Ethiopia
+2015-01-01,ETH,Ethiopia
+2016-01-01,ETH,Ethiopia
+2017-01-01,ETH,Ethiopia
+2018-01-01,ETH,Ethiopia
+2019-01-01,ETH,Ethiopia
+2008-01-01,EUU,European Union
+2009-01-01,EUU,European Union
+2010-01-01,EUU,European Union
+2011-01-01,EUU,European Union
+2012-01-01,EUU,European Union
+2013-01-01,EUU,European Union
+2014-01-01,EUU,European Union
+2015-01-01,EUU,European Union
+2016-01-01,EUU,European Union
+2017-01-01,EUU,European Union
+2018-01-01,EUU,European Union
+2019-01-01,EUU,European Union
+2008-01-01,FCS,Fragile and conflict affected situations
+2009-01-01,FCS,Fragile and conflict affected situations
+2010-01-01,FCS,Fragile and conflict affected situations
+2011-01-01,FCS,Fragile and conflict affected situations
+2012-01-01,FCS,Fragile and conflict affected situations
+2013-01-01,FCS,Fragile and conflict affected situations
+2014-01-01,FCS,Fragile and conflict affected situations
+2015-01-01,FCS,Fragile and conflict affected situations
+2016-01-01,FCS,Fragile and conflict affected situations
+2017-01-01,FCS,Fragile and conflict affected situations
+2018-01-01,FCS,Fragile and conflict affected situations
+2019-01-01,FCS,Fragile and conflict affected situations
+2008-01-01,FIN,Finland
+2009-01-01,FIN,Finland
+2010-01-01,FIN,Finland
+2011-01-01,FIN,Finland
+2012-01-01,FIN,Finland
+2013-01-01,FIN,Finland
+2014-01-01,FIN,Finland
+2015-01-01,FIN,Finland
+2016-01-01,FIN,Finland
+2017-01-01,FIN,Finland
+2018-01-01,FIN,Finland
+2019-01-01,FIN,Finland
+2008-01-01,FJI,Fiji
+2009-01-01,FJI,Fiji
+2010-01-01,FJI,Fiji
+2011-01-01,FJI,Fiji
+2012-01-01,FJI,Fiji
+2013-01-01,FJI,Fiji
+2014-01-01,FJI,Fiji
+2015-01-01,FJI,Fiji
+2016-01-01,FJI,Fiji
+2017-01-01,FJI,Fiji
+2018-01-01,FJI,Fiji
+2019-01-01,FJI,Fiji
+2008-01-01,FRA,France
+2009-01-01,FRA,France
+2010-01-01,FRA,France
+2011-01-01,FRA,France
+2012-01-01,FRA,France
+2013-01-01,FRA,France
+2014-01-01,FRA,France
+2015-01-01,FRA,France
+2016-01-01,FRA,France
+2017-01-01,FRA,France
+2018-01-01,FRA,France
+2019-01-01,FRA,France
+2005-01-01,FRO,Faroe Islands
+2006-01-01,FRO,Faroe Islands
+2007-01-01,FRO,Faroe Islands
+2008-01-01,FRO,Faroe Islands
+2009-01-01,FRO,Faroe Islands
+2010-01-01,FRO,Faroe Islands
+2011-01-01,FRO,Faroe Islands
+2012-01-01,FRO,Faroe Islands
+2013-01-01,FRO,Faroe Islands
+2014-01-01,FRO,Faroe Islands
+2015-01-01,FRO,Faroe Islands
+2016-01-01,FRO,Faroe Islands
+2014-01-01,FSM,"Micronesia, Fed. Sts."
+2015-01-01,FSM,"Micronesia, Fed. Sts."
+2016-01-01,FSM,"Micronesia, Fed. Sts."
+2017-01-01,FSM,"Micronesia, Fed. Sts."
+2018-01-01,FSM,"Micronesia, Fed. Sts."
+2019-01-01,FSM,"Micronesia, Fed. Sts."
+2008-01-01,GAB,Gabon
+2009-01-01,GAB,Gabon
+2010-01-01,GAB,Gabon
+2011-01-01,GAB,Gabon
+2012-01-01,GAB,Gabon
+2013-01-01,GAB,Gabon
+2014-01-01,GAB,Gabon
+2015-01-01,GAB,Gabon
+2016-01-01,GAB,Gabon
+2017-01-01,GAB,Gabon
+2018-01-01,GAB,Gabon
+2019-01-01,GAB,Gabon
+2008-01-01,GBR,United Kingdom
+2009-01-01,GBR,United Kingdom
+2010-01-01,GBR,United Kingdom
+2011-01-01,GBR,United Kingdom
+2012-01-01,GBR,United Kingdom
+2013-01-01,GBR,United Kingdom
+2014-01-01,GBR,United Kingdom
+2015-01-01,GBR,United Kingdom
+2016-01-01,GBR,United Kingdom
+2017-01-01,GBR,United Kingdom
+2018-01-01,GBR,United Kingdom
+2019-01-01,GBR,United Kingdom
+2014-01-01,GEO,Georgia
+2015-01-01,GEO,Georgia
+2016-01-01,GEO,Georgia
+2017-01-01,GEO,Georgia
+2018-01-01,GEO,Georgia
+2019-01-01,GEO,Georgia
+2008-01-01,GHA,Ghana
+2009-01-01,GHA,Ghana
+2010-01-01,GHA,Ghana
+2011-01-01,GHA,Ghana
+2012-01-01,GHA,Ghana
+2013-01-01,GHA,Ghana
+2014-01-01,GHA,Ghana
+2015-01-01,GHA,Ghana
+2016-01-01,GHA,Ghana
+2017-01-01,GHA,Ghana
+2018-01-01,GHA,Ghana
+2019-01-01,GHA,Ghana
+2005-01-01,GIB,Gibraltar
+2006-01-01,GIB,Gibraltar
+2007-01-01,GIB,Gibraltar
+2008-01-01,GIB,Gibraltar
+2009-01-01,GIB,Gibraltar
+2010-01-01,GIB,Gibraltar
+2011-01-01,GIB,Gibraltar
+2012-01-01,GIB,Gibraltar
+2013-01-01,GIB,Gibraltar
+2014-01-01,GIB,Gibraltar
+2015-01-01,GIB,Gibraltar
+2016-01-01,GIB,Gibraltar
+2008-01-01,GIN,Guinea
+2009-01-01,GIN,Guinea
+2010-01-01,GIN,Guinea
+2011-01-01,GIN,Guinea
+2012-01-01,GIN,Guinea
+2013-01-01,GIN,Guinea
+2014-01-01,GIN,Guinea
+2015-01-01,GIN,Guinea
+2016-01-01,GIN,Guinea
+2017-01-01,GIN,Guinea
+2018-01-01,GIN,Guinea
+2019-01-01,GIN,Guinea
+2008-01-01,GMB,"Gambia, The"
+2009-01-01,GMB,"Gambia, The"
+2010-01-01,GMB,"Gambia, The"
+2011-01-01,GMB,"Gambia, The"
+2012-01-01,GMB,"Gambia, The"
+2013-01-01,GMB,"Gambia, The"
+2014-01-01,GMB,"Gambia, The"
+2015-01-01,GMB,"Gambia, The"
+2016-01-01,GMB,"Gambia, The"
+2017-01-01,GMB,"Gambia, The"
+2018-01-01,GMB,"Gambia, The"
+2019-01-01,GMB,"Gambia, The"
+2008-01-01,GNB,Guinea-Bissau
+2009-01-01,GNB,Guinea-Bissau
+2010-01-01,GNB,Guinea-Bissau
+2011-01-01,GNB,Guinea-Bissau
+2012-01-01,GNB,Guinea-Bissau
+2013-01-01,GNB,Guinea-Bissau
+2014-01-01,GNB,Guinea-Bissau
+2015-01-01,GNB,Guinea-Bissau
+2016-01-01,GNB,Guinea-Bissau
+2017-01-01,GNB,Guinea-Bissau
+2018-01-01,GNB,Guinea-Bissau
+2019-01-01,GNB,Guinea-Bissau
+2008-01-01,GNQ,Equatorial Guinea
+2009-01-01,GNQ,Equatorial Guinea
+2010-01-01,GNQ,Equatorial Guinea
+2011-01-01,GNQ,Equatorial Guinea
+2012-01-01,GNQ,Equatorial Guinea
+2013-01-01,GNQ,Equatorial Guinea
+2014-01-01,GNQ,Equatorial Guinea
+2015-01-01,GNQ,Equatorial Guinea
+2016-01-01,GNQ,Equatorial Guinea
+2017-01-01,GNQ,Equatorial Guinea
+2018-01-01,GNQ,Equatorial Guinea
+2019-01-01,GNQ,Equatorial Guinea
+2008-01-01,GRC,Greece
+2009-01-01,GRC,Greece
+2010-01-01,GRC,Greece
+2011-01-01,GRC,Greece
+2012-01-01,GRC,Greece
+2013-01-01,GRC,Greece
+2014-01-01,GRC,Greece
+2015-01-01,GRC,Greece
+2016-01-01,GRC,Greece
+2017-01-01,GRC,Greece
+2018-01-01,GRC,Greece
+2019-01-01,GRC,Greece
+2008-01-01,GRD,Grenada
+2009-01-01,GRD,Grenada
+2010-01-01,GRD,Grenada
+2011-01-01,GRD,Grenada
+2012-01-01,GRD,Grenada
+2013-01-01,GRD,Grenada
+2014-01-01,GRD,Grenada
+2015-01-01,GRD,Grenada
+2016-01-01,GRD,Grenada
+2017-01-01,GRD,Grenada
+2018-01-01,GRD,Grenada
+2019-01-01,GRD,Grenada
+2005-01-01,GRL,Greenland
+2006-01-01,GRL,Greenland
+2007-01-01,GRL,Greenland
+2008-01-01,GRL,Greenland
+2009-01-01,GRL,Greenland
+2010-01-01,GRL,Greenland
+2011-01-01,GRL,Greenland
+2012-01-01,GRL,Greenland
+2013-01-01,GRL,Greenland
+2014-01-01,GRL,Greenland
+2015-01-01,GRL,Greenland
+2016-01-01,GRL,Greenland
+2008-01-01,GTM,Guatemala
+2009-01-01,GTM,Guatemala
+2010-01-01,GTM,Guatemala
+2011-01-01,GTM,Guatemala
+2012-01-01,GTM,Guatemala
+2013-01-01,GTM,Guatemala
+2014-01-01,GTM,Guatemala
+2015-01-01,GTM,Guatemala
+2016-01-01,GTM,Guatemala
+2017-01-01,GTM,Guatemala
+2018-01-01,GTM,Guatemala
+2019-01-01,GTM,Guatemala
+2008-01-01,GUY,Guyana
+2009-01-01,GUY,Guyana
+2010-01-01,GUY,Guyana
+2011-01-01,GUY,Guyana
+2012-01-01,GUY,Guyana
+2013-01-01,GUY,Guyana
+2014-01-01,GUY,Guyana
+2015-01-01,GUY,Guyana
+2016-01-01,GUY,Guyana
+2017-01-01,GUY,Guyana
+2018-01-01,GUY,Guyana
+2019-01-01,GUY,Guyana
+2008-01-01,HIC,High income
+2009-01-01,HIC,High income
+2010-01-01,HIC,High income
+2011-01-01,HIC,High income
+2012-01-01,HIC,High income
+2013-01-01,HIC,High income
+2014-01-01,HIC,High income
+2015-01-01,HIC,High income
+2016-01-01,HIC,High income
+2017-01-01,HIC,High income
+2018-01-01,HIC,High income
+2019-01-01,HIC,High income
+2005-01-01,HKG,"Hong Kong SAR, China"
+2006-01-01,HKG,"Hong Kong SAR, China"
+2007-01-01,HKG,"Hong Kong SAR, China"
+2008-01-01,HKG,"Hong Kong SAR, China"
+2009-01-01,HKG,"Hong Kong SAR, China"
+2010-01-01,HKG,"Hong Kong SAR, China"
+2011-01-01,HKG,"Hong Kong SAR, China"
+2012-01-01,HKG,"Hong Kong SAR, China"
+2013-01-01,HKG,"Hong Kong SAR, China"
+2014-01-01,HKG,"Hong Kong SAR, China"
+2015-01-01,HKG,"Hong Kong SAR, China"
+2016-01-01,HKG,"Hong Kong SAR, China"
+2008-01-01,HND,Honduras
+2009-01-01,HND,Honduras
+2010-01-01,HND,Honduras
+2011-01-01,HND,Honduras
+2012-01-01,HND,Honduras
+2013-01-01,HND,Honduras
+2014-01-01,HND,Honduras
+2015-01-01,HND,Honduras
+2016-01-01,HND,Honduras
+2017-01-01,HND,Honduras
+2018-01-01,HND,Honduras
+2019-01-01,HND,Honduras
+2008-01-01,HPC,Heavily indebted poor countries (HIPC)
+2009-01-01,HPC,Heavily indebted poor countries (HIPC)
+2010-01-01,HPC,Heavily indebted poor countries (HIPC)
+2011-01-01,HPC,Heavily indebted poor countries (HIPC)
+2012-01-01,HPC,Heavily indebted poor countries (HIPC)
+2013-01-01,HPC,Heavily indebted poor countries (HIPC)
+2014-01-01,HPC,Heavily indebted poor countries (HIPC)
+2015-01-01,HPC,Heavily indebted poor countries (HIPC)
+2016-01-01,HPC,Heavily indebted poor countries (HIPC)
+2017-01-01,HPC,Heavily indebted poor countries (HIPC)
+2018-01-01,HPC,Heavily indebted poor countries (HIPC)
+2019-01-01,HPC,Heavily indebted poor countries (HIPC)
+2014-01-01,HRV,Croatia
+2015-01-01,HRV,Croatia
+2016-01-01,HRV,Croatia
+2017-01-01,HRV,Croatia
+2018-01-01,HRV,Croatia
+2019-01-01,HRV,Croatia
+2008-01-01,HTI,Haiti
+2009-01-01,HTI,Haiti
+2010-01-01,HTI,Haiti
+2011-01-01,HTI,Haiti
+2012-01-01,HTI,Haiti
+2013-01-01,HTI,Haiti
+2014-01-01,HTI,Haiti
+2015-01-01,HTI,Haiti
+2016-01-01,HTI,Haiti
+2017-01-01,HTI,Haiti
+2018-01-01,HTI,Haiti
+2019-01-01,HTI,Haiti
+2008-01-01,HUN,Hungary
+2009-01-01,HUN,Hungary
+2010-01-01,HUN,Hungary
+2011-01-01,HUN,Hungary
+2012-01-01,HUN,Hungary
+2013-01-01,HUN,Hungary
+2014-01-01,HUN,Hungary
+2015-01-01,HUN,Hungary
+2016-01-01,HUN,Hungary
+2017-01-01,HUN,Hungary
+2018-01-01,HUN,Hungary
+2019-01-01,HUN,Hungary
+2008-01-01,IBD,IBRD only
+2009-01-01,IBD,IBRD only
+2010-01-01,IBD,IBRD only
+2011-01-01,IBD,IBRD only
+2012-01-01,IBD,IBRD only
+2013-01-01,IBD,IBRD only
+2014-01-01,IBD,IBRD only
+2015-01-01,IBD,IBRD only
+2016-01-01,IBD,IBRD only
+2017-01-01,IBD,IBRD only
+2018-01-01,IBD,IBRD only
+2019-01-01,IBD,IBRD only
+2008-01-01,IBT,IDA & IBRD total
+2009-01-01,IBT,IDA & IBRD total
+2010-01-01,IBT,IDA & IBRD total
+2011-01-01,IBT,IDA & IBRD total
+2012-01-01,IBT,IDA & IBRD total
+2013-01-01,IBT,IDA & IBRD total
+2014-01-01,IBT,IDA & IBRD total
+2015-01-01,IBT,IDA & IBRD total
+2016-01-01,IBT,IDA & IBRD total
+2017-01-01,IBT,IDA & IBRD total
+2018-01-01,IBT,IDA & IBRD total
+2019-01-01,IBT,IDA & IBRD total
+2008-01-01,IDA,IDA total
+2009-01-01,IDA,IDA total
+2010-01-01,IDA,IDA total
+2011-01-01,IDA,IDA total
+2012-01-01,IDA,IDA total
+2013-01-01,IDA,IDA total
+2014-01-01,IDA,IDA total
+2015-01-01,IDA,IDA total
+2016-01-01,IDA,IDA total
+2017-01-01,IDA,IDA total
+2018-01-01,IDA,IDA total
+2019-01-01,IDA,IDA total
+2008-01-01,IDB,IDA blend
+2009-01-01,IDB,IDA blend
+2010-01-01,IDB,IDA blend
+2011-01-01,IDB,IDA blend
+2012-01-01,IDB,IDA blend
+2013-01-01,IDB,IDA blend
+2014-01-01,IDB,IDA blend
+2015-01-01,IDB,IDA blend
+2016-01-01,IDB,IDA blend
+2017-01-01,IDB,IDA blend
+2018-01-01,IDB,IDA blend
+2019-01-01,IDB,IDA blend
+2008-01-01,IDN,Indonesia
+2009-01-01,IDN,Indonesia
+2010-01-01,IDN,Indonesia
+2011-01-01,IDN,Indonesia
+2012-01-01,IDN,Indonesia
+2013-01-01,IDN,Indonesia
+2014-01-01,IDN,Indonesia
+2015-01-01,IDN,Indonesia
+2016-01-01,IDN,Indonesia
+2017-01-01,IDN,Indonesia
+2018-01-01,IDN,Indonesia
+2019-01-01,IDN,Indonesia
+2008-01-01,IDX,IDA only
+2009-01-01,IDX,IDA only
+2010-01-01,IDX,IDA only
+2011-01-01,IDX,IDA only
+2012-01-01,IDX,IDA only
+2013-01-01,IDX,IDA only
+2014-01-01,IDX,IDA only
+2015-01-01,IDX,IDA only
+2016-01-01,IDX,IDA only
+2017-01-01,IDX,IDA only
+2018-01-01,IDX,IDA only
+2019-01-01,IDX,IDA only
+2008-01-01,IND,India
+2009-01-01,IND,India
+2010-01-01,IND,India
+2011-01-01,IND,India
+2012-01-01,IND,India
+2013-01-01,IND,India
+2014-01-01,IND,India
+2015-01-01,IND,India
+2016-01-01,IND,India
+2017-01-01,IND,India
+2018-01-01,IND,India
+2019-01-01,IND,India
+2008-01-01,IRL,Ireland
+2009-01-01,IRL,Ireland
+2010-01-01,IRL,Ireland
+2011-01-01,IRL,Ireland
+2012-01-01,IRL,Ireland
+2013-01-01,IRL,Ireland
+2014-01-01,IRL,Ireland
+2015-01-01,IRL,Ireland
+2016-01-01,IRL,Ireland
+2017-01-01,IRL,Ireland
+2018-01-01,IRL,Ireland
+2019-01-01,IRL,Ireland
+2008-01-01,IRN,"Iran, Islamic Rep."
+2009-01-01,IRN,"Iran, Islamic Rep."
+2010-01-01,IRN,"Iran, Islamic Rep."
+2011-01-01,IRN,"Iran, Islamic Rep."
+2012-01-01,IRN,"Iran, Islamic Rep."
+2013-01-01,IRN,"Iran, Islamic Rep."
+2014-01-01,IRN,"Iran, Islamic Rep."
+2015-01-01,IRN,"Iran, Islamic Rep."
+2016-01-01,IRN,"Iran, Islamic Rep."
+2017-01-01,IRN,"Iran, Islamic Rep."
+2018-01-01,IRN,"Iran, Islamic Rep."
+2019-01-01,IRN,"Iran, Islamic Rep."
+2008-01-01,IRQ,Iraq
+2009-01-01,IRQ,Iraq
+2010-01-01,IRQ,Iraq
+2011-01-01,IRQ,Iraq
+2012-01-01,IRQ,Iraq
+2013-01-01,IRQ,Iraq
+2014-01-01,IRQ,Iraq
+2015-01-01,IRQ,Iraq
+2016-01-01,IRQ,Iraq
+2017-01-01,IRQ,Iraq
+2018-01-01,IRQ,Iraq
+2019-01-01,IRQ,Iraq
+2008-01-01,ISL,Iceland
+2009-01-01,ISL,Iceland
+2010-01-01,ISL,Iceland
+2011-01-01,ISL,Iceland
+2012-01-01,ISL,Iceland
+2013-01-01,ISL,Iceland
+2014-01-01,ISL,Iceland
+2015-01-01,ISL,Iceland
+2016-01-01,ISL,Iceland
+2017-01-01,ISL,Iceland
+2018-01-01,ISL,Iceland
+2019-01-01,ISL,Iceland
+2008-01-01,ISR,Israel
+2009-01-01,ISR,Israel
+2010-01-01,ISR,Israel
+2011-01-01,ISR,Israel
+2012-01-01,ISR,Israel
+2013-01-01,ISR,Israel
+2014-01-01,ISR,Israel
+2015-01-01,ISR,Israel
+2016-01-01,ISR,Israel
+2017-01-01,ISR,Israel
+2018-01-01,ISR,Israel
+2019-01-01,ISR,Israel
+2008-01-01,ITA,Italy
+2009-01-01,ITA,Italy
+2010-01-01,ITA,Italy
+2011-01-01,ITA,Italy
+2012-01-01,ITA,Italy
+2013-01-01,ITA,Italy
+2014-01-01,ITA,Italy
+2015-01-01,ITA,Italy
+2016-01-01,ITA,Italy
+2017-01-01,ITA,Italy
+2018-01-01,ITA,Italy
+2019-01-01,ITA,Italy
+2008-01-01,JAM,Jamaica
+2009-01-01,JAM,Jamaica
+2010-01-01,JAM,Jamaica
+2011-01-01,JAM,Jamaica
+2012-01-01,JAM,Jamaica
+2013-01-01,JAM,Jamaica
+2014-01-01,JAM,Jamaica
+2015-01-01,JAM,Jamaica
+2016-01-01,JAM,Jamaica
+2017-01-01,JAM,Jamaica
+2018-01-01,JAM,Jamaica
+2019-01-01,JAM,Jamaica
+2008-01-01,JOR,Jordan
+2009-01-01,JOR,Jordan
+2010-01-01,JOR,Jordan
+2011-01-01,JOR,Jordan
+2012-01-01,JOR,Jordan
+2013-01-01,JOR,Jordan
+2014-01-01,JOR,Jordan
+2015-01-01,JOR,Jordan
+2016-01-01,JOR,Jordan
+2017-01-01,JOR,Jordan
+2018-01-01,JOR,Jordan
+2019-01-01,JOR,Jordan
+2008-01-01,JPN,Japan
+2009-01-01,JPN,Japan
+2010-01-01,JPN,Japan
+2011-01-01,JPN,Japan
+2012-01-01,JPN,Japan
+2013-01-01,JPN,Japan
+2014-01-01,JPN,Japan
+2015-01-01,JPN,Japan
+2016-01-01,JPN,Japan
+2017-01-01,JPN,Japan
+2018-01-01,JPN,Japan
+2019-01-01,JPN,Japan
+2014-01-01,KAZ,Kazakhstan
+2015-01-01,KAZ,Kazakhstan
+2016-01-01,KAZ,Kazakhstan
+2017-01-01,KAZ,Kazakhstan
+2018-01-01,KAZ,Kazakhstan
+2019-01-01,KAZ,Kazakhstan
+2008-01-01,KEN,Kenya
+2009-01-01,KEN,Kenya
+2010-01-01,KEN,Kenya
+2011-01-01,KEN,Kenya
+2012-01-01,KEN,Kenya
+2013-01-01,KEN,Kenya
+2014-01-01,KEN,Kenya
+2015-01-01,KEN,Kenya
+2016-01-01,KEN,Kenya
+2017-01-01,KEN,Kenya
+2018-01-01,KEN,Kenya
+2019-01-01,KEN,Kenya
+2014-01-01,KGZ,Kyrgyz Republic
+2015-01-01,KGZ,Kyrgyz Republic
+2016-01-01,KGZ,Kyrgyz Republic
+2017-01-01,KGZ,Kyrgyz Republic
+2018-01-01,KGZ,Kyrgyz Republic
+2019-01-01,KGZ,Kyrgyz Republic
+2008-01-01,KHM,Cambodia
+2009-01-01,KHM,Cambodia
+2010-01-01,KHM,Cambodia
+2011-01-01,KHM,Cambodia
+2012-01-01,KHM,Cambodia
+2013-01-01,KHM,Cambodia
+2014-01-01,KHM,Cambodia
+2015-01-01,KHM,Cambodia
+2016-01-01,KHM,Cambodia
+2017-01-01,KHM,Cambodia
+2018-01-01,KHM,Cambodia
+2019-01-01,KHM,Cambodia
+2008-01-01,KIR,Kiribati
+2009-01-01,KIR,Kiribati
+2010-01-01,KIR,Kiribati
+2011-01-01,KIR,Kiribati
+2012-01-01,KIR,Kiribati
+2013-01-01,KIR,Kiribati
+2014-01-01,KIR,Kiribati
+2015-01-01,KIR,Kiribati
+2016-01-01,KIR,Kiribati
+2017-01-01,KIR,Kiribati
+2018-01-01,KIR,Kiribati
+2019-01-01,KIR,Kiribati
+2008-01-01,KNA,St. Kitts and Nevis
+2009-01-01,KNA,St. Kitts and Nevis
+2010-01-01,KNA,St. Kitts and Nevis
+2011-01-01,KNA,St. Kitts and Nevis
+2012-01-01,KNA,St. Kitts and Nevis
+2013-01-01,KNA,St. Kitts and Nevis
+2014-01-01,KNA,St. Kitts and Nevis
+2015-01-01,KNA,St. Kitts and Nevis
+2016-01-01,KNA,St. Kitts and Nevis
+2017-01-01,KNA,St. Kitts and Nevis
+2018-01-01,KNA,St. Kitts and Nevis
+2019-01-01,KNA,St. Kitts and Nevis
+2008-01-01,KOR,"Korea, Rep."
+2009-01-01,KOR,"Korea, Rep."
+2010-01-01,KOR,"Korea, Rep."
+2011-01-01,KOR,"Korea, Rep."
+2012-01-01,KOR,"Korea, Rep."
+2013-01-01,KOR,"Korea, Rep."
+2014-01-01,KOR,"Korea, Rep."
+2015-01-01,KOR,"Korea, Rep."
+2016-01-01,KOR,"Korea, Rep."
+2017-01-01,KOR,"Korea, Rep."
+2018-01-01,KOR,"Korea, Rep."
+2019-01-01,KOR,"Korea, Rep."
+2008-01-01,KWT,Kuwait
+2009-01-01,KWT,Kuwait
+2010-01-01,KWT,Kuwait
+2011-01-01,KWT,Kuwait
+2012-01-01,KWT,Kuwait
+2013-01-01,KWT,Kuwait
+2014-01-01,KWT,Kuwait
+2015-01-01,KWT,Kuwait
+2016-01-01,KWT,Kuwait
+2017-01-01,KWT,Kuwait
+2018-01-01,KWT,Kuwait
+2019-01-01,KWT,Kuwait
+2008-01-01,LAC,Latin America & Caribbean (excluding high income)
+2009-01-01,LAC,Latin America & Caribbean (excluding high income)
+2010-01-01,LAC,Latin America & Caribbean (excluding high income)
+2011-01-01,LAC,Latin America & Caribbean (excluding high income)
+2012-01-01,LAC,Latin America & Caribbean (excluding high income)
+2013-01-01,LAC,Latin America & Caribbean (excluding high income)
+2014-01-01,LAC,Latin America & Caribbean (excluding high income)
+2015-01-01,LAC,Latin America & Caribbean (excluding high income)
+2016-01-01,LAC,Latin America & Caribbean (excluding high income)
+2017-01-01,LAC,Latin America & Caribbean (excluding high income)
+2018-01-01,LAC,Latin America & Caribbean (excluding high income)
+2019-01-01,LAC,Latin America & Caribbean (excluding high income)
+2008-01-01,LAO,Lao PDR
+2009-01-01,LAO,Lao PDR
+2010-01-01,LAO,Lao PDR
+2011-01-01,LAO,Lao PDR
+2012-01-01,LAO,Lao PDR
+2013-01-01,LAO,Lao PDR
+2014-01-01,LAO,Lao PDR
+2015-01-01,LAO,Lao PDR
+2016-01-01,LAO,Lao PDR
+2017-01-01,LAO,Lao PDR
+2018-01-01,LAO,Lao PDR
+2019-01-01,LAO,Lao PDR
+2008-01-01,LBN,Lebanon
+2009-01-01,LBN,Lebanon
+2010-01-01,LBN,Lebanon
+2011-01-01,LBN,Lebanon
+2012-01-01,LBN,Lebanon
+2013-01-01,LBN,Lebanon
+2014-01-01,LBN,Lebanon
+2015-01-01,LBN,Lebanon
+2016-01-01,LBN,Lebanon
+2017-01-01,LBN,Lebanon
+2018-01-01,LBN,Lebanon
+2019-01-01,LBN,Lebanon
+2008-01-01,LBR,Liberia
+2009-01-01,LBR,Liberia
+2010-01-01,LBR,Liberia
+2011-01-01,LBR,Liberia
+2012-01-01,LBR,Liberia
+2013-01-01,LBR,Liberia
+2014-01-01,LBR,Liberia
+2015-01-01,LBR,Liberia
+2016-01-01,LBR,Liberia
+2017-01-01,LBR,Liberia
+2018-01-01,LBR,Liberia
+2019-01-01,LBR,Liberia
+2008-01-01,LBY,Libya
+2009-01-01,LBY,Libya
+2010-01-01,LBY,Libya
+2011-01-01,LBY,Libya
+2012-01-01,LBY,Libya
+2013-01-01,LBY,Libya
+2014-01-01,LBY,Libya
+2015-01-01,LBY,Libya
+2016-01-01,LBY,Libya
+2017-01-01,LBY,Libya
+2018-01-01,LBY,Libya
+2019-01-01,LBY,Libya
+2008-01-01,LCA,St. Lucia
+2009-01-01,LCA,St. Lucia
+2010-01-01,LCA,St. Lucia
+2011-01-01,LCA,St. Lucia
+2012-01-01,LCA,St. Lucia
+2013-01-01,LCA,St. Lucia
+2014-01-01,LCA,St. Lucia
+2015-01-01,LCA,St. Lucia
+2016-01-01,LCA,St. Lucia
+2017-01-01,LCA,St. Lucia
+2018-01-01,LCA,St. Lucia
+2019-01-01,LCA,St. Lucia
+2008-01-01,LCN,Latin America & Caribbean
+2009-01-01,LCN,Latin America & Caribbean
+2010-01-01,LCN,Latin America & Caribbean
+2011-01-01,LCN,Latin America & Caribbean
+2012-01-01,LCN,Latin America & Caribbean
+2013-01-01,LCN,Latin America & Caribbean
+2014-01-01,LCN,Latin America & Caribbean
+2015-01-01,LCN,Latin America & Caribbean
+2016-01-01,LCN,Latin America & Caribbean
+2017-01-01,LCN,Latin America & Caribbean
+2018-01-01,LCN,Latin America & Caribbean
+2019-01-01,LCN,Latin America & Caribbean
+2008-01-01,LDC,Least developed countries: UN classification
+2009-01-01,LDC,Least developed countries: UN classification
+2010-01-01,LDC,Least developed countries: UN classification
+2011-01-01,LDC,Least developed countries: UN classification
+2012-01-01,LDC,Least developed countries: UN classification
+2013-01-01,LDC,Least developed countries: UN classification
+2014-01-01,LDC,Least developed countries: UN classification
+2015-01-01,LDC,Least developed countries: UN classification
+2016-01-01,LDC,Least developed countries: UN classification
+2017-01-01,LDC,Least developed countries: UN classification
+2018-01-01,LDC,Least developed countries: UN classification
+2019-01-01,LDC,Least developed countries: UN classification
+2008-01-01,LIC,Low income
+2009-01-01,LIC,Low income
+2010-01-01,LIC,Low income
+2011-01-01,LIC,Low income
+2012-01-01,LIC,Low income
+2013-01-01,LIC,Low income
+2014-01-01,LIC,Low income
+2015-01-01,LIC,Low income
+2016-01-01,LIC,Low income
+2017-01-01,LIC,Low income
+2018-01-01,LIC,Low income
+2019-01-01,LIC,Low income
+2014-01-01,LIE,Liechtenstein
+2015-01-01,LIE,Liechtenstein
+2016-01-01,LIE,Liechtenstein
+2017-01-01,LIE,Liechtenstein
+2018-01-01,LIE,Liechtenstein
+2019-01-01,LIE,Liechtenstein
+2008-01-01,LKA,Sri Lanka
+2009-01-01,LKA,Sri Lanka
+2010-01-01,LKA,Sri Lanka
+2011-01-01,LKA,Sri Lanka
+2012-01-01,LKA,Sri Lanka
+2013-01-01,LKA,Sri Lanka
+2014-01-01,LKA,Sri Lanka
+2015-01-01,LKA,Sri Lanka
+2016-01-01,LKA,Sri Lanka
+2017-01-01,LKA,Sri Lanka
+2018-01-01,LKA,Sri Lanka
+2019-01-01,LKA,Sri Lanka
+2008-01-01,LMC,Lower middle income
+2009-01-01,LMC,Lower middle income
+2010-01-01,LMC,Lower middle income
+2011-01-01,LMC,Lower middle income
+2012-01-01,LMC,Lower middle income
+2013-01-01,LMC,Lower middle income
+2014-01-01,LMC,Lower middle income
+2015-01-01,LMC,Lower middle income
+2016-01-01,LMC,Lower middle income
+2017-01-01,LMC,Lower middle income
+2018-01-01,LMC,Lower middle income
+2019-01-01,LMC,Lower middle income
+2008-01-01,LMY,Low & middle income
+2009-01-01,LMY,Low & middle income
+2010-01-01,LMY,Low & middle income
+2011-01-01,LMY,Low & middle income
+2012-01-01,LMY,Low & middle income
+2013-01-01,LMY,Low & middle income
+2014-01-01,LMY,Low & middle income
+2015-01-01,LMY,Low & middle income
+2016-01-01,LMY,Low & middle income
+2017-01-01,LMY,Low & middle income
+2018-01-01,LMY,Low & middle income
+2019-01-01,LMY,Low & middle income
+2014-01-01,LSO,Lesotho
+2015-01-01,LSO,Lesotho
+2016-01-01,LSO,Lesotho
+2017-01-01,LSO,Lesotho
+2018-01-01,LSO,Lesotho
+2019-01-01,LSO,Lesotho
+2008-01-01,LTE,Late-demographic dividend
+2009-01-01,LTE,Late-demographic dividend
+2010-01-01,LTE,Late-demographic dividend
+2011-01-01,LTE,Late-demographic dividend
+2012-01-01,LTE,Late-demographic dividend
+2013-01-01,LTE,Late-demographic dividend
+2014-01-01,LTE,Late-demographic dividend
+2015-01-01,LTE,Late-demographic dividend
+2016-01-01,LTE,Late-demographic dividend
+2017-01-01,LTE,Late-demographic dividend
+2018-01-01,LTE,Late-demographic dividend
+2019-01-01,LTE,Late-demographic dividend
+2014-01-01,LTU,Lithuania
+2015-01-01,LTU,Lithuania
+2016-01-01,LTU,Lithuania
+2017-01-01,LTU,Lithuania
+2018-01-01,LTU,Lithuania
+2019-01-01,LTU,Lithuania
+2008-01-01,LUX,Luxembourg
+2009-01-01,LUX,Luxembourg
+2010-01-01,LUX,Luxembourg
+2011-01-01,LUX,Luxembourg
+2012-01-01,LUX,Luxembourg
+2013-01-01,LUX,Luxembourg
+2014-01-01,LUX,Luxembourg
+2015-01-01,LUX,Luxembourg
+2016-01-01,LUX,Luxembourg
+2017-01-01,LUX,Luxembourg
+2018-01-01,LUX,Luxembourg
+2019-01-01,LUX,Luxembourg
+2014-01-01,LVA,Latvia
+2015-01-01,LVA,Latvia
+2016-01-01,LVA,Latvia
+2017-01-01,LVA,Latvia
+2018-01-01,LVA,Latvia
+2019-01-01,LVA,Latvia
+2005-01-01,MAC,"Macao SAR, China"
+2006-01-01,MAC,"Macao SAR, China"
+2007-01-01,MAC,"Macao SAR, China"
+2008-01-01,MAC,"Macao SAR, China"
+2009-01-01,MAC,"Macao SAR, China"
+2010-01-01,MAC,"Macao SAR, China"
+2011-01-01,MAC,"Macao SAR, China"
+2012-01-01,MAC,"Macao SAR, China"
+2013-01-01,MAC,"Macao SAR, China"
+2014-01-01,MAC,"Macao SAR, China"
+2015-01-01,MAC,"Macao SAR, China"
+2016-01-01,MAC,"Macao SAR, China"
+2008-01-01,MAR,Morocco
+2009-01-01,MAR,Morocco
+2010-01-01,MAR,Morocco
+2011-01-01,MAR,Morocco
+2012-01-01,MAR,Morocco
+2013-01-01,MAR,Morocco
+2014-01-01,MAR,Morocco
+2015-01-01,MAR,Morocco
+2016-01-01,MAR,Morocco
+2017-01-01,MAR,Morocco
+2018-01-01,MAR,Morocco
+2019-01-01,MAR,Morocco
+2014-01-01,MDA,Moldova
+2015-01-01,MDA,Moldova
+2016-01-01,MDA,Moldova
+2017-01-01,MDA,Moldova
+2018-01-01,MDA,Moldova
+2019-01-01,MDA,Moldova
+2008-01-01,MDG,Madagascar
+2009-01-01,MDG,Madagascar
+2010-01-01,MDG,Madagascar
+2011-01-01,MDG,Madagascar
+2012-01-01,MDG,Madagascar
+2013-01-01,MDG,Madagascar
+2014-01-01,MDG,Madagascar
+2015-01-01,MDG,Madagascar
+2016-01-01,MDG,Madagascar
+2017-01-01,MDG,Madagascar
+2018-01-01,MDG,Madagascar
+2019-01-01,MDG,Madagascar
+2010-01-01,MDV,Maldives
+2011-01-01,MDV,Maldives
+2012-01-01,MDV,Maldives
+2013-01-01,MDV,Maldives
+2014-01-01,MDV,Maldives
+2015-01-01,MDV,Maldives
+2016-01-01,MDV,Maldives
+2017-01-01,MDV,Maldives
+2018-01-01,MDV,Maldives
+2019-01-01,MDV,Maldives
+2008-01-01,MEA,Middle East & North Africa
+2009-01-01,MEA,Middle East & North Africa
+2010-01-01,MEA,Middle East & North Africa
+2011-01-01,MEA,Middle East & North Africa
+2012-01-01,MEA,Middle East & North Africa
+2013-01-01,MEA,Middle East & North Africa
+2014-01-01,MEA,Middle East & North Africa
+2015-01-01,MEA,Middle East & North Africa
+2016-01-01,MEA,Middle East & North Africa
+2017-01-01,MEA,Middle East & North Africa
+2018-01-01,MEA,Middle East & North Africa
+2019-01-01,MEA,Middle East & North Africa
+2008-01-01,MEX,Mexico
+2009-01-01,MEX,Mexico
+2010-01-01,MEX,Mexico
+2011-01-01,MEX,Mexico
+2012-01-01,MEX,Mexico
+2013-01-01,MEX,Mexico
+2014-01-01,MEX,Mexico
+2015-01-01,MEX,Mexico
+2016-01-01,MEX,Mexico
+2017-01-01,MEX,Mexico
+2018-01-01,MEX,Mexico
+2019-01-01,MEX,Mexico
+2014-01-01,MHL,Marshall Islands
+2015-01-01,MHL,Marshall Islands
+2016-01-01,MHL,Marshall Islands
+2017-01-01,MHL,Marshall Islands
+2018-01-01,MHL,Marshall Islands
+2019-01-01,MHL,Marshall Islands
+2008-01-01,MIC,Middle income
+2009-01-01,MIC,Middle income
+2010-01-01,MIC,Middle income
+2011-01-01,MIC,Middle income
+2012-01-01,MIC,Middle income
+2013-01-01,MIC,Middle income
+2014-01-01,MIC,Middle income
+2015-01-01,MIC,Middle income
+2016-01-01,MIC,Middle income
+2017-01-01,MIC,Middle income
+2018-01-01,MIC,Middle income
+2019-01-01,MIC,Middle income
+2014-01-01,MKD,North Macedonia
+2015-01-01,MKD,North Macedonia
+2016-01-01,MKD,North Macedonia
+2017-01-01,MKD,North Macedonia
+2018-01-01,MKD,North Macedonia
+2019-01-01,MKD,North Macedonia
+2008-01-01,MLI,Mali
+2009-01-01,MLI,Mali
+2010-01-01,MLI,Mali
+2011-01-01,MLI,Mali
+2012-01-01,MLI,Mali
+2013-01-01,MLI,Mali
+2014-01-01,MLI,Mali
+2015-01-01,MLI,Mali
+2016-01-01,MLI,Mali
+2017-01-01,MLI,Mali
+2018-01-01,MLI,Mali
+2019-01-01,MLI,Mali
+2008-01-01,MLT,Malta
+2009-01-01,MLT,Malta
+2010-01-01,MLT,Malta
+2011-01-01,MLT,Malta
+2012-01-01,MLT,Malta
+2013-01-01,MLT,Malta
+2014-01-01,MLT,Malta
+2015-01-01,MLT,Malta
+2016-01-01,MLT,Malta
+2017-01-01,MLT,Malta
+2018-01-01,MLT,Malta
+2019-01-01,MLT,Malta
+2008-01-01,MMR,Myanmar
+2009-01-01,MMR,Myanmar
+2010-01-01,MMR,Myanmar
+2011-01-01,MMR,Myanmar
+2012-01-01,MMR,Myanmar
+2013-01-01,MMR,Myanmar
+2014-01-01,MMR,Myanmar
+2015-01-01,MMR,Myanmar
+2016-01-01,MMR,Myanmar
+2017-01-01,MMR,Myanmar
+2018-01-01,MMR,Myanmar
+2019-01-01,MMR,Myanmar
+2008-01-01,MNA,Middle East & North Africa (excluding high income)
+2009-01-01,MNA,Middle East & North Africa (excluding high income)
+2010-01-01,MNA,Middle East & North Africa (excluding high income)
+2011-01-01,MNA,Middle East & North Africa (excluding high income)
+2012-01-01,MNA,Middle East & North Africa (excluding high income)
+2013-01-01,MNA,Middle East & North Africa (excluding high income)
+2014-01-01,MNA,Middle East & North Africa (excluding high income)
+2015-01-01,MNA,Middle East & North Africa (excluding high income)
+2016-01-01,MNA,Middle East & North Africa (excluding high income)
+2017-01-01,MNA,Middle East & North Africa (excluding high income)
+2018-01-01,MNA,Middle East & North Africa (excluding high income)
+2019-01-01,MNA,Middle East & North Africa (excluding high income)
+2014-01-01,MNE,Montenegro
+2015-01-01,MNE,Montenegro
+2016-01-01,MNE,Montenegro
+2017-01-01,MNE,Montenegro
+2018-01-01,MNE,Montenegro
+2019-01-01,MNE,Montenegro
+2008-01-01,MNG,Mongolia
+2009-01-01,MNG,Mongolia
+2010-01-01,MNG,Mongolia
+2011-01-01,MNG,Mongolia
+2012-01-01,MNG,Mongolia
+2013-01-01,MNG,Mongolia
+2014-01-01,MNG,Mongolia
+2015-01-01,MNG,Mongolia
+2016-01-01,MNG,Mongolia
+2017-01-01,MNG,Mongolia
+2018-01-01,MNG,Mongolia
+2019-01-01,MNG,Mongolia
+2008-01-01,MOZ,Mozambique
+2009-01-01,MOZ,Mozambique
+2010-01-01,MOZ,Mozambique
+2011-01-01,MOZ,Mozambique
+2012-01-01,MOZ,Mozambique
+2013-01-01,MOZ,Mozambique
+2014-01-01,MOZ,Mozambique
+2015-01-01,MOZ,Mozambique
+2016-01-01,MOZ,Mozambique
+2017-01-01,MOZ,Mozambique
+2018-01-01,MOZ,Mozambique
+2019-01-01,MOZ,Mozambique
+2008-01-01,MRT,Mauritania
+2009-01-01,MRT,Mauritania
+2010-01-01,MRT,Mauritania
+2011-01-01,MRT,Mauritania
+2012-01-01,MRT,Mauritania
+2013-01-01,MRT,Mauritania
+2014-01-01,MRT,Mauritania
+2015-01-01,MRT,Mauritania
+2016-01-01,MRT,Mauritania
+2017-01-01,MRT,Mauritania
+2018-01-01,MRT,Mauritania
+2019-01-01,MRT,Mauritania
+2008-01-01,MUS,Mauritius
+2009-01-01,MUS,Mauritius
+2010-01-01,MUS,Mauritius
+2011-01-01,MUS,Mauritius
+2012-01-01,MUS,Mauritius
+2013-01-01,MUS,Mauritius
+2014-01-01,MUS,Mauritius
+2015-01-01,MUS,Mauritius
+2016-01-01,MUS,Mauritius
+2017-01-01,MUS,Mauritius
+2018-01-01,MUS,Mauritius
+2019-01-01,MUS,Mauritius
+2008-01-01,MWI,Malawi
+2009-01-01,MWI,Malawi
+2010-01-01,MWI,Malawi
+2011-01-01,MWI,Malawi
+2012-01-01,MWI,Malawi
+2013-01-01,MWI,Malawi
+2014-01-01,MWI,Malawi
+2015-01-01,MWI,Malawi
+2016-01-01,MWI,Malawi
+2017-01-01,MWI,Malawi
+2018-01-01,MWI,Malawi
+2019-01-01,MWI,Malawi
+2008-01-01,MYS,Malaysia
+2009-01-01,MYS,Malaysia
+2010-01-01,MYS,Malaysia
+2011-01-01,MYS,Malaysia
+2012-01-01,MYS,Malaysia
+2013-01-01,MYS,Malaysia
+2014-01-01,MYS,Malaysia
+2015-01-01,MYS,Malaysia
+2016-01-01,MYS,Malaysia
+2017-01-01,MYS,Malaysia
+2018-01-01,MYS,Malaysia
+2019-01-01,MYS,Malaysia
+2008-01-01,NAC,North America
+2009-01-01,NAC,North America
+2010-01-01,NAC,North America
+2011-01-01,NAC,North America
+2012-01-01,NAC,North America
+2013-01-01,NAC,North America
+2014-01-01,NAC,North America
+2015-01-01,NAC,North America
+2016-01-01,NAC,North America
+2017-01-01,NAC,North America
+2018-01-01,NAC,North America
+2019-01-01,NAC,North America
+2014-01-01,NAM,Namibia
+2015-01-01,NAM,Namibia
+2016-01-01,NAM,Namibia
+2017-01-01,NAM,Namibia
+2018-01-01,NAM,Namibia
+2019-01-01,NAM,Namibia
+2005-01-01,NCL,New Caledonia
+2006-01-01,NCL,New Caledonia
+2007-01-01,NCL,New Caledonia
+2008-01-01,NCL,New Caledonia
+2009-01-01,NCL,New Caledonia
+2010-01-01,NCL,New Caledonia
+2011-01-01,NCL,New Caledonia
+2012-01-01,NCL,New Caledonia
+2013-01-01,NCL,New Caledonia
+2014-01-01,NCL,New Caledonia
+2015-01-01,NCL,New Caledonia
+2016-01-01,NCL,New Caledonia
+2008-01-01,NER,Niger
+2009-01-01,NER,Niger
+2010-01-01,NER,Niger
+2011-01-01,NER,Niger
+2012-01-01,NER,Niger
+2013-01-01,NER,Niger
+2014-01-01,NER,Niger
+2015-01-01,NER,Niger
+2016-01-01,NER,Niger
+2017-01-01,NER,Niger
+2018-01-01,NER,Niger
+2019-01-01,NER,Niger
+2008-01-01,NGA,Nigeria
+2009-01-01,NGA,Nigeria
+2010-01-01,NGA,Nigeria
+2011-01-01,NGA,Nigeria
+2012-01-01,NGA,Nigeria
+2013-01-01,NGA,Nigeria
+2014-01-01,NGA,Nigeria
+2015-01-01,NGA,Nigeria
+2016-01-01,NGA,Nigeria
+2017-01-01,NGA,Nigeria
+2018-01-01,NGA,Nigeria
+2019-01-01,NGA,Nigeria
+2008-01-01,NIC,Nicaragua
+2009-01-01,NIC,Nicaragua
+2010-01-01,NIC,Nicaragua
+2011-01-01,NIC,Nicaragua
+2012-01-01,NIC,Nicaragua
+2013-01-01,NIC,Nicaragua
+2014-01-01,NIC,Nicaragua
+2015-01-01,NIC,Nicaragua
+2016-01-01,NIC,Nicaragua
+2017-01-01,NIC,Nicaragua
+2018-01-01,NIC,Nicaragua
+2019-01-01,NIC,Nicaragua
+2008-01-01,NLD,Netherlands
+2009-01-01,NLD,Netherlands
+2010-01-01,NLD,Netherlands
+2011-01-01,NLD,Netherlands
+2012-01-01,NLD,Netherlands
+2013-01-01,NLD,Netherlands
+2014-01-01,NLD,Netherlands
+2015-01-01,NLD,Netherlands
+2016-01-01,NLD,Netherlands
+2017-01-01,NLD,Netherlands
+2018-01-01,NLD,Netherlands
+2019-01-01,NLD,Netherlands
+2008-01-01,NOR,Norway
+2009-01-01,NOR,Norway
+2010-01-01,NOR,Norway
+2011-01-01,NOR,Norway
+2012-01-01,NOR,Norway
+2013-01-01,NOR,Norway
+2014-01-01,NOR,Norway
+2015-01-01,NOR,Norway
+2016-01-01,NOR,Norway
+2017-01-01,NOR,Norway
+2018-01-01,NOR,Norway
+2019-01-01,NOR,Norway
+2008-01-01,NPL,Nepal
+2009-01-01,NPL,Nepal
+2010-01-01,NPL,Nepal
+2011-01-01,NPL,Nepal
+2012-01-01,NPL,Nepal
+2013-01-01,NPL,Nepal
+2014-01-01,NPL,Nepal
+2015-01-01,NPL,Nepal
+2016-01-01,NPL,Nepal
+2017-01-01,NPL,Nepal
+2018-01-01,NPL,Nepal
+2019-01-01,NPL,Nepal
+2008-01-01,NRU,Nauru
+2009-01-01,NRU,Nauru
+2010-01-01,NRU,Nauru
+2011-01-01,NRU,Nauru
+2012-01-01,NRU,Nauru
+2013-01-01,NRU,Nauru
+2014-01-01,NRU,Nauru
+2015-01-01,NRU,Nauru
+2016-01-01,NRU,Nauru
+2017-01-01,NRU,Nauru
+2018-01-01,NRU,Nauru
+2019-01-01,NRU,Nauru
+2008-01-01,NZL,New Zealand
+2009-01-01,NZL,New Zealand
+2010-01-01,NZL,New Zealand
+2011-01-01,NZL,New Zealand
+2012-01-01,NZL,New Zealand
+2013-01-01,NZL,New Zealand
+2014-01-01,NZL,New Zealand
+2015-01-01,NZL,New Zealand
+2016-01-01,NZL,New Zealand
+2017-01-01,NZL,New Zealand
+2018-01-01,NZL,New Zealand
+2019-01-01,NZL,New Zealand
+2008-01-01,OED,OECD members
+2009-01-01,OED,OECD members
+2010-01-01,OED,OECD members
+2011-01-01,OED,OECD members
+2012-01-01,OED,OECD members
+2013-01-01,OED,OECD members
+2014-01-01,OED,OECD members
+2015-01-01,OED,OECD members
+2016-01-01,OED,OECD members
+2017-01-01,OED,OECD members
+2018-01-01,OED,OECD members
+2019-01-01,OED,OECD members
+2008-01-01,OMN,Oman
+2009-01-01,OMN,Oman
+2010-01-01,OMN,Oman
+2011-01-01,OMN,Oman
+2012-01-01,OMN,Oman
+2013-01-01,OMN,Oman
+2014-01-01,OMN,Oman
+2015-01-01,OMN,Oman
+2016-01-01,OMN,Oman
+2017-01-01,OMN,Oman
+2018-01-01,OMN,Oman
+2019-01-01,OMN,Oman
+2008-01-01,OSS,Other small states
+2009-01-01,OSS,Other small states
+2010-01-01,OSS,Other small states
+2011-01-01,OSS,Other small states
+2012-01-01,OSS,Other small states
+2013-01-01,OSS,Other small states
+2014-01-01,OSS,Other small states
+2015-01-01,OSS,Other small states
+2016-01-01,OSS,Other small states
+2017-01-01,OSS,Other small states
+2018-01-01,OSS,Other small states
+2019-01-01,OSS,Other small states
+2008-01-01,PAK,Pakistan
+2009-01-01,PAK,Pakistan
+2010-01-01,PAK,Pakistan
+2011-01-01,PAK,Pakistan
+2012-01-01,PAK,Pakistan
+2013-01-01,PAK,Pakistan
+2014-01-01,PAK,Pakistan
+2015-01-01,PAK,Pakistan
+2016-01-01,PAK,Pakistan
+2017-01-01,PAK,Pakistan
+2018-01-01,PAK,Pakistan
+2019-01-01,PAK,Pakistan
+2008-01-01,PAN,Panama
+2009-01-01,PAN,Panama
+2010-01-01,PAN,Panama
+2011-01-01,PAN,Panama
+2012-01-01,PAN,Panama
+2013-01-01,PAN,Panama
+2014-01-01,PAN,Panama
+2015-01-01,PAN,Panama
+2016-01-01,PAN,Panama
+2017-01-01,PAN,Panama
+2018-01-01,PAN,Panama
+2019-01-01,PAN,Panama
+2008-01-01,PER,Peru
+2009-01-01,PER,Peru
+2010-01-01,PER,Peru
+2011-01-01,PER,Peru
+2012-01-01,PER,Peru
+2013-01-01,PER,Peru
+2014-01-01,PER,Peru
+2015-01-01,PER,Peru
+2016-01-01,PER,Peru
+2017-01-01,PER,Peru
+2018-01-01,PER,Peru
+2019-01-01,PER,Peru
+2008-01-01,PHL,Philippines
+2009-01-01,PHL,Philippines
+2010-01-01,PHL,Philippines
+2011-01-01,PHL,Philippines
+2012-01-01,PHL,Philippines
+2013-01-01,PHL,Philippines
+2014-01-01,PHL,Philippines
+2015-01-01,PHL,Philippines
+2016-01-01,PHL,Philippines
+2017-01-01,PHL,Philippines
+2018-01-01,PHL,Philippines
+2019-01-01,PHL,Philippines
+2008-01-01,PLW,Palau
+2009-01-01,PLW,Palau
+2010-01-01,PLW,Palau
+2011-01-01,PLW,Palau
+2012-01-01,PLW,Palau
+2013-01-01,PLW,Palau
+2014-01-01,PLW,Palau
+2015-01-01,PLW,Palau
+2016-01-01,PLW,Palau
+2017-01-01,PLW,Palau
+2018-01-01,PLW,Palau
+2019-01-01,PLW,Palau
+2008-01-01,PNG,Papua New Guinea
+2009-01-01,PNG,Papua New Guinea
+2010-01-01,PNG,Papua New Guinea
+2011-01-01,PNG,Papua New Guinea
+2012-01-01,PNG,Papua New Guinea
+2013-01-01,PNG,Papua New Guinea
+2014-01-01,PNG,Papua New Guinea
+2015-01-01,PNG,Papua New Guinea
+2016-01-01,PNG,Papua New Guinea
+2017-01-01,PNG,Papua New Guinea
+2018-01-01,PNG,Papua New Guinea
+2019-01-01,PNG,Papua New Guinea
+2008-01-01,POL,Poland
+2009-01-01,POL,Poland
+2010-01-01,POL,Poland
+2011-01-01,POL,Poland
+2012-01-01,POL,Poland
+2013-01-01,POL,Poland
+2014-01-01,POL,Poland
+2015-01-01,POL,Poland
+2016-01-01,POL,Poland
+2017-01-01,POL,Poland
+2018-01-01,POL,Poland
+2019-01-01,POL,Poland
+2008-01-01,PRE,Pre-demographic dividend
+2009-01-01,PRE,Pre-demographic dividend
+2010-01-01,PRE,Pre-demographic dividend
+2011-01-01,PRE,Pre-demographic dividend
+2012-01-01,PRE,Pre-demographic dividend
+2013-01-01,PRE,Pre-demographic dividend
+2014-01-01,PRE,Pre-demographic dividend
+2015-01-01,PRE,Pre-demographic dividend
+2016-01-01,PRE,Pre-demographic dividend
+2017-01-01,PRE,Pre-demographic dividend
+2018-01-01,PRE,Pre-demographic dividend
+2019-01-01,PRE,Pre-demographic dividend
+2008-01-01,PRK,"Korea, Dem. People's Rep."
+2009-01-01,PRK,"Korea, Dem. People's Rep."
+2010-01-01,PRK,"Korea, Dem. People's Rep."
+2011-01-01,PRK,"Korea, Dem. People's Rep."
+2012-01-01,PRK,"Korea, Dem. People's Rep."
+2013-01-01,PRK,"Korea, Dem. People's Rep."
+2014-01-01,PRK,"Korea, Dem. People's Rep."
+2015-01-01,PRK,"Korea, Dem. People's Rep."
+2016-01-01,PRK,"Korea, Dem. People's Rep."
+2017-01-01,PRK,"Korea, Dem. People's Rep."
+2018-01-01,PRK,"Korea, Dem. People's Rep."
+2019-01-01,PRK,"Korea, Dem. People's Rep."
+2008-01-01,PRT,Portugal
+2009-01-01,PRT,Portugal
+2010-01-01,PRT,Portugal
+2011-01-01,PRT,Portugal
+2012-01-01,PRT,Portugal
+2013-01-01,PRT,Portugal
+2014-01-01,PRT,Portugal
+2015-01-01,PRT,Portugal
+2016-01-01,PRT,Portugal
+2017-01-01,PRT,Portugal
+2018-01-01,PRT,Portugal
+2019-01-01,PRT,Portugal
+2008-01-01,PRY,Paraguay
+2009-01-01,PRY,Paraguay
+2010-01-01,PRY,Paraguay
+2011-01-01,PRY,Paraguay
+2012-01-01,PRY,Paraguay
+2013-01-01,PRY,Paraguay
+2014-01-01,PRY,Paraguay
+2015-01-01,PRY,Paraguay
+2016-01-01,PRY,Paraguay
+2017-01-01,PRY,Paraguay
+2018-01-01,PRY,Paraguay
+2019-01-01,PRY,Paraguay
+2011-01-01,PSE,West Bank and Gaza
+2012-01-01,PSE,West Bank and Gaza
+2013-01-01,PSE,West Bank and Gaza
+2014-01-01,PSE,West Bank and Gaza
+2015-01-01,PSE,West Bank and Gaza
+2016-01-01,PSE,West Bank and Gaza
+2008-01-01,PSS,Pacific island small states
+2009-01-01,PSS,Pacific island small states
+2010-01-01,PSS,Pacific island small states
+2011-01-01,PSS,Pacific island small states
+2012-01-01,PSS,Pacific island small states
+2013-01-01,PSS,Pacific island small states
+2014-01-01,PSS,Pacific island small states
+2015-01-01,PSS,Pacific island small states
+2016-01-01,PSS,Pacific island small states
+2017-01-01,PSS,Pacific island small states
+2018-01-01,PSS,Pacific island small states
+2019-01-01,PSS,Pacific island small states
+2008-01-01,PST,Post-demographic dividend
+2009-01-01,PST,Post-demographic dividend
+2010-01-01,PST,Post-demographic dividend
+2011-01-01,PST,Post-demographic dividend
+2012-01-01,PST,Post-demographic dividend
+2013-01-01,PST,Post-demographic dividend
+2014-01-01,PST,Post-demographic dividend
+2015-01-01,PST,Post-demographic dividend
+2016-01-01,PST,Post-demographic dividend
+2017-01-01,PST,Post-demographic dividend
+2018-01-01,PST,Post-demographic dividend
+2019-01-01,PST,Post-demographic dividend
+2005-01-01,PYF,French Polynesia
+2006-01-01,PYF,French Polynesia
+2007-01-01,PYF,French Polynesia
+2008-01-01,PYF,French Polynesia
+2009-01-01,PYF,French Polynesia
+2010-01-01,PYF,French Polynesia
+2011-01-01,PYF,French Polynesia
+2012-01-01,PYF,French Polynesia
+2013-01-01,PYF,French Polynesia
+2014-01-01,PYF,French Polynesia
+2015-01-01,PYF,French Polynesia
+2016-01-01,PYF,French Polynesia
+2008-01-01,QAT,Qatar
+2009-01-01,QAT,Qatar
+2010-01-01,QAT,Qatar
+2011-01-01,QAT,Qatar
+2012-01-01,QAT,Qatar
+2013-01-01,QAT,Qatar
+2014-01-01,QAT,Qatar
+2015-01-01,QAT,Qatar
+2016-01-01,QAT,Qatar
+2017-01-01,QAT,Qatar
+2018-01-01,QAT,Qatar
+2019-01-01,QAT,Qatar
+2008-01-01,ROU,Romania
+2009-01-01,ROU,Romania
+2010-01-01,ROU,Romania
+2011-01-01,ROU,Romania
+2012-01-01,ROU,Romania
+2013-01-01,ROU,Romania
+2014-01-01,ROU,Romania
+2015-01-01,ROU,Romania
+2016-01-01,ROU,Romania
+2017-01-01,ROU,Romania
+2018-01-01,ROU,Romania
+2019-01-01,ROU,Romania
+2008-01-01,RUS,Russian Federation
+2009-01-01,RUS,Russian Federation
+2010-01-01,RUS,Russian Federation
+2011-01-01,RUS,Russian Federation
+2012-01-01,RUS,Russian Federation
+2013-01-01,RUS,Russian Federation
+2014-01-01,RUS,Russian Federation
+2015-01-01,RUS,Russian Federation
+2016-01-01,RUS,Russian Federation
+2017-01-01,RUS,Russian Federation
+2018-01-01,RUS,Russian Federation
+2019-01-01,RUS,Russian Federation
+2008-01-01,RWA,Rwanda
+2009-01-01,RWA,Rwanda
+2010-01-01,RWA,Rwanda
+2011-01-01,RWA,Rwanda
+2012-01-01,RWA,Rwanda
+2013-01-01,RWA,Rwanda
+2014-01-01,RWA,Rwanda
+2015-01-01,RWA,Rwanda
+2016-01-01,RWA,Rwanda
+2017-01-01,RWA,Rwanda
+2018-01-01,RWA,Rwanda
+2019-01-01,RWA,Rwanda
+2008-01-01,SAS,South Asia
+2009-01-01,SAS,South Asia
+2010-01-01,SAS,South Asia
+2011-01-01,SAS,South Asia
+2012-01-01,SAS,South Asia
+2013-01-01,SAS,South Asia
+2014-01-01,SAS,South Asia
+2015-01-01,SAS,South Asia
+2016-01-01,SAS,South Asia
+2017-01-01,SAS,South Asia
+2018-01-01,SAS,South Asia
+2019-01-01,SAS,South Asia
+2008-01-01,SAU,Saudi Arabia
+2009-01-01,SAU,Saudi Arabia
+2010-01-01,SAU,Saudi Arabia
+2011-01-01,SAU,Saudi Arabia
+2012-01-01,SAU,Saudi Arabia
+2013-01-01,SAU,Saudi Arabia
+2014-01-01,SAU,Saudi Arabia
+2015-01-01,SAU,Saudi Arabia
+2016-01-01,SAU,Saudi Arabia
+2017-01-01,SAU,Saudi Arabia
+2018-01-01,SAU,Saudi Arabia
+2019-01-01,SAU,Saudi Arabia
+2008-01-01,SDN,Sudan
+2009-01-01,SDN,Sudan
+2010-01-01,SDN,Sudan
+2011-01-01,SDN,Sudan
+2012-01-01,SDN,Sudan
+2013-01-01,SDN,Sudan
+2014-01-01,SDN,Sudan
+2015-01-01,SDN,Sudan
+2016-01-01,SDN,Sudan
+2017-01-01,SDN,Sudan
+2018-01-01,SDN,Sudan
+2019-01-01,SDN,Sudan
+2008-01-01,SEN,Senegal
+2009-01-01,SEN,Senegal
+2010-01-01,SEN,Senegal
+2011-01-01,SEN,Senegal
+2012-01-01,SEN,Senegal
+2013-01-01,SEN,Senegal
+2014-01-01,SEN,Senegal
+2015-01-01,SEN,Senegal
+2016-01-01,SEN,Senegal
+2017-01-01,SEN,Senegal
+2018-01-01,SEN,Senegal
+2019-01-01,SEN,Senegal
+2008-01-01,SGP,Singapore
+2009-01-01,SGP,Singapore
+2010-01-01,SGP,Singapore
+2011-01-01,SGP,Singapore
+2012-01-01,SGP,Singapore
+2013-01-01,SGP,Singapore
+2014-01-01,SGP,Singapore
+2015-01-01,SGP,Singapore
+2016-01-01,SGP,Singapore
+2017-01-01,SGP,Singapore
+2018-01-01,SGP,Singapore
+2019-01-01,SGP,Singapore
+2008-01-01,SLB,Solomon Islands
+2009-01-01,SLB,Solomon Islands
+2010-01-01,SLB,Solomon Islands
+2011-01-01,SLB,Solomon Islands
+2012-01-01,SLB,Solomon Islands
+2013-01-01,SLB,Solomon Islands
+2014-01-01,SLB,Solomon Islands
+2015-01-01,SLB,Solomon Islands
+2016-01-01,SLB,Solomon Islands
+2017-01-01,SLB,Solomon Islands
+2018-01-01,SLB,Solomon Islands
+2019-01-01,SLB,Solomon Islands
+2008-01-01,SLE,Sierra Leone
+2009-01-01,SLE,Sierra Leone
+2010-01-01,SLE,Sierra Leone
+2011-01-01,SLE,Sierra Leone
+2012-01-01,SLE,Sierra Leone
+2013-01-01,SLE,Sierra Leone
+2014-01-01,SLE,Sierra Leone
+2015-01-01,SLE,Sierra Leone
+2016-01-01,SLE,Sierra Leone
+2017-01-01,SLE,Sierra Leone
+2018-01-01,SLE,Sierra Leone
+2019-01-01,SLE,Sierra Leone
+2008-01-01,SLV,El Salvador
+2009-01-01,SLV,El Salvador
+2010-01-01,SLV,El Salvador
+2011-01-01,SLV,El Salvador
+2012-01-01,SLV,El Salvador
+2013-01-01,SLV,El Salvador
+2014-01-01,SLV,El Salvador
+2015-01-01,SLV,El Salvador
+2016-01-01,SLV,El Salvador
+2017-01-01,SLV,El Salvador
+2018-01-01,SLV,El Salvador
+2019-01-01,SLV,El Salvador
+2008-01-01,SOM,Somalia
+2009-01-01,SOM,Somalia
+2010-01-01,SOM,Somalia
+2011-01-01,SOM,Somalia
+2012-01-01,SOM,Somalia
+2013-01-01,SOM,Somalia
+2014-01-01,SOM,Somalia
+2015-01-01,SOM,Somalia
+2016-01-01,SOM,Somalia
+2017-01-01,SOM,Somalia
+2018-01-01,SOM,Somalia
+2019-01-01,SOM,Somalia
+2014-01-01,SRB,Serbia
+2015-01-01,SRB,Serbia
+2016-01-01,SRB,Serbia
+2017-01-01,SRB,Serbia
+2018-01-01,SRB,Serbia
+2019-01-01,SRB,Serbia
+2008-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2009-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2010-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2011-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2012-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2013-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2014-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2015-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2016-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2017-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2018-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2019-01-01,SSA,Sub-Saharan Africa (excluding high income)
+2014-01-01,SSD,South Sudan
+2015-01-01,SSD,South Sudan
+2016-01-01,SSD,South Sudan
+2017-01-01,SSD,South Sudan
+2018-01-01,SSD,South Sudan
+2019-01-01,SSD,South Sudan
+2008-01-01,SSF,Sub-Saharan Africa
+2009-01-01,SSF,Sub-Saharan Africa
+2010-01-01,SSF,Sub-Saharan Africa
+2011-01-01,SSF,Sub-Saharan Africa
+2012-01-01,SSF,Sub-Saharan Africa
+2013-01-01,SSF,Sub-Saharan Africa
+2014-01-01,SSF,Sub-Saharan Africa
+2015-01-01,SSF,Sub-Saharan Africa
+2016-01-01,SSF,Sub-Saharan Africa
+2017-01-01,SSF,Sub-Saharan Africa
+2018-01-01,SSF,Sub-Saharan Africa
+2019-01-01,SSF,Sub-Saharan Africa
+2008-01-01,SST,Small states
+2009-01-01,SST,Small states
+2010-01-01,SST,Small states
+2011-01-01,SST,Small states
+2012-01-01,SST,Small states
+2013-01-01,SST,Small states
+2014-01-01,SST,Small states
+2015-01-01,SST,Small states
+2016-01-01,SST,Small states
+2017-01-01,SST,Small states
+2018-01-01,SST,Small states
+2019-01-01,SST,Small states
+2008-01-01,STP,Sao Tome and Principe
+2009-01-01,STP,Sao Tome and Principe
+2010-01-01,STP,Sao Tome and Principe
+2011-01-01,STP,Sao Tome and Principe
+2012-01-01,STP,Sao Tome and Principe
+2013-01-01,STP,Sao Tome and Principe
+2014-01-01,STP,Sao Tome and Principe
+2015-01-01,STP,Sao Tome and Principe
+2016-01-01,STP,Sao Tome and Principe
+2017-01-01,STP,Sao Tome and Principe
+2018-01-01,STP,Sao Tome and Principe
+2019-01-01,STP,Sao Tome and Principe
+2008-01-01,SUR,Suriname
+2009-01-01,SUR,Suriname
+2010-01-01,SUR,Suriname
+2011-01-01,SUR,Suriname
+2012-01-01,SUR,Suriname
+2013-01-01,SUR,Suriname
+2014-01-01,SUR,Suriname
+2015-01-01,SUR,Suriname
+2016-01-01,SUR,Suriname
+2017-01-01,SUR,Suriname
+2018-01-01,SUR,Suriname
+2019-01-01,SUR,Suriname
+2014-01-01,SVK,Slovak Republic
+2015-01-01,SVK,Slovak Republic
+2016-01-01,SVK,Slovak Republic
+2017-01-01,SVK,Slovak Republic
+2018-01-01,SVK,Slovak Republic
+2019-01-01,SVK,Slovak Republic
+2014-01-01,SVN,Slovenia
+2015-01-01,SVN,Slovenia
+2016-01-01,SVN,Slovenia
+2017-01-01,SVN,Slovenia
+2018-01-01,SVN,Slovenia
+2019-01-01,SVN,Slovenia
+2008-01-01,SWE,Sweden
+2009-01-01,SWE,Sweden
+2010-01-01,SWE,Sweden
+2011-01-01,SWE,Sweden
+2012-01-01,SWE,Sweden
+2013-01-01,SWE,Sweden
+2014-01-01,SWE,Sweden
+2015-01-01,SWE,Sweden
+2016-01-01,SWE,Sweden
+2017-01-01,SWE,Sweden
+2018-01-01,SWE,Sweden
+2019-01-01,SWE,Sweden
+2008-01-01,SWZ,Eswatini
+2009-01-01,SWZ,Eswatini
+2010-01-01,SWZ,Eswatini
+2011-01-01,SWZ,Eswatini
+2012-01-01,SWZ,Eswatini
+2013-01-01,SWZ,Eswatini
+2014-01-01,SWZ,Eswatini
+2015-01-01,SWZ,Eswatini
+2016-01-01,SWZ,Eswatini
+2017-01-01,SWZ,Eswatini
+2018-01-01,SWZ,Eswatini
+2019-01-01,SWZ,Eswatini
+2014-01-01,SXM,Sint Maarten (Dutch part)
+2008-01-01,SYC,Seychelles
+2009-01-01,SYC,Seychelles
+2010-01-01,SYC,Seychelles
+2011-01-01,SYC,Seychelles
+2012-01-01,SYC,Seychelles
+2013-01-01,SYC,Seychelles
+2014-01-01,SYC,Seychelles
+2015-01-01,SYC,Seychelles
+2016-01-01,SYC,Seychelles
+2017-01-01,SYC,Seychelles
+2018-01-01,SYC,Seychelles
+2019-01-01,SYC,Seychelles
+2008-01-01,SYR,Syrian Arab Republic
+2009-01-01,SYR,Syrian Arab Republic
+2010-01-01,SYR,Syrian Arab Republic
+2011-01-01,SYR,Syrian Arab Republic
+2012-01-01,SYR,Syrian Arab Republic
+2013-01-01,SYR,Syrian Arab Republic
+2014-01-01,SYR,Syrian Arab Republic
+2015-01-01,SYR,Syrian Arab Republic
+2016-01-01,SYR,Syrian Arab Republic
+2017-01-01,SYR,Syrian Arab Republic
+2018-01-01,SYR,Syrian Arab Republic
+2019-01-01,SYR,Syrian Arab Republic
+2011-01-01,TCA,Turks and Caicos Islands
+2012-01-01,TCA,Turks and Caicos Islands
+2013-01-01,TCA,Turks and Caicos Islands
+2014-01-01,TCA,Turks and Caicos Islands
+2015-01-01,TCA,Turks and Caicos Islands
+2016-01-01,TCA,Turks and Caicos Islands
+2008-01-01,TCD,Chad
+2009-01-01,TCD,Chad
+2010-01-01,TCD,Chad
+2011-01-01,TCD,Chad
+2012-01-01,TCD,Chad
+2013-01-01,TCD,Chad
+2014-01-01,TCD,Chad
+2015-01-01,TCD,Chad
+2016-01-01,TCD,Chad
+2017-01-01,TCD,Chad
+2018-01-01,TCD,Chad
+2019-01-01,TCD,Chad
+2008-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2009-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2010-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2011-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2012-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2013-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2014-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2015-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2016-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2017-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2018-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2019-01-01,TEA,East Asia & Pacific (IDA & IBRD countries)
+2008-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2009-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2010-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2011-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2012-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2013-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2014-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2015-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2016-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2017-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2018-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2019-01-01,TEC,Europe & Central Asia (IDA & IBRD countries)
+2008-01-01,TGO,Togo
+2009-01-01,TGO,Togo
+2010-01-01,TGO,Togo
+2011-01-01,TGO,Togo
+2012-01-01,TGO,Togo
+2013-01-01,TGO,Togo
+2014-01-01,TGO,Togo
+2015-01-01,TGO,Togo
+2016-01-01,TGO,Togo
+2017-01-01,TGO,Togo
+2018-01-01,TGO,Togo
+2019-01-01,TGO,Togo
+2008-01-01,THA,Thailand
+2009-01-01,THA,Thailand
+2010-01-01,THA,Thailand
+2011-01-01,THA,Thailand
+2012-01-01,THA,Thailand
+2013-01-01,THA,Thailand
+2014-01-01,THA,Thailand
+2015-01-01,THA,Thailand
+2016-01-01,THA,Thailand
+2017-01-01,THA,Thailand
+2018-01-01,THA,Thailand
+2019-01-01,THA,Thailand
+2014-01-01,TJK,Tajikistan
+2015-01-01,TJK,Tajikistan
+2016-01-01,TJK,Tajikistan
+2017-01-01,TJK,Tajikistan
+2018-01-01,TJK,Tajikistan
+2019-01-01,TJK,Tajikistan
+2014-01-01,TKM,Turkmenistan
+2015-01-01,TKM,Turkmenistan
+2016-01-01,TKM,Turkmenistan
+2017-01-01,TKM,Turkmenistan
+2018-01-01,TKM,Turkmenistan
+2019-01-01,TKM,Turkmenistan
+2008-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2009-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2010-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2011-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2012-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2013-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2014-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2015-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2016-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2017-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2018-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2019-01-01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2016-01-01,TLS,Timor-Leste
+2017-01-01,TLS,Timor-Leste
+2018-01-01,TLS,Timor-Leste
+2019-01-01,TLS,Timor-Leste
+2008-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2009-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2010-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2011-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2012-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2013-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2014-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2015-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2016-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2017-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2018-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2019-01-01,TMN,Middle East & North Africa (IDA & IBRD countries)
+2008-01-01,TON,Tonga
+2009-01-01,TON,Tonga
+2010-01-01,TON,Tonga
+2011-01-01,TON,Tonga
+2012-01-01,TON,Tonga
+2013-01-01,TON,Tonga
+2014-01-01,TON,Tonga
+2015-01-01,TON,Tonga
+2016-01-01,TON,Tonga
+2017-01-01,TON,Tonga
+2018-01-01,TON,Tonga
+2019-01-01,TON,Tonga
+2008-01-01,TSA,South Asia (IDA & IBRD)
+2009-01-01,TSA,South Asia (IDA & IBRD)
+2010-01-01,TSA,South Asia (IDA & IBRD)
+2011-01-01,TSA,South Asia (IDA & IBRD)
+2012-01-01,TSA,South Asia (IDA & IBRD)
+2013-01-01,TSA,South Asia (IDA & IBRD)
+2014-01-01,TSA,South Asia (IDA & IBRD)
+2015-01-01,TSA,South Asia (IDA & IBRD)
+2016-01-01,TSA,South Asia (IDA & IBRD)
+2017-01-01,TSA,South Asia (IDA & IBRD)
+2018-01-01,TSA,South Asia (IDA & IBRD)
+2019-01-01,TSA,South Asia (IDA & IBRD)
+2008-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2009-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2010-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2011-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2012-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2013-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2014-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2015-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2016-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2017-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2018-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2019-01-01,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2008-01-01,TTO,Trinidad and Tobago
+2009-01-01,TTO,Trinidad and Tobago
+2010-01-01,TTO,Trinidad and Tobago
+2011-01-01,TTO,Trinidad and Tobago
+2012-01-01,TTO,Trinidad and Tobago
+2013-01-01,TTO,Trinidad and Tobago
+2014-01-01,TTO,Trinidad and Tobago
+2015-01-01,TTO,Trinidad and Tobago
+2016-01-01,TTO,Trinidad and Tobago
+2017-01-01,TTO,Trinidad and Tobago
+2018-01-01,TTO,Trinidad and Tobago
+2019-01-01,TTO,Trinidad and Tobago
+2008-01-01,TUN,Tunisia
+2009-01-01,TUN,Tunisia
+2010-01-01,TUN,Tunisia
+2011-01-01,TUN,Tunisia
+2012-01-01,TUN,Tunisia
+2013-01-01,TUN,Tunisia
+2014-01-01,TUN,Tunisia
+2015-01-01,TUN,Tunisia
+2016-01-01,TUN,Tunisia
+2017-01-01,TUN,Tunisia
+2018-01-01,TUN,Tunisia
+2019-01-01,TUN,Tunisia
+2008-01-01,TUR,Turkiye
+2009-01-01,TUR,Turkiye
+2010-01-01,TUR,Turkiye
+2011-01-01,TUR,Turkiye
+2012-01-01,TUR,Turkiye
+2013-01-01,TUR,Turkiye
+2014-01-01,TUR,Turkiye
+2015-01-01,TUR,Turkiye
+2016-01-01,TUR,Turkiye
+2017-01-01,TUR,Turkiye
+2018-01-01,TUR,Turkiye
+2019-01-01,TUR,Turkiye
+2014-01-01,TUV,Tuvalu
+2015-01-01,TUV,Tuvalu
+2016-01-01,TUV,Tuvalu
+2017-01-01,TUV,Tuvalu
+2018-01-01,TUV,Tuvalu
+2019-01-01,TUV,Tuvalu
+2008-01-01,TZA,Tanzania
+2009-01-01,TZA,Tanzania
+2010-01-01,TZA,Tanzania
+2011-01-01,TZA,Tanzania
+2012-01-01,TZA,Tanzania
+2013-01-01,TZA,Tanzania
+2014-01-01,TZA,Tanzania
+2015-01-01,TZA,Tanzania
+2016-01-01,TZA,Tanzania
+2017-01-01,TZA,Tanzania
+2018-01-01,TZA,Tanzania
+2019-01-01,TZA,Tanzania
+2008-01-01,UGA,Uganda
+2009-01-01,UGA,Uganda
+2010-01-01,UGA,Uganda
+2011-01-01,UGA,Uganda
+2012-01-01,UGA,Uganda
+2013-01-01,UGA,Uganda
+2014-01-01,UGA,Uganda
+2015-01-01,UGA,Uganda
+2016-01-01,UGA,Uganda
+2017-01-01,UGA,Uganda
+2018-01-01,UGA,Uganda
+2019-01-01,UGA,Uganda
+2014-01-01,UKR,Ukraine
+2015-01-01,UKR,Ukraine
+2016-01-01,UKR,Ukraine
+2017-01-01,UKR,Ukraine
+2018-01-01,UKR,Ukraine
+2019-01-01,UKR,Ukraine
+2008-01-01,UMC,Upper middle income
+2009-01-01,UMC,Upper middle income
+2010-01-01,UMC,Upper middle income
+2011-01-01,UMC,Upper middle income
+2012-01-01,UMC,Upper middle income
+2013-01-01,UMC,Upper middle income
+2014-01-01,UMC,Upper middle income
+2015-01-01,UMC,Upper middle income
+2016-01-01,UMC,Upper middle income
+2017-01-01,UMC,Upper middle income
+2018-01-01,UMC,Upper middle income
+2019-01-01,UMC,Upper middle income
+2008-01-01,URY,Uruguay
+2009-01-01,URY,Uruguay
+2010-01-01,URY,Uruguay
+2011-01-01,URY,Uruguay
+2012-01-01,URY,Uruguay
+2013-01-01,URY,Uruguay
+2014-01-01,URY,Uruguay
+2015-01-01,URY,Uruguay
+2016-01-01,URY,Uruguay
+2017-01-01,URY,Uruguay
+2018-01-01,URY,Uruguay
+2019-01-01,URY,Uruguay
+2008-01-01,USA,United States
+2009-01-01,USA,United States
+2010-01-01,USA,United States
+2011-01-01,USA,United States
+2012-01-01,USA,United States
+2013-01-01,USA,United States
+2014-01-01,USA,United States
+2015-01-01,USA,United States
+2016-01-01,USA,United States
+2017-01-01,USA,United States
+2018-01-01,USA,United States
+2019-01-01,USA,United States
+2014-01-01,UZB,Uzbekistan
+2015-01-01,UZB,Uzbekistan
+2016-01-01,UZB,Uzbekistan
+2017-01-01,UZB,Uzbekistan
+2018-01-01,UZB,Uzbekistan
+2019-01-01,UZB,Uzbekistan
+2008-01-01,VCT,St. Vincent and the Grenadines
+2009-01-01,VCT,St. Vincent and the Grenadines
+2010-01-01,VCT,St. Vincent and the Grenadines
+2011-01-01,VCT,St. Vincent and the Grenadines
+2012-01-01,VCT,St. Vincent and the Grenadines
+2013-01-01,VCT,St. Vincent and the Grenadines
+2014-01-01,VCT,St. Vincent and the Grenadines
+2015-01-01,VCT,St. Vincent and the Grenadines
+2016-01-01,VCT,St. Vincent and the Grenadines
+2017-01-01,VCT,St. Vincent and the Grenadines
+2018-01-01,VCT,St. Vincent and the Grenadines
+2019-01-01,VCT,St. Vincent and the Grenadines
+2008-01-01,VEN,"Venezuela, RB"
+2009-01-01,VEN,"Venezuela, RB"
+2010-01-01,VEN,"Venezuela, RB"
+2011-01-01,VEN,"Venezuela, RB"
+2012-01-01,VEN,"Venezuela, RB"
+2013-01-01,VEN,"Venezuela, RB"
+2014-01-01,VEN,"Venezuela, RB"
+2015-01-01,VEN,"Venezuela, RB"
+2016-01-01,VEN,"Venezuela, RB"
+2017-01-01,VEN,"Venezuela, RB"
+2018-01-01,VEN,"Venezuela, RB"
+2019-01-01,VEN,"Venezuela, RB"
+2006-01-01,VGB,British Virgin Islands
+2007-01-01,VGB,British Virgin Islands
+2008-01-01,VGB,British Virgin Islands
+2009-01-01,VGB,British Virgin Islands
+2010-01-01,VGB,British Virgin Islands
+2011-01-01,VGB,British Virgin Islands
+2012-01-01,VGB,British Virgin Islands
+2013-01-01,VGB,British Virgin Islands
+2014-01-01,VGB,British Virgin Islands
+2015-01-01,VGB,British Virgin Islands
+2016-01-01,VGB,British Virgin Islands
+2008-01-01,VNM,Vietnam
+2009-01-01,VNM,Vietnam
+2010-01-01,VNM,Vietnam
+2011-01-01,VNM,Vietnam
+2012-01-01,VNM,Vietnam
+2013-01-01,VNM,Vietnam
+2014-01-01,VNM,Vietnam
+2015-01-01,VNM,Vietnam
+2016-01-01,VNM,Vietnam
+2017-01-01,VNM,Vietnam
+2018-01-01,VNM,Vietnam
+2019-01-01,VNM,Vietnam
+2008-01-01,VUT,Vanuatu
+2009-01-01,VUT,Vanuatu
+2010-01-01,VUT,Vanuatu
+2011-01-01,VUT,Vanuatu
+2012-01-01,VUT,Vanuatu
+2013-01-01,VUT,Vanuatu
+2014-01-01,VUT,Vanuatu
+2015-01-01,VUT,Vanuatu
+2016-01-01,VUT,Vanuatu
+2017-01-01,VUT,Vanuatu
+2018-01-01,VUT,Vanuatu
+2019-01-01,VUT,Vanuatu
+2008-01-01,WLD,World
+2009-01-01,WLD,World
+2010-01-01,WLD,World
+2011-01-01,WLD,World
+2012-01-01,WLD,World
+2013-01-01,WLD,World
+2014-01-01,WLD,World
+2015-01-01,WLD,World
+2016-01-01,WLD,World
+2017-01-01,WLD,World
+2018-01-01,WLD,World
+2019-01-01,WLD,World
+2008-01-01,WSM,Samoa
+2009-01-01,WSM,Samoa
+2010-01-01,WSM,Samoa
+2011-01-01,WSM,Samoa
+2012-01-01,WSM,Samoa
+2013-01-01,WSM,Samoa
+2014-01-01,WSM,Samoa
+2015-01-01,WSM,Samoa
+2016-01-01,WSM,Samoa
+2017-01-01,WSM,Samoa
+2018-01-01,WSM,Samoa
+2019-01-01,WSM,Samoa
+2015-01-01,XKX,Kosovo
+2016-01-01,XKX,Kosovo
+2008-01-01,YEM,"Yemen, Rep."
+2009-01-01,YEM,"Yemen, Rep."
+2010-01-01,YEM,"Yemen, Rep."
+2011-01-01,YEM,"Yemen, Rep."
+2012-01-01,YEM,"Yemen, Rep."
+2013-01-01,YEM,"Yemen, Rep."
+2014-01-01,YEM,"Yemen, Rep."
+2015-01-01,YEM,"Yemen, Rep."
+2016-01-01,YEM,"Yemen, Rep."
+2017-01-01,YEM,"Yemen, Rep."
+2018-01-01,YEM,"Yemen, Rep."
+2019-01-01,YEM,"Yemen, Rep."
+2008-01-01,ZAF,South Africa
+2009-01-01,ZAF,South Africa
+2010-01-01,ZAF,South Africa
+2011-01-01,ZAF,South Africa
+2012-01-01,ZAF,South Africa
+2013-01-01,ZAF,South Africa
+2014-01-01,ZAF,South Africa
+2015-01-01,ZAF,South Africa
+2016-01-01,ZAF,South Africa
+2017-01-01,ZAF,South Africa
+2018-01-01,ZAF,South Africa
+2019-01-01,ZAF,South Africa
+2008-01-01,ZMB,Zambia
+2009-01-01,ZMB,Zambia
+2010-01-01,ZMB,Zambia
+2011-01-01,ZMB,Zambia
+2012-01-01,ZMB,Zambia
+2013-01-01,ZMB,Zambia
+2014-01-01,ZMB,Zambia
+2015-01-01,ZMB,Zambia
+2016-01-01,ZMB,Zambia
+2017-01-01,ZMB,Zambia
+2018-01-01,ZMB,Zambia
+2019-01-01,ZMB,Zambia
+2008-01-01,ZWE,Zimbabwe
+2009-01-01,ZWE,Zimbabwe
+2010-01-01,ZWE,Zimbabwe
+2011-01-01,ZWE,Zimbabwe
+2012-01-01,ZWE,Zimbabwe
+2013-01-01,ZWE,Zimbabwe
+2014-01-01,ZWE,Zimbabwe
+2015-01-01,ZWE,Zimbabwe
+2016-01-01,ZWE,Zimbabwe
+2017-01-01,ZWE,Zimbabwe
+2018-01-01,ZWE,Zimbabwe
+2019-01-01,ZWE,Zimbabwe

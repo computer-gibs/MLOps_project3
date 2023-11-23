@@ -15,11 +15,11 @@ def prepare_data(file_path):
     for country, group in grouped:
         group = group.sort_values('year')
         
-        # Проверка на последовательность годов
+        # проверка на последовательность годов
         group.set_index('year', inplace=True)
         group = group.asfreq('YS')
         
-        # group['value'] = group['value'].interpolate()
+        group['value'] = group['value'].interpolate()
         
         prepared_data_list.append(group.reset_index())
 
