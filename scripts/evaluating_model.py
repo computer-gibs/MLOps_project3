@@ -1,28 +1,31 @@
 import pandas as pd
-from sklearn.metrics import mean_squared_error
+import os
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 import joblib
-import numpy as np
 
-def evaluate_model(model_path, X_test_path, y_test_path):
-    model = joblib.load(model_path)
-    
-    X_test = pd.read_csv(X_test_path)
-    y_test = pd.read_csv(y_test_path)
-    
-    X_test['year'] = pd.to_datetime(X_test['year']).dt.year
-    
-    predictions = model.predict(X_test)
-    
-    mse = mean_squared_error(y_test, predictions)
-    rmse = np.sqrt(mse)
-    
-    print(f"Mean Squared Error: {mse}")
-    print(f"Root Mean Squared Error: {rmse}")
-    
-    return mse, rmse
+current_dir = os.path.dirname(__file__)
+data_dir = os.path.join(current_dir, '..', 'data')
+models_dir = os.path.join(current_dir, '..', 'models')
 
-model_path = '../models/co2_emission_predictor_model.pkl'
-X_test_path = '../data/X_test.csv'
-y_test_path = '../data/y_test.csv'
+test_file_path = os.path.join(data_dir, 'test_set.csv')
+test_data = pd.read_csv(test_file_path)
 
-mse, rmse = evaluate_model(model_path, X_test_path, y_test_path)
+X_test = test_data[['year']]
+y_test = test_data['value']
+
+model_file_path = os.path.join(models_dir, 'co2_emissions_model.joblib')
+model = joblib.load(model_file_path)
+
+y_pred = model.predict(X_test)
+
+mae = mean_absolute_error(y_test, y_pred)
+mse = mean_squared_error(y_test, y_pred)
+
+print(f"Средняя абсолютная ошибка (MAE): {mae:.2f}")
+print(f"Среднеквадратическая ошибка (MSE): {mse:.2f}")
+
+results_file_path = os.path.join(models_dir, 'model_evaluation_results.txt')
+with open(results_file_path, 'w') as file:
+    file.write(f"Средняя абсолютная ошибка (MAE): {mae:.2f}\n")
+    file.write(f"Среднеквадратическая ошибка (MSE): {mse:.2f}\n")
