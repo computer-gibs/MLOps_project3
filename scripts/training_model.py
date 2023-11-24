@@ -1,36 +1,23 @@
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
+import os
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
 import joblib
 
-def train_model(X_train_path, y_train_path, model_save_path):
-    X_train = pd.read_csv(X_train_path)
-    y_train = pd.read_csv(y_train_path)
-    
-    X_train['year'] = pd.to_datetime(X_train['year']).dt.year
-    
-    categorical_features = X_train.select_dtypes(include=['object']).columns.tolist()
-    categorical_transformer = OneHotEncoder(handle_unknown='ignore')
-    
-    preprocessor = ColumnTransformer(
-        transformers=[
-            ('cat', categorical_transformer, categorical_features)],
-        remainder='passthrough')
-    
-    pipeline = Pipeline(steps=[('preprocessor', preprocessor),
-                               ('model', RandomForestRegressor(n_estimators=10000, random_state=42))])
-    
-    pipeline.fit(X_train, y_train.values.ravel())
-    
-    joblib.dump(pipeline, model_save_path)
-    
-    return pipeline
+current_dir = os.path.dirname(__file__)
+data_dir = os.path.join(current_dir, '..', 'data')
+models_dir = os.path.join(current_dir, '..', 'models')
 
-X_train_path = '../data/X_train.csv'
-y_train_path = '../data/y_train.csv'
+train_file_path = os.path.join(data_dir, 'train_set.csv')
+train_data = pd.read_csv(train_file_path)
 
-model_save_path = '../models/co2_emission_predictor_model.pkl'
+#Предполагаем, что 'value' - это целевая переменная, а 'year' - единственная предикторная переменная
+X = train_data[['year']]
+y = train_data['value']
 
-trained_model = train_model(X_train_path, y_train_path, model_save_path)
+#Создание и обучение модели линейной регрессии
+model = LinearRegression()
+model.fit(X, y)
+
+model_file_path = os.path.join(models_dir, 'co2_emissions_model.joblib')
+joblib.dump(model, model_file_path)
