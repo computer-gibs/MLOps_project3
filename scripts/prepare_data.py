@@ -1,33 +1,21 @@
 import pandas as pd
+import os
 
-def prepare_data(file_path):
-    data = pd.read_csv(file_path)
-    
-    data['year'] = pd.to_datetime(data['year'], format='%Y')
-    
-    # очистка данных от нулевых или отрицательных значений
-    data = data[data['value'] > 0]
-    
-    # группируем данные по странам и сортируем внутри каждой группы по годам
-    grouped = data.groupby('country_code')
-    prepared_data_list = []
-    
-    for country, group in grouped:
-        group = group.sort_values('year')
-        
-        # проверка на последовательность годов
-        group.set_index('year', inplace=True)
-        group = group.asfreq('YS')
-        
-        group['value'] = group['value'].interpolate()
-        
-        prepared_data_list.append(group.reset_index())
+current_dir = os.path.dirname(__file__)
+data_dir = os.path.join(current_dir, '..', 'data')
 
-    prepared_data = pd.concat(prepared_data_list, ignore_index=True)
-    return prepared_data
+file_path = os.path.join(data_dir, 'co2_emissions_kt_by_country.csv')
+df = pd.read_csv(file_path)
 
-file_path = '../data/co2_emissions_kt_by_country.csv'
+#проверим наличие пропущенных значений
+print("Количество пропущенных значений:")
+print(df.isnull().sum())
 
-prepared_data = prepare_data(file_path)
+#удалим строки с пропущенными значениями, если они есть
+df.dropna(inplace=True)
 
-prepared_data.to_csv('../data/prepared_co2_emissions.csv', index=False)
+#преобразуем значения CO2 из килотонн в мегатонны для удобства
+df['value'] = df['value'] / 1000.0
+
+output_file_path = os.path.join(data_dir, 'co2_emissions_mt_by_country.csv')
+df.to_csv(output_file_path, index=False)
