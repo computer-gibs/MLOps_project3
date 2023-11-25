@@ -12,6 +12,8 @@
 * Pandas
 * Sklearn
 * Kaggle API
+* Airflow
+* MLflow
 
 # Результаты предсказаний
 * Средняя абсолютная ошибка (MAE): 1838.61
